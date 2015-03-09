@@ -1,0 +1,20 @@
+Dwarfdora
+-Like dwarf fortress mixed with pandora
+-play as colonists extracting resrouces/colonizing
+-You can only contorl your character directly,
+-Everything elese relies on orders which can be ignored.
+-Can choose to be Civilian, gov, gov contract
+	-Gov gets less civies and more money less ccontrol over society
+-Can upgrade to get different buildings ie hospital, merc compound.
+
+-Military is more direct control, missiles
+-can have alien threats from mining (mine too deep)
+-space ships can appear which can attack/help
+	-same with mercenaries 
+	-can conduct diplomacy
+	-can choose style of gov for colony
+
+-to justify world map 3rd person control
+	-nav room->clam shell from starwars
+-can talk to people directly or intercomm into brain with style or gov
+-Resource energy management, food and water can upgrade recycle.
