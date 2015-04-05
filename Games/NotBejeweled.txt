@@ -1,0 +1,14 @@
+NotBejeweled
+
+-like bejeweled only you have to select contiguous tiles
+-multiple colors, trails can only be one color
+-score based on how long a trail is
+--------
+-like above but tiles are numbered
+-you form trails through numbers, mabye even diagonally,
+-multiplier based on how long a trail is
+-end score is either
+	-one more tile in the direction you were going X multiplier
+	-Chosen at random from the endpoint
+	-Chosen at random from the chain
+	

@@ -1,0 +1,11 @@
+Cartographer
+
+-You play as an ex-prisoner
+-as a loser of the recent power shift, you have been sent to the recently discovered frozen wastes
+-You now must be a cartographer
+-Primary mechanic is the ability to draw maps which you can use yourself or sell to others
+-Rewarding Exploration 
+-Map over world and ruins/dungeons
+-Can't fight though, have to encourage adventurers to help you
+-their sucess is dependent on your maps (somehow)
+-Survival mechanics, food, water, tiredness, hot, cold
