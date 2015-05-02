@@ -1,0 +1,22 @@
+War is a 2 player game played with a standard deck of 52 cards
+Setup:
+	there is a deck called the center
+	shuffle the deck
+	split the deck into 2 piles
+	each player gains one pile
+Playing:
+	The first player draws a card from their deck and puts it in the center
+	The second player draws a card from their deck and puts it in the center
+	The following function is preformed on the center:
+		If the first card in the center is high:
+			Put the first card into the first player's deck
+			Put the second card into the first player's deck
+		If the second card in the center is high:
+		  	Put the first card into the first player's deck
+			Put the second card into the first player's deck
+		If the cards are the same value:
+			Put the first card into the first player's deck
+			Put the second card into the second player's deck
+Victory:
+	If a player has 52 cards in their deck, they win
+

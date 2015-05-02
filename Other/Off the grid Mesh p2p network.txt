@@ -1,0 +1,8 @@
+Off the grid Mesh p2p network
+
+-Get a bunch of wireless enabled devices
+-Secretly enable them to talk to one another
+-Have them stay silent for the most part
+-Have them be very popular spread all over the place
+-Turn on secret mesh network discretely
+-Second internet

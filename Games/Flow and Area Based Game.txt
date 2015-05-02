@@ -1,0 +1,9 @@
+Flow and Area Based Game
+
+-A game that whose central mechanic is areas and flows.
+-Possibly medevil themed
+-Resource management
+-Some areas require other areas to be connected to them
+-Build up more complicated flow mechanism
+-Missing some intregal goal or challenge
+-Could simulate society or something
