@@ -1,0 +1,16 @@
+The Dawn of Man
+-Text based community RPG ish thing
+-Like an RTS or TBS but text based
+-You control and early stone/bronze age society as it matures
+-Economy
+-Military/Defense/wild animals
+-Food ie farming, fishing hunting
+-Religion
+-Disease
+-Other tribes
+-Politics
+-Some other worldly elememts like comets and radiation
+-Events happen and you have to respond
+	-A villager has gotten wounded, help or not
+	-A near by village is under attack, help or not?
+-Like D&D, detail generates as needed.
