@@ -1,0 +1,5 @@
+-Graph generator for Risk like games
+-X players
+-Each player gets 10 tiles
+-Each player rolls 2, 10 sided die and connects tiles, rerolling if connections already exist
+-Then player rolls again for connecting their graphs to the ones next to them.
