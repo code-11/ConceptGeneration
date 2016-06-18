@@ -1,0 +1,4 @@
+-Get access or scrape a lot of games on steam
+-Collect tags, names, developer,publisher, user reviews, and find out their valuation
+-Learn on the things
+-Try to predict what games will be good

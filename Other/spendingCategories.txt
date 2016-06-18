@@ -1,0 +1,4 @@
+-Use machine learning to learn categories of spending given a csv of card transactions
+-Possibly focus on charles schwab 
+-Show them when done
+-Possbily may need to do semi-supervised, go through and hand label main ones like grocery, large stores and group based on that.

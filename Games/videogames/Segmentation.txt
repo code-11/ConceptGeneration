@@ -1,0 +1,7 @@
+-Turn based fighting game.
+-Somewhat simmilar to d adventure mode fighting
+-have to move individual feet and parts of body
+-center of mass and momentum of body parts are tracked
+-fight with different rules, kickboxing, boxing, wrestling etc even fantasy stuff.
+-could have special moves
+-

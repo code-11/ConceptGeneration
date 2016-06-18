@@ -1,0 +1,14 @@
+-minimalistic drop in mmo
+-play as a grain of sand
+-2d
+-possibly different classes
+  -fighter, 2 health, standard melee attack and speed
+  -archer, 1 helth, ranged attack and regular speed
+  -engineer, 4 health but no attack, can build things
+-possibly senseless melee endless two side churn.
+-possibly more sides
+-possibly PVE
+-definitely local multiplayer
+-possible feature where you can't set up a game unless all others are full
+   -could be handled under cover by the game itself
+   -could switch servers on death
