@@ -1,0 +1,11 @@
+Play as rival civilizations, each in control of a planet
+Your goal is to destroy your rivals
+However, beyond ineffective missiles you can also divert asteroids and disrupt other planetary bodies
+Can trap new moons for protection, create artifical ones, nuke incoming projectiles
+All requires skill shot?
+Map is not revealed, fog of war, must also handle exploring and finding your enemy, missiles only reveal a small area. 
+Could build probes but they do no damage and are expensive.
+Possible resources of energy and metal
+Upgrade your planet
+Utilize energy wells. Points for trick shots?
+Can tech up to giant space lasers
