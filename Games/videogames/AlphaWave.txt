@@ -1,0 +1,14 @@
+On a semi deserted planetoid, you awaken.
+With you is a powerful female of another species who seems to regard you as her leader.
+All around you are signs of massive battle
+She says that you were once supreme leader of a galactic faction and that together you ruled the stars.
+We're destroyed short term by a massive computer that is supposedly still on the asteroid.
+
+Hl2 themed.
+Game is a series of grid based top down, path evaluation.
+Every squ are or perhaps most relate the story to you with text on the square itself.
+Some you may be able to see ahead of time.
+Some paths are physical, left or right, some are relationship choices superimposed onto the ground.
+Could also do combat like this.
+
+Grow in power until you are able to threaten the computer, but was your friend telling you the truth, does it matter?
