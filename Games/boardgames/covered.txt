@@ -1,0 +1,21 @@
+-board game idea
+-rebellion/secret group
+-grid/graph line board
+-2 or 3 players
+-each node of the grid/graph has as many tiles as players +1.
+-game is about information and obscuring it
+- possible ai player
+-can move tiles with swaps. Swaps always involve 3 tiles. You can only swap with tiles of your side/color. Active slot means you can swap the unit with that tile. All other slots are passive slots which you can pick up and which appear to be part of the transaction but only serve to confuse the enemy.
+-unit scout: can swap with anywhere on the board, one active slot. Ability: can reveal all tiles in the square it is in. After using this ability, perform another swap.
+-unit squad: can swap with anywhere 1(perhaps 2?) node away from current position. Ability: can declare attack. The player calls out a type of tile in any slot on the node that the squad is in. If he/she calls it right the unit can be replaced with a empty tile. If the revealed tile is a neutral town, the player can add a base tile of their color to the node. Then squad is then used up (?)/ has to move (?)
+-unit agent: can swap with anywhere 2 (perhaps 3?) Nodes away from current position. Ability: converts a tile from the same node he is on from one side to another. Tiles are revealed. Then agent is used up (?)/ has to move
+-unit base: provides money (?) Perhaps makes units (?). If you loose all of these you loose. Can swap with anywhere but has no active slots (Ie cannot actually move)
+
+-mechanics
+-start with a base and a number of units 
+-may be able to make more
+-2 of each type of unit
+-do simultaneous turns (?). Write down what move you are going to make ie ABC, means a swap involving ABC and whether or not you are using an ability. * or no *
+-player order is randomized to begin with 
+-don't cheat
+-There is a ledger of previous moves so memorization is not a factor
