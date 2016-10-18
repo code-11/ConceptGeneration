@@ -14,6 +14,7 @@ Places Mentioned:
 -West Field
 -Dor's Crag
 -THe Silent Library
+-Wildermark (new southern merchant established town)
 
 Peoples Mentioned:
 Northerners
@@ -21,6 +22,9 @@ Southerners
 Dwarves
 Elves
 Gnomes
+
+Gods Mentioned
+Geremon
 
 
 Plot Points
