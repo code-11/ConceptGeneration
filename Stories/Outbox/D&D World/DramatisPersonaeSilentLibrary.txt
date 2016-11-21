@@ -1,4 +1,11 @@
 dramatis personae for silent library
+
+TODO:
+Fix Thompson introduction
+Introduce Germain's wife and backstory.
+
+Rose - Germain's wife.
+
 Germain Lemarr - Northern Spellblade of god of strength
 Aster LaRouche-
 Enton Haverson- Background in war, meeting with Aster, briefly touched on master.
@@ -29,6 +36,7 @@ Gods Mentioned
 Geremon of the infinite repose - good death god
 Kerack - God of strength, war and strife
 Ishira - God of Elves
+
 
 Cerras (Gabriel) - Demi god
 Demetrion (Mortarion) - Demi god
