@@ -1,9 +1,4 @@
-dramatis personae for silent library
-
-TODO:
-Fix Thompson introduction
-Introduce Germain's wife and backstory.
-
+Dramatis personae for silent library
 Rose - Germain's wife.
 
 Germain Lemarr - Northern Spellblade of god of strength
@@ -18,26 +13,29 @@ Thompson Black- Former Southern Battlemage. Strange.
 
 Places Mentioned:
 -Northern Capital 
--West Field
+-Sourthern Capital
+-Westfield
 -Dor's Crag
--THe Silent Library
+-The Silent Library
 -Wildermark (new southern merchant established town)
--Lord Gerrant's War
 -Mellont
 -The University
 -The Fell (former elven capitol)
 
 Peoples Mentioned:
+Fartherners -> barbarians from the far north
 Northerners
 Southerners
-Dwarves
+Dwarves -> Uzerai
 Elves
-Gnomes
+Gnomes-> Shan + windress (sailor witch)
 
 Gods Mentioned
 Geremon of the infinite repose - good death god
 Kerack - God of strength, war and strife
 Ishira - God of Elves
+Sea King / Lord of the Waves - God of the Shani
+Plotweaver / Prince of Shadows - God of deceit 
 
 
 Cerras (Gabriel) - Demi god
@@ -45,7 +43,10 @@ Demetrion (Mortarion) - Demi god
 
 Random things mentioned:
 Sea stone - blue gem, stand in for sapphire except affiliated with Ocean god.
+Strings - Ensnaring objects, people and plots, attempting to affiliate mortals with a certain god
+Lord Gerrant's War
 
+Old Stuff
 
 Plot Points
 Someone taken over by spirit of elven captain, who, along with his lover, stayed behind.
