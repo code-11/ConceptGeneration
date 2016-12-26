@@ -1,0 +1,77 @@
+A Coward's Guide to Rust
+
+Exhausting the limits of the game in two days or left.
+
+So. Too edgy for minecraft? Die to slowly in COD? Really want to know what would happen if you introduced building mechanics to CS:GO? 
+
+Look no further, Rust is the game for you. Rust is a first person multiplayer survival game where the only thing you really have to survive are the other players.
+
+If you can spawn as a newbie and walk more than a minute without getting gunned down, you should consider yourself lucky. 
+
+I will be brutally honest: Rust is not a good game. And although its only in alpha, unless the developers really change things, I doubt it will be good in even a year. Just don't play it. Watch some netflix, play a much better game or read a book. Seriously. 
+
+Still here?
+
+Fine. So you don't care? Still want to play Rust? Well you're in luck. I have something for you. Its a way to play this sadistic game with sure fire results. Strap in; its time for A Cowards Guide to Rust.
+
+
+Step 1 - Die a bunch in the beginning. 
+If you spawn and can see people, let them kill you. They might say things like "We'll help you" or "Join our team". Ignore them. They will always turn on you.
+If by some grace of god they don't actually gun you down while you try feebly to acquire wood, you luckily only ever spawn on water, so drowning yourself is always an option.
+
+Continue this until you spawn without being able to see anyone. Good sweet isolation. 
+
+Step 2 - Scout out some places.
+In conjunction with step 1, you want to get a handle on how crowded the server is. Invariably, even with quick server wipes, there will be a cornucopia of deserted buildings. You want to find an area if possible that doesn't even have buildings. There are typically two reasons for this. One, its near a deadly hotpoint monument and everyone close to it gets annihilated or two, its too far away from spawn for noobs to make it there. You want the second reason. You want to be far, far away from the prying eyes and fingers of other players.
+
+If you can't find a depopulated area, settle for areas with clear signs of decay. There should be no large bases, or if there are, they are open to the world from decay. If you ever see anyone or hear nearby gunshots, keep searching.
+
+Step 3 - Find a Hidey Hole
+Once you find an area with no people, you'll want to find the perfect place for your future base. The placement of which relies heavily on large natural rock formations. If you can't find any, keep looking. You will want to find a natural set of rocks such that they shield you from the rest of the world. This means having your back either towards the ocean or a large mountain range. 
+
+Both have their advantages. A mountain will usually have more trees and mining nodes at the cost of allowing people to theoretically see your hidey hole. On the other hand, the cold of the mountains and the difficulty in traversing them limits the possibility of being found. 
+
+A Ocean backing has the advantage of giving you a safe side. No one will usually bother you if you choose cliffs far away from spawn. Sometimes people walk along the beach, so bonus points if the cliffs are tall enough to situate your hidey hole far enough up to keep from curious travelers. On the other hand, you will get no resources from that side of your base, and will have to travel further on the other sides. 
+
+Step 4 - Make a Sleeping Bag
+You've been collecting hemp on your way here right? You have? Good. If not, repeat steps 1-3 and collect hemp this time. Gosh. 
+
+So you found a Hidey Hole and have enough cloth for a sleeping bag? Awesome. Throw that sucker down in some bushes. Your first hundred deaths were now worth something! You're 1/3 of the way to beating the game!*
+
+Step 5 - Basic Resources
+Congratulations. You've managed to get through the first Rust filter and found a good place and survived long enough to be able to spawn there. Now you need to get started on a base. This will be tricky. Anyone seeing you will result in your death, so you might want to sneak (ctrl!) around at night. If you have the advantage of having an dark colored skin avatar, congrats, you have built in night camo. You need to get a hatchet and a pick. You'll need about 3k wood, 3k stone and at least 250 metal ore.
+
+If you can get all that in one life, awesome. If you can't and were killed on the way back, heavily consider moving. If anyone knows your location, you're as good as dead. Its much easier to simply move than to deal with players. This is the cowards guide after all.
+
+Once you get your resources, make a stone house which can't be seen over the rock you're hiding against. Stone is good enough to deter bandits, but not good enough to attract suspicion. I've found that the best size is about three squares. Thats big enough for activities, but small enough so that it won't attract attention. Attention in rust is bad. Very bad.
+
+Step 6 - Smelt that damn iron
+You'll notice I asked for 250 metal ore. This is (as of writing) the amount necessary for a sheet metal door and a code lock. Key locks are garbage, just go straight past that crap. I don't even know how they work. 
+
+However, in order to get that sweet, sweet code lock you need to smelt that damn iron. There are only really two options here. You can either get ridiculously lucky and kill three animals and render their fat into fuel and make a small furnace, or you'll find a large furnace that another player made.
+
+I suppose there is also a third option. If, on your way to find the hidey-hole, you accumulated enough crude oil, and there's a player made refinery around, you can make a furnace that way, but it just as risky. 
+
+This is one of the only times its acceptable to interact with anything related to players in rust. 
+
+Tactics for this necessity are thus very recommended. Do not smelt all your metal at once. Get more than you need. Move the batches one by one and have the piles pre-split before you get to the furnace. Only move during the night. Only ever crouch move anywhere. If you hear sounds, sit still and try to blend into the shadows of trees, rocks or decaying structures. Your greatest weapon is patience. People with p250s aren't going to wait around looking for some noob. If you sit in one spot crouching for five minutes and they can't find you, chances are you're still dead. Don't let them hear you to begin with! Also, don't be duped into running. You hit that shift button you're as good as dead son. 
+
+Step 7 - Bask in glory
+Congratulations, you've surpassed the second filter. You've managed to get a stable base up. Get a sleeping bag inside that base quick and close the door. Now you're pretty stable. Everything else from now on is much easier. 
+
+Step 8 - Tech up son
+You need a furnace. You can't always be sneaking to your recently departed neighbor's place right? Refine oil or hunt animals to get a whole bunch of those small furnaces and smelt more stuff. Each time you leave your base, close the door. Even have an air lock of two doors surrounding a 1x1 panic room. Don't forget about floors or ceilings. You may want to upgrade to metal at some point. 
+
+Don't bring more than the bare essentials when you are leaving your base. Armor is useless to the coward. You are dead if they find you anyway. Weapons are useless as well. Your only tactic is the night and lack of confrontation. 
+
+You're basically done at this point. I mean, you can still get raided, but a 3x1 stone base is a pretty poor target and you should be stealthy enough that they won't suspect it. Now just accumulate resources, perhaps even venture off to the monuments or get killed by the heli a couple of times, you know, live a bit. 
+
+And thats it. Thats all there is in Rust for the coward. Raiding just increases your likelihood of being found, and your greatest weapon is not being found, so most of the high tech items are useless. GG yo. You should be able to bust that out in about a day. Now you can go and play a real game that the devs put actual time into crafting the experience, like Overwatch or CK2. 
+
+
+
+
+
+
+
+
