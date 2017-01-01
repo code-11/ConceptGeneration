@@ -1,6 +1,7 @@
 DRAMATIS PERSONAE
 Rose - Germain's wife.
 
+Meridia- A First sargent. A former love interest of Haverson's. She turned down his proposal before the horrible defeat. She turned to religion and feats of arms after the defeat. 
 Germain Lemarr - Northern Spellblade of god of strength
 Aster La Rouche-
 Enton Haverson- Background in war, meeting with Aster, briefly touched on master.
@@ -10,6 +11,10 @@ Alexander Pluzinerrorick-Gnomian associated Mercenary and adventurer
 Josep 'Spiker' Barr-Close combat specialist from the South, racist
 Samuel Vernier-Scout from West Field 
 Thompson Black- Former Southern Battlemage. Strange.
+
+Haverson's Past:
+Turpin, Barrande, Celine, Yves, Elaine, Lydia - A family that nursed Haverson back to health after the incident. 
+Sister Mara - An old local priestess of Geremon.
 
 Places Mentioned:
 -Northern Capital 
@@ -45,3 +50,4 @@ Random things mentioned:
 Sea stone - blue gem, stand in for sapphire except affiliated with Ocean god.
 Strings - Ensnaring objects, people and plots, attempting to affiliate mortals with a certain god
 Lord Gerrant's War
+The First - A group of adventurer soldiers, an elite squad of the Northern military 
