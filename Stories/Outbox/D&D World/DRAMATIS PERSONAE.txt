@@ -1,7 +1,6 @@
 DRAMATIS PERSONAE
 Rose - Germain's wife.
 
-Meridia- A First sargent. A former love interest of Haverson's. She turned down his proposal before the horrible defeat. She turned to religion and feats of arms after the defeat. 
 Germain Lemarr - Northern Spellblade of god of strength
 Aster La Rouche-
 Enton Haverson- Background in war, meeting with Aster, briefly touched on master.
@@ -11,6 +10,11 @@ Alexander Pluzinerrorick-Gnomian associated Mercenary and adventurer
 Josep 'Spiker' Barr-Close combat specialist from the South, racist
 Samuel Vernier-Scout from West Field 
 Thompson Black- Former Southern Battlemage. Strange.
+
+Meridia- A First sargent. A former love interest of Haverson's. She turned down his proposal before the horrible defeat. She turned to religion and feats of arms after the defeat. 
+
+Supreme Commander Durand
+Secretary Laurent
 
 Haverson's Past:
 Turpin, Barrande, Celine, Yves, Elaine, Lydia - A family that nursed Haverson back to health after the incident. 
@@ -30,6 +34,7 @@ Places Mentioned:
 -The Fell (former elven capitol)
 -Ice spire at the pole amid a ocean of constantly shifting ice spikes
 -Wave king's Gap
+-The Old Elven hilly central area to continent
 
 Peoples Mentioned:
 Fartherners -> barbarians from the far north
@@ -40,12 +45,17 @@ Elves
 Gnomes-> Shan + windress (sailor witch)
 
 Gods Mentioned
-Geremon of the infinite repose - good death god
+Earth God-> Main earth spirit (Uzerai?)
+Geremon of the infinite repose - good death god, new god
 Kerack - God of strength, war and strife
 Ishira - God of Elves
+Lady of Secrets, the mysterious one
 Sea King / Lord of the Waves - God of the Shani
-Plotweaver / Prince of Shadows - God of deceit 
+Plotweaver / Prince of Shadows - God of deceit, new god
 Searcher - one of the original unmaddened gods, who was cast out by Kerack. Cursed to walk the land looking for something that he doesn't know. Haverson has met him before. Is immortal but can be killed. Married an elf once and had unknown number of children to her. 
+
+Unmentioned:
+God of knowledge
 
 Cerras (Gabriel) - Demi god
 Demetrion (Mortarion) - Demi god
