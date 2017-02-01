@@ -57,8 +57,10 @@ Searcher - one of the original unmaddened gods, who was cast out by Kerack. Curs
 Unmentioned:
 God of knowledge
 
-Cerras (Gabriel) - Demi god
-Demetrion (Mortarion) - Demi god
+Cerras (Gabriel) - Demi god wizard
+Demetrion (Mortarion) - Demi god cleric
+Marthih Layre - The Mad God of the Shani
+Teveral II - Southerner King
 
 Random things mentioned:
 Sea stone - blue gem, stand in for sapphire except affiliated with Ocean god.
