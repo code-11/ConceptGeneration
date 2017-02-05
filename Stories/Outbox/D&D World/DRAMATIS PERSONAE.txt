@@ -13,8 +13,22 @@ Thompson Black- Former Southern Battlemage. Strange.
 
 Meridia- A First sargent. A former love interest of Haverson's. She turned down his proposal before the horrible defeat. She turned to religion and feats of arms after the defeat. 
 
+Miss Menchel-Old lady shop keeper, friend of Laurent's
+
+North:
 Supreme Commander Durand
-Secretary Laurent
+Secretary Laurent Carver
+Commander Otker Wichmann (M) - Commander of the First, former adventurer.
+Commander Leodulf Hildanus (M) - Commander of the Second, possible spy
+Commander Adala Ruodhard (F) - Commander of the Third, incredibly ambitious possibly being blackmailed.
+Marshall Evereldis of Dor - (F) Highest Guardsman, in charge of internal affairs (but not spying)
+
+South:
+Lord Gerrant
+High Councelor Corlenos
+Callum Green
+Teveral II - Southerner King
+
 
 Haverson's Past:
 Turpin, Barrande, Celine, Yves, Elaine, Lydia - A family that nursed Haverson back to health after the incident. 
@@ -22,7 +36,12 @@ Sister Mara - An old local priestess of Geremon.
 Uriah Morin- sadist spy/assasin for the south. Was trying to gain access to spy ring and wounded Haverson. Hated by Declan.
 Declan- spy/assasin for the south that helped Haverson. Hated and eventually killed by Uriah.
 
+Important Families:
+Partiarch La Rouche - Dor's Crag merchant family
+Gerrant - Duke of Crireton Bode
+
 Places Mentioned:
+-Crireton Bode (Duke Gerrant's seat of power)
 -Northern Capital 
 -Sourthern Capital
 -Westfield
@@ -35,6 +54,7 @@ Places Mentioned:
 -Ice spire at the pole amid a ocean of constantly shifting ice spikes
 -Wave king's Gap
 -The Old Elven hilly central area to continent
+-St. Thomas's hill
 
 Peoples Mentioned:
 Fartherners -> barbarians from the far north
@@ -60,10 +80,11 @@ God of knowledge
 Cerras (Gabriel) - Demi god wizard
 Demetrion (Mortarion) - Demi god cleric
 Marthih Layre - The Mad God of the Shani
-Teveral II - Southerner King
 
 Random things mentioned:
 Sea stone - blue gem, stand in for sapphire except affiliated with Ocean god.
 Strings - Ensnaring objects, people and plots, attempting to affiliate mortals with a certain god
 Lord Gerrant's War
 The First - A group of adventurer soldiers, an elite squad of the Northern military 
+The Illith - the main bastion in Illithar
+Parallels - Nice part of Illithar
