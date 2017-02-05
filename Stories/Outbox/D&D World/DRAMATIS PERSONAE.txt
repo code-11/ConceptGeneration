@@ -16,12 +16,17 @@ Meridia- A First sargent. A former love interest of Haverson's. She turned down 
 Miss Menchel-Old lady shop keeper, friend of Laurent's
 
 North:
+Army of about 5000
+SC->Commander x5->Lieutenant x5-> Sargent x10-> men x20 + guard
 Supreme Commander Durand
 Secretary Laurent Carver
-Commander Otker Wichmann (M) - Commander of the First, former adventurer.
+Commander Otker Bleomedes (M) - Old. Commander of the First, former adventurer.
 Commander Leodulf Hildanus (M) - Commander of the Second, possible spy
 Commander Adala Ruodhard (F) - Commander of the Third, incredibly ambitious possibly being blackmailed.
 Marshall Evereldis of Dor - (F) Highest Guardsman, in charge of internal affairs (but not spying)
+Dageric Hale (M) - Old. Leader of the military engineers, a siege expert.
+Rathar Cuebonh (M) - Somewhat old. Both the High Scrivenor (head of university) and the Potentate of Illithar.
+
 
 South:
 Lord Gerrant
@@ -29,6 +34,8 @@ High Councelor Corlenos
 Callum Green
 Teveral II - Southerner King
 
+Far North:
+Jarl Sigfast Ingisson "The Wise"
 
 Haverson's Past:
 Turpin, Barrande, Celine, Yves, Elaine, Lydia - A family that nursed Haverson back to health after the incident. 
@@ -84,7 +91,7 @@ Marthih Layre - The Mad God of the Shani
 Random things mentioned:
 Sea stone - blue gem, stand in for sapphire except affiliated with Ocean god.
 Strings - Ensnaring objects, people and plots, attempting to affiliate mortals with a certain god
-Lord Gerrant's War
+Lord Gerrant's War (10 years ago) - three years long, initially successful, up to north capital, pushed back by diverting to westfield. Stalemated despite casualities.
 The First - A group of adventurer soldiers, an elite squad of the Northern military 
 The Illith - the main bastion in Illithar
 Parallels - Nice part of Illithar
