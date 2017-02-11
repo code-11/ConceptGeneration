@@ -17,15 +17,17 @@ Miss Menchel-Old lady shop keeper, friend of Laurent's
 
 North:
 Army of about 5000
+
 SC->Commander x5->Lieutenant x5-> Sargent x10-> men x20 + guard
 Supreme Commander Durand
+Supreme Commander Richer - Dead, possibly killed by southern spies.
 Secretary Laurent Carver
 Commander Otker Bleomedes (M) - Old. Commander of the First, former adventurer.
 Commander Leodulf Hildanus (M) - Commander of the Second, possible spy
 Commander Adala Ruodhard (F) - Commander of the Third, incredibly ambitious possibly being blackmailed.
 Marshall Evereldis of Dor - (F) Highest Guardsman, in charge of internal affairs (but not spying)
 Dageric Hale (M) - Old. Leader of the military engineers, a siege expert.
-Rathar Cuebonh (M) - Somewhat old. Both the High Scrivenor (head of university) and the Potentate of Illithar.
+Rathar Cuebonh (M) - Somewhat old. Both the High Scrivenor (head of university) and the Civil Potentate of Illithar.
 
 
 South:
@@ -53,8 +55,9 @@ Places Mentioned:
 -Sourthern Capital
 -Westfield
 -Dor's Crag
+-Lost city of Adze
 -The Silent Library
--Wildermark (new southern merchant established town)
+-Wildermark (new merchant established town south of Dor's Crag)
 -Mellont
 -The University
 -The Fell (former elven capitol)
@@ -79,6 +82,7 @@ Ishira/Aumnum-Ra/Suture Queen - God of Elves
 Lady of Secrets, the mysterious one
 Sea King / Lord of the Waves - God of the Shani
 Plotweaver / Prince of Shadows - God of deceit, new god
+Lord of Opulence - Dead at least a hundred years ago, following the breakup of the first human kingdom.
 Searcher - one of the original unmaddened gods, who was cast out by Kerack. Cursed to walk the land looking for something that he doesn't know. Haverson has met him before. Is immortal but can be killed. Married an elf once and had unknown number of children to her. 
 
 Unmentioned:
