@@ -60,6 +60,7 @@ Places Mentioned:
 -The Silent Library
 -Wildermark (new merchant established town south of Dor's Crag)
 -Mellont
+-Merrin's Ford. Town splayed across the river and where it can be crossed by bridge. In teh center of the river is a muddy island. The town is a merchant and theif haven. Sprall and dirty. Several alchemists.
 -The University
 -The Fell (former elven capitol)
 -Ice spire at the pole amid a ocean of constantly shifting ice spikes
@@ -101,3 +102,4 @@ Lord Gerrant's War (10 years ago) - three years long, initially successful, up t
 The First - A group of adventurer soldiers, an elite squad of the Northern military 
 The Illith - the main bastion in Illithar
 Parallels - Nice part of Illithar
+Weather Stop- Barometer
