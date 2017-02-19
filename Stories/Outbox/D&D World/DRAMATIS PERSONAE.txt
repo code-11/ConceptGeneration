@@ -60,7 +60,7 @@ Places Mentioned:
 -The Silent Library
 -Wildermark (new merchant established town south of Dor's Crag)
 -Mellont
--The Spires, a area of tall granite spires in the middle of the river. Earth magic, caused by Dor vs ???, shifts? boats go around or are lost.
+-The Spires, a area of tall granite spires in the middle of the river. Earth magic/spririts? caused by Dor vs ??? fragment of void? There is a prescencse inside it which sometimes sucks in boats. Lures them in. Mist that is warm then goes icy cold. 
 -Merrin's Ford. Town splayed across the river and where it can be crossed by bridge. In teh center of the river is a muddy island. The town is a merchant and theif haven. Sprall and dirty. Several alchemists.
 -The University
 -The Fell (former elven capitol)
@@ -104,3 +104,4 @@ The First - A group of adventurer soldiers, an elite squad of the Northern milit
 The Illith - the main bastion in Illithar
 Parallels - Nice part of Illithar
 Weather Stop- Barometer
+Nature Walkers- Druids
