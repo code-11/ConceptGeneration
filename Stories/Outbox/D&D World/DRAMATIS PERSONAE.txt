@@ -20,9 +20,15 @@ Laurent Carver - spymaster of the north. Works alongside Durand and has done so 
 
 North:
 Army of about 25000
-SC->Commander x5-> Colonel x5-> Lieutenant x5-> Sargent x10-> men x20 + guard
+United Codex - Lawbook written by Atheneus
+Army hierarchy:
+SC->Commander x5-> Colonel x5-> Lieutenant x5-> Sargent x10-> men x20
+Guard hierarchy (Civil service):
+Marshall->Potentate->Alder->Men
+
 Supreme Commander Durand
-Supreme Commander Richer - Dead, possibly killed by southern spies.
+(Previous) Supreme Commander Richer - Dead, possibly killed by southern spies.
+(First) Supreme Commander Raimund Atheneus "The Immortal" - Founded the North. Wrote the United Codex.
 Secretary Laurent Carver
 Commander Otker Bleomedes (M) - Old. Commander of the First, former adventurer.
 Commander Leodulf Hildanus (M) - Commander of the Second, possible spy
