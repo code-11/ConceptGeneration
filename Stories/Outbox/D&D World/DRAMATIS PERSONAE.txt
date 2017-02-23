@@ -6,7 +6,7 @@ Aster La Rouche-
 Enton Haverson- Background in war, meeting with Aster, briefly touched on master.
 Greyson Ohare-Northern Miner
 Elban Highfort-Southern Miner
-Alexander Pluzinerrorick-Gnomian associated Mercenary and adventurer
+Alexander Pluzinerrorick-Shani associated Mercenary and adventurer
 Josep 'Spiker' Barr-Close combat specialist from the South, racist
 Samuel Vernier-Scout from West Field 
 Thompson Black- Former Southern Battlemage. Strange.
@@ -25,7 +25,7 @@ United Codex - Lawbook written by Atheneus
 Army hierarchy:
 SC->Commander x5-> Colonel x5-> Lieutenant x5-> Sargent x10-> men x20
 Guard hierarchy (Civil service):
-Marshall->Potentate->Alder->Men
+Marshall->Potentate->Sherrif->Alder->Men
 
 Supreme Commander Durand
 (Previous) Supreme Commander Richer - Dead, possibly killed by southern spies.
