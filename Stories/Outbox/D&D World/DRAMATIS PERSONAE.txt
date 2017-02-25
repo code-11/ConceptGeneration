@@ -24,7 +24,7 @@ North:
 Army of about 25000
 United Codex - Lawbook written by Atheneus
 Army hierarchy:
-SC->Commander x5-> Colonel x5-> Lieutenant x5-> Sargent x10-> men x20
+SC->Commander (Division) x5-> Colonel (Battalion) x5-> Lieutenant (Company) x5-> Sargent (Squad) x10-> men x20
 Guard hierarchy (Civil service):
 Marshall(5)->Potentate(4)->Sherrif(3)->Alder(2)->Men(1) (lapels)
 
@@ -58,6 +58,7 @@ Declan- spy/assasin for the south that helped Haverson. Hated and eventually kil
 
 Important Families:
 Partiarch La Rouche - Dor's Crag merchant family
+Patriarch Childebert - Dor's Crag merchant family
 Gerrant - Duke of Crireton Bode
 
 Places Mentioned:
