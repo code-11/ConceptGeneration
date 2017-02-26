@@ -1,7 +1,6 @@
 DRAMATIS PERSONAE
-Rose - Germain's wife.
-
 Germain Lemarr - Northern Spellblade of god of strength
+	Rose - Germain's wife.
 Aster La Rouche-
 Enton Haverson- Background in war, meeting with Aster, briefly touched on master.
 Greyson Ohare-Northern Miner
@@ -37,15 +36,18 @@ Commander Leodulf Hildanus (M) - Commander of the Second, possible spy
 Commander Adala Ruodhard (F) - Commander of the Third, incredibly ambitious possibly being blackmailed.
 Marshall Evereldis of Dor - (F) Highest Guardsman, in charge of internal affairs (but not spying)
 Dageric Hale (M) - Old. Leader of the military engineers, a siege expert.
+	Arbogast Harberg (M) - A military mage with a background in mining.
 Rathar Cuebonh (M) - Somewhat old. Both the High Scrivenor (head of university) and the Civil Potentate of Illithar.
 Marellus Pacatian - Civil Potentate of Swan, on the surface, a competant civil survant, in actuality, a slimy git.
 	Notger ??? - Fisherman's guild head. Old scruffy and wants no part of the North. Tried to convince Marellus to actively break policy. 
+
 
 South:
 Lord Gerrant
 High Councelor Corlenos
 Callum Green
 Teveral II - Southerner King
+Ayden ??? - dead leader of a triumverate that Durand killed.
 
 Far North:
 Jarl Sigfast Ingisson "The Wise"
@@ -59,6 +61,8 @@ Declan- spy/assasin for the south that helped Haverson. Hated and eventually kil
 Important Families:
 Partiarch La Rouche - Dor's Crag merchant family
 Patriarch Childebert - Dor's Crag merchant family
+	Roald Childebert - Recently passed patriarch
+	Arktor Childebert (about 30) - New Patriarch
 Gerrant - Duke of Crireton Bode
 
 Places Mentioned:
@@ -116,3 +120,9 @@ The Illith - the main bastion in Illithar
 Parallels - Nice part of Illithar
 Weather Stop- Barometer
 Nature Walkers- Druids
+
+Poisons:
+Last Gasp
+Reaper's Fell
+Kerack's Test
+
