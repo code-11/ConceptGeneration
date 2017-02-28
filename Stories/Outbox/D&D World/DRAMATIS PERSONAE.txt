@@ -25,7 +25,7 @@ United Codex - Lawbook written by Atheneus
 Army hierarchy:
 SC->Commander (Division) x5-> Colonel (Battalion) x5-> Lieutenant (Company) x5-> Sargent (Squad) x10-> men x20
 Guard hierarchy (Civil service):
-Marshall(5)->Potentate(4)->Sherrif(3)->Alder(2)->Men(1) (lapels)
+Marshall(5)->Potentate(4)->Sheriff(3)->Alder(2)->Men(1) (lapels)
 
 Supreme Commander Durand
 (Previous) Supreme Commander Richer - Dead, possibly killed by southern spies.
@@ -34,7 +34,7 @@ Secretary Laurent Carver
 Commander Otker Bleomedes (M) - Old. Commander of the First, former adventurer.
 Commander Leodulf Hildanus (M) - Commander of the Second, possible spy
 Commander Adala Ruodhard (F) - Commander of the Third, incredibly ambitious possibly being blackmailed.
-Marshall Evereldis of Dor - (F) Highest Guardsman, in charge of internal affairs (but not spying)
+Marshall "Coldstone" Evereldis of Dor - (F) Highest Guardsman, in charge of internal affairs (but not spying)
 Dageric Hale (M) - Old. Leader of the military engineers, a siege expert.
 	Arbogast Harberg (M) - A military mage with a background in mining.
 Rathar Cuebonh (M) - Somewhat old. Both the High Scrivenor (head of university) and the Civil Potentate of Illithar.
@@ -122,7 +122,8 @@ Weather Stop- Barometer
 Nature Walkers- Druids
 
 Poisons:
-Last Gasp
-Reaper's Fell
-Kerack's Test
+Last Gasp - applicant, choke to death 
+Reaper's Fell - applicant, paralyize.
+Kerack's Test - applicant,
+
 
