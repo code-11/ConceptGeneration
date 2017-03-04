@@ -1,0 +1,35 @@
+INTRO
+You've been contacted by the Northern Military. Your skill and reputation for stealthy and silent operations is known among some groups and it seems this reputation has landed you an unsolicited contract.
+
+Interested in broadening your reputation, naive patriotism, or just because they offered you a large sum of money for the completion of the contract, you agreed to hear them out.
+
+You're escorted to an advance outpost to the southwest of Havinsted (see map). While you were not blindfolded, the location of this base seems to be somewhat secret.
+
+When you're escorted into the briefing room, you're met by a Lieutenant named Herleva and an unranked woman who only introduces herself as Alhild. They explain the situation.
+
+INFO
+The northern military maintains outposts of varying levels of secrecy near Havinstead and occasionally launches operations into the South for information gathering. As of course, do the southerners in reverse. 
+
+Unfortunately, there is been some problem: Several teams have gone missing. 
+The reason is suspected to be the interference of Lord Gerrant's (A southern duke) men.
+These men are his personal army, and as just a competent as the Northern Military, unlike the usual southern conscripts.
+
+Recently, an additional team was able to verify the location of the missing teams: 
+They are being held in an (until recently) abandoned fort called Blackwall which lies north west of Crireton Bode.
+
+Your mission is to infiltrate the compound and get the men out of there if they're still alive. You get a bonus for every one you save and a very large bonus for saving one in particular, presumably their officer.
+You are technically not part of the military so you can operate however you would like (lethal vs stealth)
+
+COMPLICATIONS
+1) One of lord Gerrant's sons, Lucard Gerrant, is known to be present in the fort. In addition to being an annoyingly competent commander, he is also a powerful spell sword.
+
+2) There is a very dangerous individual named Isreal Harper, the south's greatest duelist, who also *might* be in the fort. He is to be avoided at all costs. 
+
+3) There are estimated to be almost a hundred soldiers in and around the fort.
+
+THINGS YOU GET
+-Descriptions of all people mentioned above
+-Any gear you need (limited to nonmagical starting equipment)
+-A Map of the area (see attached)
+-A ring of single target sleep with 5 charges and a range of 30ft
+-A more powerful statuette of hold person with one charge

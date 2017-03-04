@@ -41,6 +41,10 @@ Rathar Cuebonh (M) - Somewhat old. Both the High Scrivenor (head of university) 
 Marellus Pacatian - Civil Potentate of Swan, on the surface, a competant civil survant, in actuality, a slimy git.
 	Notger ??? - Fisherman's guild head. Old scruffy and wants no part of the North. Tried to convince Marellus to actively break policy. 
 
+Random People:
+Herleva Cardis-lieutenant 
+Alhild - Agent
+
 
 South:
 Lord Gerrant
@@ -71,6 +75,7 @@ Gerrant - Duke of Crireton Bode
 
 Places Mentioned:
 -Crireton Bode (Duke Gerrant's seat of power)
+	Blackwall- Former seat of power.
 -Northern Capital 
 -Sourthern Capital
 -Westfield
