@@ -80,6 +80,7 @@ Places Mentioned:
 -Sourthern Capital
 -Westfield
 -Dor's Crag
+	-Qellgoth Basin
 -Lost city of Adze
 -The Silent Library
 -Wildermark (new merchant established town south of Dor's Crag)
