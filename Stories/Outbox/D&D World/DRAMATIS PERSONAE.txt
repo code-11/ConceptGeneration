@@ -1,7 +1,7 @@
 DRAMATIS PERSONAE
 Germain Lemarr - Northern Spellblade of god of strength
 	Rose - Germain's wife.
-Aster La Rouche-
+Aster La Rouche - Ran away when 16, adventured until 22, 24 died.  
 Enton Haverson- Background in war, meeting with Aster, briefly touched on master.
 Greyson Ohare-Northern Miner
 Elban Highfort-Southern Miner
@@ -67,7 +67,13 @@ Uriah Morin- sadist spy/assasin for the south. Was trying to gain access to spy 
 Declan- spy/assasin for the south that helped Haverson. Hated and eventually killed by Uriah.
 
 Important Families:
-Partiarch La Rouche - Dor's Crag merchant family
+Partiarch La Rouche - Dor's Crag merchant family (see Aster La Rouche)
+	Mathis La Rouche (M) 60 - Patriarch 
+	Ansalom-Butler
+	Aster La Rouche-Daughter, perhaps to a different wife
+	Felix La Rouche (M) 21-Son
+	Alain La Rouche (M) 18-Son
+
 Patriarch Childebert - Dor's Crag merchant family
 	Roald Childebert - Recently passed patriarch
 	Arktor Childebert (about 30) - New Patriarch
@@ -80,7 +86,7 @@ Places Mentioned:
 -Sourthern Capital
 -Westfield
 -Dor's Crag
-	-Qellgoth Basin
+	-Allegoth Basin
 -Lost city of Adze
 -The Silent Library
 -Wildermark (new merchant established town south of Dor's Crag)
