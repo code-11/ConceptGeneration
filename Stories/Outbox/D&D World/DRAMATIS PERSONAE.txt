@@ -144,4 +144,11 @@ Last Gasp - applicant, choke to death
 Reaper's Fell - applicant, paralyize.
 Kerack's Test - applicant,
 
+Shani Saltfolk- 
+Dex +2
+Cha +2
+Lithe: Gain the effects of the defensive duelist feat (when have finesse weapon and hit, can use reaction to raise AC by proficiency bonus)
+Born to the water: Advantage handling ships, fishing, reading the weather and all perception checks on the water. Movement in water is 3/4 movement rather than 1/2
+The wavelord's call: Once per long rest you gain a vague idea of the nearest source of water within x miles, this ability prioritizes salt over fresh water. Other effects.
 
+Shani Acolyte
