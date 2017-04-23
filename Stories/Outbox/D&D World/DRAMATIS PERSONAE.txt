@@ -127,7 +127,7 @@ God of knowledge
 
 Cerras (Gabriel) - Demi god wizard
 Demetrion (Mortarion) - Demi god cleric
-Marthih Layre - The Mad God of the Shani
+Marthih Layre - The Mad king of the Shani
 
 Random things mentioned:
 Sea stone - blue gem, stand in for sapphire except affiliated with Ocean god.
@@ -143,6 +143,15 @@ Poisons:
 Last Gasp - applicant, choke to death 
 Reaper's Fell - applicant, paralyize.
 Kerack's Test - applicant,
+
+Trees:
+Mellowcore- A medium height tree with soft yellow wood. Its leaves and bark make a soothing tea when steeped. Think large apple tree. Regular Heart leaves
+Plunsetto- Short tree that never grows larger than a sapling. Has interesting dark wood that can be used as a dye. Waxy Spear leaves.
+Agron- Basically a pine tree. Tall and evergreen, easy to remove bark, sticky sap in the spring. Needles and cones.
+Kander- Basically a large oak tree. Elves liked this tree. No real medicinal properties but produces acorns and can be used for woodworking.
+Purglove- A common undergrowth plant. Fur like spines. It produces small inedible purple berries. Fuzzy heart shaped leaves. Think rasberry bush.
+Tanglestep- A common undergrowth vine. Likes warmer weather but will tolerate the cold. Verdant green. Completely useless. Waxy small clusters of spear leaves.
+
 
 Shani Saltfolk- 
 The Shani all have a love of the ocean, whether they are traders, fisherman, or pirates. They do not stray far from the ocean and prefer salt water over fresh water. Although they are aspected to the Wave King, most are dismissive of religion. 
