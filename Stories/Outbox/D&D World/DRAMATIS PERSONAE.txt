@@ -142,6 +142,7 @@ The Illith - the main bastion in Illithar
 Parallels - Nice part of Illithar
 Weather Stop- Barometer
 Nature Walkers- Druids
+The Sun in this world rises in the north and sets in the south.
 
 Poisons:
 Last Gasp - applicant, choke to death 
