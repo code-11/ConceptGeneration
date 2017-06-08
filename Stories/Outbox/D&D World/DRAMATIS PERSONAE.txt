@@ -106,6 +106,7 @@ Places Mentioned:
 -The Old Elven hilly central area to continent
 -St. Thomas's hill
 -Lowlands (place between north and south)
+-Fort Erengar
 
 Peoples Mentioned:
 Fartherners -> barbarians from the far north
