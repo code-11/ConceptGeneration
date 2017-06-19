@@ -1,0 +1,27 @@
+-Kingdom simulator
+-Play as the counsel for a king/duke/count
+-Military/Economic/Spymaster
+-Each one has a variety of abilities
+-Everyone gets points per turn based on their skills that they can spend on actions.
+-If you want to get something done: Can expend a certain amount of points to do the task yourself. Otherwise you have to delegate it to one of your underlings.
+-Everyone has their own goals and some cations can be counter productive to the group or the development of the nation.
+-Underlings can be traitors, or just lazy.
+-Possible new stats:
+   -(cha) judge of character
+   -(cha) inspirational
+   -(int) aqumnical 
+   -(int) knowledge law
+-Can spend time to curry favor with the king
+   -King picks the activity and you have to go with it
+   -Subsequent interactino with the king go better though
+   -Can become his confidant/main advisor
+-Random events
+   -Skirmish
+   -Agents found missing
+   -Agent discovered as a spy
+   -Some sort of inventory was wrong
+   -Some sort of inventory was stolen
+   -Palace intrigue
+   -Someone challegnes you or one of your agents to a duel
+   -A shady group/cabal/foreign gov/evil power/good power asks you for help
+   
