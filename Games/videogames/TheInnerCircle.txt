@@ -25,3 +25,17 @@
    -Someone challegnes you or one of your agents to a duel
    -A shady group/cabal/foreign gov/evil power/good power asks you for help
    
+   -STATS
+   Intuition
+   Charisma
+
+   Knowledge Law
+   Knowledge Money
+   Knowledge Religion
+   Knowledge Arms
+   Knowledge Logistics
+
+   Rank
+   Favor
+   Money
+   Men
