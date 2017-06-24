@@ -28,6 +28,7 @@
    -STATS
    Intuition
    Charisma
+   Luck
 
    Knowledge Law
    Knowledge Money
