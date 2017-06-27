@@ -4,14 +4,15 @@ South lead by you and king, North lead by lead goliath
 
 Start with:
 1 Heavy Infantry (200 men each) 
-2 Light infantry (500 men each)
+3 Light infantry (500 men each)
 2 Archers (200 men each)
 1 Seige Unit (6 engines and accompanying engineers)
 1 Heavy Cavalry (50 men)
 1 Light Cavalry (50 men)
-=1500 men
+=2000 men
 
-Estimated enemy forces @1200 men
+Estimated enemy forces @1500 men but with almost the same number in enemy reinforcements coming in the next two weeks.
+The king will be taking direct control of the army, leaving you to respond to developments.
 
 Pre-battle Actions:
 
@@ -33,14 +34,10 @@ Light Infantry->Archers->Heavy Infantry->Light Cavalry->Heavy Cavalry
 Find Artifact:
 The giants and dragons left many things behind in their conflicts, perhaps some of these can be found and utilized for the current battle.
 
-[Special] (Arcane Caster) Create pact:
-This conflict is bigger than just a civil war. The movement of so much men and mages has agitated the very structure of magic. 
-Drawn to this confluence, perhaps it will be possible to increase your own power through the aid of one of these beings. Beware, this will have consequences.
-
-[Special] (Theif, Bard or Shadow Monk) Send assasins/theives:
+Send assasins/theives:
 It would be a shame if certain leaders/artifacts were missing from the fight. 
 Or perhaps you can use the chaos of the conflict to solidify your political position...
 
-[Special] (Monk, Cleric or Paladin) Ascertain Portent:
+Ascertain Portent:
 This battle seems ordained by the gods themselves and the towering prescence of both the giants and the dragons.
 Use this action to find/fake/create signs of your upcoming victory or to plead with a god to aid the fight.
