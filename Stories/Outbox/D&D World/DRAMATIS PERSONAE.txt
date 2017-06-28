@@ -45,6 +45,11 @@ Random People:
 Herleva Cardis-lieutenant 
 Alhild - Agent
 
+Malick-Leader of a unfortunate band of bandits
+Lothar-Hedge Wizard
+Ebwolf- Bandit who disagrees with Malick's leadership
+Reginar- Another bandit who also diagrees with Malick, but not as much as Ebwolf.
+
 
 South:
 Lord Gerrant
