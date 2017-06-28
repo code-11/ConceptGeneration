@@ -1,0 +1,48 @@
+Play as advisors to the king 
+Clear that battle will break out soon
+South lead by you and king, North lead by head goliath 
+
+Start with:
+1 Heavy Infantry (200 men each) 
+3 Light infantry (500 men each)
+2 Archers (200 men each)
+1 Seige Unit (6 engines and accompanying engineers)
+1 Heavy Cavalry (50 men)
+1 Light Cavalry (50 men)
+=2000 men
+
+Estimated enemy forces @1500 men but with almost the same number in enemy reinforcements coming in the next two weeks.
+The king will be taking direct control of the army, leaving you to respond to developments.
+
+Pre-battle Actions:
+
+You have three pre-battle actions which can be used in the following manner. It might be useful to wait for the results of one action to begin another.
+
+Save for the fight:
+These action points can also be used in the fight itself to provide an edge on whatever action you're trying to do at the time (stronger than inspiration but basically the same idea). They can be saved for this purpose.
+
+Send Envoys (Charisma):
+This conflict is bigger than just a civil war, all nations may decide to take part.
+Use this action to convince allies to join your or enemies to leave the fight.
+
+Move/Scout Army (Strength):
+Perhaps you can obtain better ground by stealing a march on the enemy.
+Use this action to move the army or to scout. You will have to confer with the king for this action, but he is likely to agree if you explain the advantage.
+
+Bolster Army (Constitution):
+Recruit new light infantry into your army. Alternatively, upgrade an existing unit one space along the following progression:
+Light Infantry->Archers->Heavy Infantry->Light Cavalry->Heavy Cavalry
+
+Find Artifact (Intelligence):
+The giants and dragons left many things behind in their conflicts, perhaps some of these can be found and utilized for the current battle.
+
+Send assasins/theives (Dexterity):
+It would be a shame if certain leaders/artifacts were missing from the fight. 
+Or perhaps you can use the chaos of the conflict to solidify your political position...
+
+Ascertain Portent (Wisdom):
+This battle seems ordained by the gods themselves and the towering prescence of both the giants and the dragons.
+Use this action to find/fake/create signs of your upcoming victory or to plead with a god to aid the fight.
+
+Other Actions:
+If you want to make preparations not described here, other actions are possible at DM discretion.
