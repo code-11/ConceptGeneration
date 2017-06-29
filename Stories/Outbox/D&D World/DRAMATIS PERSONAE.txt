@@ -50,6 +50,8 @@ Lothar-Hedge Wizard
 Ebwolf- Bandit who disagrees with Malick's leadership
 Reginar- Another bandit who also diagrees with Malick, but not as much as Ebwolf.
 
+Lubber- A donkey used by Haverson and Mathis.
+
 
 South:
 Lord Gerrant
