@@ -1,0 +1,24 @@
+Acon Hycanthius is a wanderer naturalist. Fascinated with nature from a young age, he quickly read all the books available to him about the natural world. 
+
+Realizing that the only way he could learn more was to experience it first hand, he ventured into the wilderness. He has traveled in all sorts of lands, and in each one he methodically collects, organizes and records his findings in his journals. 
+
+A grand master of medicine and herbology, he is always on the move, never staying for more than a few weeks in one place. 
+
+He shuns settlements, preferring to be as far from other people as possible. On occasion he has put up with travel companions, but typically only other rangers, druids or woodsmen.
+
+He detests fighting, and would rather use his spells to analyze and experiment with his findings. He does not particularly care how his findings are used, ie for potions of healing or for deadly poisons, only that the knowledge is secure somewhere for people like himself to find and learn. 
+
+
+
+Designed by Acon Hycanthius himself to aid in his travels, this rustic looking long jacket has sewn on its inside an innumerable number of pockets for specimen collection.
+
+ALthough not intended for combat Acon recognized the need to have some sort of protection when wandering the wilds by himself.
+
+Cloak of procurement:
+Base item->Studded Leather+1
+/3 Resistance to all physical damage
+Do not need reagents for spells under 100 gold in cost
+Like a bag of holding, can store an infinite number of items at no weight, provided that each one is no larger than 5 inches cubed or is a potion, salve or small piece of paper (can be added without crumpling)
+
+
+
