@@ -1,6 +1,4 @@
-Play as advisors to the king 
-Clear that battle will break out soon
-South lead by you and king, North lead by head goliath 
+Attention advisers, after years of simmering conflict between the de facto freed human kingdom of the south from the goliath ruled giant-backed former hegemony of the north, it is clear war is inevitable. Both sides have called up their armies and are now positioning for the initial strike.
 
 Start with:
 1 Heavy Infantry (200 men each) 
@@ -8,11 +6,9 @@ Start with:
 2 Archers (200 men each)
 1 Seige Unit (6 engines and accompanying engineers)
 1 Heavy Cavalry (50 men)
-1 Light Cavalry (50 men)
-=2000 men
+1 Light Cavalry (50 men) =2000 men
 
-Estimated enemy forces @1500 men but with almost the same number in enemy reinforcements coming in the next two weeks.
-The king will be taking direct control of the army, leaving you to respond to developments.
+Estimated enemy forces @1500 men but with almost the same number in enemy reinforcements coming in the next two weeks. The king will be taking direct control of the army, leaving you to respond to developments.
 
 Pre-battle Actions:
 

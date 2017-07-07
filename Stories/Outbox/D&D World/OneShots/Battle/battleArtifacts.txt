@@ -1,0 +1,22 @@
+Emerald Cat's Eye
+A massive half cut gem the size of a clenched fist, its cost is almost unimaginable.
+However, in addition to just being expensive, it seems to have been enchanted far in the past.
+Looking at something through the gem, regardless of how far it is, is like it was right beside you.
+You must have line of sight to use it. You can use it an unlimited number of times.
+When you use it your eyes slowly turn green.
+
+Staff of Crushing Darkness
+Casts darkness as the spell. However, in addition, those in the area must also pass a wis 15 save or be terrified (fear), specifically of the darkness, not the caster. The wielder always has partial cover in dusk or darker light.
+
+Staff of Glorious Sunlight
+Casts Daylight as the 3rd level spell. Then choose one effect: 1) all creatures in the light of the weilder's choosing gain 5 temporary hitpoints.
+2) All creatures in the light of the wielder's choosing have to pass a Con save against DC 15 or be blinded.
+
+The hollow orb
+It is a large obsideon sphere which you swear is hollow.
+You must pass a wisdom save. Using it will allow you to cause DCX10 feet of earth to dissapear.
+
+The Horn of Horrid Undeath
+You sacrifice an amount of HP. The horn can then cast Animate dead on a number of targets equal to the amount of HP that you sacrificed.
+The undead will therefore follow the orders of whoever had the Horn in their possession.
+
