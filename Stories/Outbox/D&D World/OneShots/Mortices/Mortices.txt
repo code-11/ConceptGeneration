@@ -1,0 +1,27 @@
+-Enter Mansion 
+	-Main room
+		--Some valuables
+	-Bedroom
+	 	--Possible gem
+	 	--More valuables
+	-Stairs down
+		--cellars then passageway
+-Possible paths
+	-wet to rocks
+	-dead end
+	-proper one
+-Edge of grotto
+	-slippery
+	-Possible kracken?
+-Special entrance
+-Eye room
+	--Filled with borer eels
+	--They attack on movement during the flash
+	--They can take gem
+-Trap in corridor
+-Graveyard
+	--miniboss if they disturb
+-Blood Sacrifice room
+-If not, straight to inner sanctum
+	--Preist
+	--Blue gem
