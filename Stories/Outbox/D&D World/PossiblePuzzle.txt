@@ -1,0 +1,5 @@
+There is a collection of doors, each one is numbered.
+You need to open the right doors but are constrained by how you can get to them
+The oath is important? The number adds as you go?
+You're shooting for a specific number.
+Possibly monsters and traps in each one.
