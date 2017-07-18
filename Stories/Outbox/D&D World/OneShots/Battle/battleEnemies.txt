@@ -1,0 +1,90 @@
+Octurus the half breed
+    HP 100
+    AC 18
+    prof +3
+    
+    damage resitance /5
+    dex +2
+    str+5
+    int+1
+    wis+1
+    con+4
+    cha-2
+
+    if dies, roll con save of 15 if save, comes back with 15 hp
+
+    Two attacks d12+d6 thunder
+
+
+High Lord Amanin of the frozen tower
+Serris 
+	hp 17/35
+	Ac 18
+	prof+1
+	str +4
+	dex 0
+	int +2
+	wis +1
+	con +3
+	cha -1
+
+	d8
+
+Ochere
+	hp 15
+	Ac 15
+	prof+2
+	str +1
+	dex +3
+	int +4
+	wis +4
+	con -1
+	cha +1
+
+	Casts twinned ray of frost 1d8 speed reduced by 10
+	Entangle strength saving throw against 14 or be immobilized
+
+Merredec
+	hp 8/15
+	Ac 14
+	prof+2
+	str +3
+	dex +4
+	int 0
+	wis +3
+	con 0
+	cha -2
+
+	d6
+
+	Can teleport within 30ft snow covered areas as bonus action +d4 when attack after doing so
+	Entangle strength saving throw against 14 or be immobilized 
+
+
+Footmen 
+	Hp 10
+	Ac 13
+	-3/ damage res
+	str+2
+	dex+1
+	int 0
+	wis 0
+	cha -1
+	con +2
+
+	pack tactics
+
+King Ricandius
+
+archers on hill 
+calv on bridges
+heavy on bridge 
+2x light on other bridge
+seige
+
+James 9
+john 8
+ponder 8+
+Monk 16
+Mage 19
+Tank 5
