@@ -1,9 +1,8 @@
 Octurus the half breed
-    HP 100
+    HP 0/100
     AC 18
     prof +3
     
-    damage resitance /5
     dex +2
     str+5
     int+1
@@ -13,12 +12,12 @@ Octurus the half breed
 
     if dies, roll con save of 15 if save, comes back with 15 hp
 
-    Two attacks d12+d6 thunder
+    Two attacks d12 thunder
 
 
 High Lord Amanin of the frozen tower
 Serris 
-	hp 17/35
+	hp 5/35
 	Ac 18
 	prof+1
 	str +4
@@ -62,7 +61,7 @@ Merredec
 
 
 Footmen 
-	Hp 10
+	Hp 2/15
 	Ac 13
 	-3/ damage res
 	str+2
@@ -82,9 +81,9 @@ heavy on bridge
 2x light on other bridge
 seige
 
-James 9
-john 8
-ponder 8+
-Monk 16
-Mage 19
-Tank 5
+octurus 9
+
+James 8
+john 5
+ponder 20
+agents 1
