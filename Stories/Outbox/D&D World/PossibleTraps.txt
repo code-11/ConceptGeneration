@@ -1,0 +1,22 @@
+- Extending spike trap triggered by breaking a wire, but the bottom of the floor is flooded so you can't see it easily. DC15 spot?
+- Small tunnel, the floor is slippery and simply slopes down into a dead end. Tunnel is too narrow to extend hands. Dex save or hands pinned by sides. 
+- Mushrooms and mold cover the floor. Roll d6 for type 1-2: sleep, 3-4 paralysis, 5-6 poison, all con saves at dc 13
+- The floor is slick with oil, dropped torches ignite it. Dex 8 or slip. 
+- Series of tiles on the ground each one with a number. The tiles that are depressed must add to a certain number. POssibly there is a breakable item already on one of the numbers that makes it impossible unless you destroy it. 
+- Floor is a moving belt above a spike trap. There is one enemy below with a high AC who constantly tries to trip you and two above who throw nets.
+- The walls are spiked. They don't move, but the enemy in the room is a large for bullrushing. You can get him to impale himself on the spikes.
+- There is a pool of poisoned water on the floor. In it you can see a bunch of gold. If you disturb the water too much it awakens a small serpent that lives in the pool. The poison is a paralysis, con save dc 14
+- While you are in the room you are constantly attacked by a mixture of 1:3 illusory spirits to real spirits. They have a drain touch that reduces your stats by 1 every time it hits. 
+- There is simply an altar with an interesting relic on it. If you take the relic, you will be cursed: 1st level fatigue.
+- On the floor is a bizarre and uncountable set of runes. Each one does something else. Possible ideas:
+	0:5-Armor falls off
+	6:30-Elemental damage (acid, fire, thunder, ice, necrotic)
+	31:36-Semi Permanent phobia (agorophobia, acranophobia, claustrophobia)
+	37:47-Armor rusts/ Muscles ache (-dex)
+	48:58-Foot falls through the floor (sink step)
+	58:80-Spawns an ooze
+	81:90-Causes you to get larger by two sizes
+	81:85-Causes your weapons to get smaller by a size (down two damage die progression)
+	86:95-Teleports you to the beginning of the room
+	95:100-Causes one of your hands to turn invisible
+-On the ceiling of the room are a bunch of giant spiders. On the floor are several webs. You have to avoid the webs or alert the spiders. More cleverly hidden are runes that reverse gravity. DC 17 to spot.
