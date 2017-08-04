@@ -23,12 +23,15 @@ class Chunk(object):
 		self.sizeY=sizeY
 
 	def gen_puzz():
-		lay=  [[4,5,6,1,8,8,8],
+		o=3.5
+		lay=  [[o,o,o,o,o,o,o],
+			   [4,5,6,1,8,8,8],
 			   [5,0,1,8,8,8,8],
 			   [8,8,2,7,6,8,8],
 			   [8,3,3,8,5,4,8],
-			   [8,2,8,8,7,8,8]]
-		new_puzz=Chunk(7,5)
+			   [8,2,8,8,7,8,8],
+			   [o,o,o,o,o,o,o]]
+		new_puzz=Chunk(7,7)
 		for y,line in enumerate(reversed(lay)):
 			for x,point in enumerate(line):
 				new_puzz.tiles[(x,y)]=Tile(x,y,point)
@@ -54,6 +57,37 @@ class Chunk(object):
 				line_str+=str(self.tiles[(x,y)])
 			over_str+=line_str+"\n"
 		return over_str
+
+class Agent(object):
+	tile=None
+	def __init__(self,tile):
+		self.tile=tile
+
+	def crash(self,agent):
+		return agent.tile==self.tile
+
+class Solver(object):
+	def __init__(self,agents,chunk):
+		self.agents=agents
+		self.chunk=chunk
+
+	def gen_puzz():
+		chunk=Chunk.gen_puzz()
+		agent1=Agent(chunk.tiles[(1,0)])
+		agent2=Agent(chunk.tiles[(4,0)])
+		return Solver([agent1,agent2],chunk)
+
+	def is_solved(self):
+		solved=True
+		for agent in self.agents:
+			solved=solved and (agent.tile.y==self.chunk.sizeY-1)
+		return solved
+
+	def solve(self):
+		for agent in self.agents:
+
+
+
 print(Chunk.gen_puzz())
 # a=Chunk(4,4)
 # print(a)
