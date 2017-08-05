@@ -89,13 +89,19 @@ class State(object):
 		return solved
 
 	def agent_pos(self):
-		return ((agent1.tile.x,agent1.tile.y),(agent2.tile.x,agent2.tile.y))
+		if self.agents==None:
+			return "?"
+		return ((self.agents[0].tile.x,self.agents[0].tile.y),(self.agents[1].tile.x,self.agents[1].tile.y))
 
 	def new_state_on_move(self,agent,move):
-		new_pos=move(agent.tile)
+		try:
+			new_pos=move(agent.tile)
+		except KeyError as e:
+			return None #illegal move
 		new_agent=Agent(agent.name,new_pos)
-		other_agents=self.agents.remove(agent)
-		return State([new_agent].extend(other_agents),chunk)
+		other_agents=self.agents[:] #copy list
+		other_agents.remove(agent)
+		return State([new_agent].extend(other_agents),self.chunk)
 
 	def new_state_on_up(self,agent):
 		return self.new_state_on_move(agent,self.chunk.up)
@@ -128,20 +134,37 @@ class State(object):
 			over_str+=line_str+"\n"
 		return over_str
 
+	def __repr__ (self):
+		return self.agent_pos()
+
 class Solver(object):
 	states=[]
 	history=[]
 	def __init__(self,initial_state):
-		self.states.append(intitial_state)
+		self.states.append(initial_state)
 		self.history.append(initial_state)
 
-	def new_states_from_one_agent(self,cur_state,agent):
+	def new_states_from_one_agent(cur_state,agent):
 		new_states=[]
-		new_states.append(cur_state.new_state_on_up(cur_agent))
-		new_states.append(cur_state.new_state_on_down(cur_agent))
-		new_states.append(cur_state.new_state_on_left(cur_agent))
-		new_states.append(cur_state.new_state_on_right(cur_agent))
-		new_states.append(cur_state.new_state_on_sit(cur_agent))
+		new_up_state=cur_state.new_state_on_up(agent)
+		new_down_state=cur_state.new_state_on_down(agent)
+		new_left_state=cur_state.new_state_on_left(agent)
+		new_right_state=cur_state.new_state_on_right(agent)
+		new_sit_state=cur_state.new_state_on_sit(agent)
+		if new_up_state!=None:
+			new_states.append(new_up_state)
+
+		if new_down_state!=None:
+			new_states.append(new_down_state)
+
+		if new_left_state!=None:
+			new_states.append(new_left_state)
+
+		if new_right_state!=None:
+			new_states.append(new_right_state)
+		
+		if new_sit_state!=None:
+			new_states.append(new_sit_state)
 		print(new_states)
 
 	# def 
@@ -160,7 +183,8 @@ class Solver(object):
 
 
 
-print(State.gen_puzz())
+solver=Solver(State.gen_puzz())
+Solver.new_states_from_one_agent(solver.states[0],solver.states[0].agents[0])
 # a=Chunk(4,4)
 # print(a)
 # print(a.down(a.right(a.right(a.tiles[(1,2)]))))
