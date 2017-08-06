@@ -1,3 +1,5 @@
+import pprint
+
 class Tile(object):
 	x=None
 	y=None
@@ -40,17 +42,41 @@ class Chunk(object):
 				new_puzz.tiles[(x,y)]=Tile(x,y,point)
 		return new_puzz
 
+	def gen_puzz2():
+		o=3.5
+		lay=  [[o,o,o],
+			   [3,8,4],
+			   [5,8,2],
+			   [o,o,o]]
+		new_puzz=Chunk(3,4)
+		for y,line in enumerate(reversed(lay)):
+			for x,point in enumerate(line):
+				new_puzz.tiles[(x,y)]=Tile(x,y,point)
+		return new_puzz
+
 	def up(self,tile):
-		return self.tiles[(tile.x,tile.y+1)]
+		try:
+			return self.tiles[(tile.x,tile.y+1)]
+		except:
+			return None
 
 	def down(self,tile):
-		return self.tiles[(tile.x,tile.y-1)]
+		try:
+			return self.tiles[(tile.x,tile.y-1)]
+		except:
+			return None
 
 	def left(self,tile):
-		return self.tiles[(tile.x-1,tile.y)]
+		try:
+			return self.tiles[(tile.x-1,tile.y)]
+		except:
+			return None
 
 	def right(self,tile):
-		return self.tiles[(tile.x+1,tile.y)]
+		try:
+			return self.tiles[(tile.x+1,tile.y)]
+		except:
+			return None
 
 	def __str__(self):
 		over_str=""
@@ -71,16 +97,34 @@ class Agent(object):
 	def crash(self,agent):
 		return agent.tile==self.tile
 
+	def value(self):
+		return self.tile.val
+
+	def __str__(self):
+		return self.name+":"+"("+str(self.tile.x)+","+str(self.tile.y)+")"
+
+	def __repr__(self):
+		return self.__str__()
+
 class State(object):
-	def __init__(self,agents,chunk):
-		self.agents=agents
+	def __init__(self,agents,chunk,prior_history):
+		self.agents=sorted(agents,key=lambda x:x.name)
 		self.chunk=chunk
+		temp=prior_history[:]
+		temp.append(self.agent_pos())
+		self.history=temp
 
 	def gen_puzz():
 		chunk=Chunk.gen_puzz()
 		agent1=Agent("A",chunk.tiles[(1,0)])
 		agent2=Agent("B",chunk.tiles[(4,0)])
-		return State([agent1,agent2],chunk)
+		return State([agent1,agent2],chunk,[])
+
+	def gen_puzz2():
+		chunk=Chunk.gen_puzz2()
+		agent1=Agent("A",chunk.tiles[(0,0)])
+		agent2=Agent("B",chunk.tiles[(2,0)])
+		return State([agent1,agent2],chunk,[])
 
 	def is_solved(self):
 		solved=True
@@ -91,17 +135,39 @@ class State(object):
 	def agent_pos(self):
 		if self.agents==None:
 			return "?"
-		return ((self.agents[0].tile.x,self.agents[0].tile.y),(self.agents[1].tile.x,self.agents[1].tile.y))
+		agents_str=""
+		for i,agent in enumerate(self.agents):
+			agents_str+=str(agent)+("" if i==(len(self.agents)-1) else ",")
+		return agents_str
+		# return ((self.agents[0].tile.x,self.agents[0].tile.y),(self.agents[1].tile.x,self.agents[1].tile.y))
+
+	def is_agent_crash(self):
+		for agent in self.agents:
+			for other_agent in self.agents:
+				if agent==other_agent:
+					continue
+				elif agent.crash(other_agent):
+					return True
+		return False
+
+	def is_numerically_valid(self):
+		running_sum=0
+		for agent in self.agents:
+			running_sum+=agent.value()
+		return running_sum==7
 
 	def new_state_on_move(self,agent,move):
-		try:
-			new_pos=move(agent.tile)
-		except KeyError as e:
-			return None #illegal move
+		new_pos=move(agent.tile)
+		if new_pos==None:
+			return None
+		# 	return None #illegal move
 		new_agent=Agent(agent.name,new_pos)
+
 		other_agents=self.agents[:] #copy list
 		other_agents.remove(agent)
-		return State([new_agent].extend(other_agents),self.chunk)
+		new_agents=[new_agent]
+		new_agents.extend(other_agents)
+		return State(new_agents,self.chunk,self.history)
 
 	def new_state_on_up(self,agent):
 		return self.new_state_on_move(agent,self.chunk.up)
@@ -132,17 +198,22 @@ class State(object):
 				tile=self.chunk.tiles[(x,y)]
 				line_str+=(str(tile)+self.agent_str_at_pos(tile))
 			over_str+=line_str+"\n"
+		over_str+=str(self.history)+"\n"
 		return over_str
 
 	def __repr__ (self):
-		return self.agent_pos()
+		# return self.__str__()
+		return str("<state>"+self.agent_pos())+", "+str(self.history)+" </state>"
 
 class Solver(object):
 	states=[]
-	history=[]
+	seen=set()
 	def __init__(self,initial_state):
 		self.states.append(initial_state)
-		self.history.append(initial_state)
+		self.seen.add(initial_state)
+
+	def is_seen_state(self,state):
+		return state.agent_pos in self.seen
 
 	def new_states_from_one_agent(cur_state,agent):
 		new_states=[]
@@ -165,26 +236,63 @@ class Solver(object):
 		
 		if new_sit_state!=None:
 			new_states.append(new_sit_state)
-		print(new_states)
+		return new_states
 
-	# def 
+	def turn(self,seed_state):
+		agents_to_go=seed_state.agents[:]
+		states_to_go=[seed_state]
+		while len(agents_to_go)>0:
+			cur_agent=agents_to_go.pop(0)
+			states_to_go_for_agent=states_to_go[:]
+			new_states_to_go=[]
+			while len(states_to_go_for_agent)>0:
+				cur_state=states_to_go_for_agent.pop(0)
+				new_states=Solver.new_states_from_one_agent(cur_state,cur_agent)
+				# print("considering agent:"+str(cur_agent)+" for state:\n"+str(cur_state)+" makes "+str(new_states))
+				new_states_to_go.extend(new_states)
+			states_to_go=new_states_to_go
+		return states_to_go
 
-	# def solve(self):
-	# 	while len(self.states)>0:
-	# 		#check rules on collision and 7 here as well as end state
-	# 		seed_state=states.pop(0)
-	# 		cur_states=[seed_state]
-	# 		while len(cur_states)>0:
-	# 			cur_state=cur_states.pop(0)
-	# 			while len(cur_state.agents)>0:
-	# 				cur_agent=cur_state.agents.pop(0)
+	def solve(self):
+		while len(self.states)>0:
+			cur_state=self.states.pop(0)
+			if cur_state.is_solved():
+				return cur_state
+			elif cur_state.is_agent_crash():
+				continue
+			elif not cur_state.is_numerically_valid():
+				continue
+			elif self.is_seen_state(cur_state):
+				continue
+			else:
+				#if we get here, its a valid, non-goal state
+				self.seen.add(cur_state.agent_pos)
+				self.states.extend(self.turn(cur_state))
+		return None
+
+# left left
+# left right
+# left up
+# left sit
+# right left
+# right right
+# right up
+# right sit
+# up left
+# up right
+# up up
+# up sit
+# sit left
+# sit right
+# sit up
+# sit sit 
 
 
-
-
-
+pp = pprint.PrettyPrinter(indent=4)
 solver=Solver(State.gen_puzz())
-Solver.new_states_from_one_agent(solver.states[0],solver.states[0].agents[0])
+print(solver.states[0])
+# pp.pprint(solver.turn(solver.states[0]))
+print(solver.solve())
 # a=Chunk(4,4)
 # print(a)
 # print(a.down(a.right(a.right(a.tiles[(1,2)]))))
