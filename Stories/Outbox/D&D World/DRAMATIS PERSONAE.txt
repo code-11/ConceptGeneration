@@ -12,7 +12,7 @@ Thompson Black- Former Southern Battlemage. Strange.
 
 Meridia- A First sargent. A former love interest of Haverson's. She turned down his proposal before the horrible defeat. She turned to religion and feats of arms after the defeat. 
 
-Laurent Carver - spymaster of the north. Works alongside Durand and has done so for 5 years. A competant and joking but reclusive individual. 
+Laurent Carver - spymaster of the north. Works alongside Durand and has done so for 5 years. A competent and joking but reclusive individual. 
 	Miss Menchel-Old lady shop keeper, friend of Laurent's
 	Magda Carver-Aunt who co owns a inn/tavern, the Guardsman along with her husband
 	Lucious Carver- Uncle
@@ -51,6 +51,11 @@ Ebwolf- Bandit who disagrees with Malick's leadership
 Reginar- Another bandit who also diagrees with Malick, but not as much as Ebwolf.
 
 Lubber- A donkey used by Haverson and Mathis.
+
+Otton Nordbert 32 - A former Shani soldier who was part of The First. He found Ingela as he wandered the landscape and decided to join her. he is now a devoted scholar and elf-god monk. 
+Bavo Arbogast 50- A powerful half-elf mage who tried to teleport himself into the fell with horrible consequences. He lost both his power and his mind.
+Ingela Vuinetegard 35 - A former priest of Geremon who strayed from his teachings when she learned about the fell. She found Otton and took residence 
+Sabatok / Kahbsobis 50 ish - Two 'young' elves who guard the Suture Queen.  
 
 
 South:
@@ -102,6 +107,7 @@ Places Mentioned:
 -Dor's Crag
 	-Allegoth Basin
 -Lost city of Adze
+-Wild men of Adze
 -The Silent Library
 -Wildermark (new merchant established town south of Dor's Crag)
 -Mellont
