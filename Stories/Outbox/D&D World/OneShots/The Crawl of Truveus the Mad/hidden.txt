@@ -1,9 +1,30 @@
 -Truveus the mad went against the god of nature and lost
 -Truveus himself was a masterful druid/wizard whose powers came from the seasons
--His familiar/nature companion/wife is an Lamia with a third eye made in his own twisted creations
+-His familiar/nature companion/wife is an Hema Lamia with a third eye made in his own twisted creations
 -He carried a walking stick gnarrled with leaves and thorns
 -Because he had committed so many crimes against animal, plant and human kind, the god cursed him to a obliette under the ocean 
 -Also fragmented his consciousness and made him face horrifying trials again and again, resetting if he died or succeeded.
+
+Book1-Brown
+The experiments are going well. It seems that this location is situated in the best natural lay lines. I've managed to splice together many kinds of animals and I'm convinced that human experimentation will go just as well. I've gotten a priest who comes by once and a while and rants at me about what he thinks I'm doing. So far, the aprentices have been enough to keep him away. The fool talks about my acts as unnatural. Life and death, death and life, can't he see that they are just two halves of the same whole?
+
+Book2-Red
+The experiments are going fantastic! I'm learning more than ever have in the past. <Sewing together parts of animals, opening them to see how they work, torturing them the understand their mental endurance> I seem to have inadvertently located my lab at a major node of some immense natural power. Human experimentation is a rockier venture, but several apprentices have thankfully volunteered their services. Unfortuntately none of the initial trials are stable. I can keep them alive, but none can live without my spells.  The priest has gotten more insistent and several of his followers have set up some camp nearby.
+
+It must be related to the power node I have found. After inspecting it in detail I have come to the conclusion that it is connected tot he god of nature in some way, and I have begun determining how I can make use of its power. 
+
+Book3-Green 
+Those damn fanatics! The apprentices are dead, having stalled time for me to set up the defenses. The nature clerics are at my door in force, screaming about heresy. Every week they send a fully armed group of fifteen men or more.
+
+I've locked the doors and sealed the lab, but I can feel the god itself leaning on me heavily. The spells are getting harder and harder to cast...
+
+Hema, the last of the apprentices, and the most capable, has offered to undergo one last experiment. I pray it goes well.
+I've had her magically hide my journals.
+
+Book4-White
+Everything is doomed. Everything is fine. 
+I have breached the power node and turned it to my whim. There is nothing they can do to stop me now. Life and death, death and life are in my grasp. Although I cannot escape this place, I am functionally immortal. I will laugh as they turn again and again before me. They cannot break the cycle. The cycle cannot be broken. 
+
 
 -Adventurers all carry a small ring that lets them find one another
 
@@ -15,9 +36,11 @@
 
 ------------------------------
 
+Rooms are all in a circle, there are arrows pointing on the wall in the wrong direction.
+
 -fall summer spring winter
 -brown red green white
--"Whatever falls burns in the mechanism of death" 
+-"Whatever falls burns in the start of death" 
 -Room covered in small protrusions, sigils of fire
 -Indentation in the room halfway through
 -Hooks with human bodies on them
@@ -56,7 +79,7 @@ Lamia
 
 In front of you is a massive Lamia, the body of a woman and the tail of a snake. The woman half is quite attractive, but there is something very disturbing about the way she looks at you, as if she regards you as nothing more than food, the fact that she seems to be almost seven feet doesn't help. As she grins, you can see some very large and certainly non-human teeth. Finally, she is unarmed, but wears a set of pitch black runic plate armor which appears to have been custom built for her.  
 
-She is restrained by a magic circle. 
+She stands within what appears to be a magic circle. 
 
 -James: sailing, roman empire, guns/military, fantasy
 -Matt: Movies, Twin peaks, game of thrones
