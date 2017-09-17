@@ -27,30 +27,30 @@ Book4-White
 Everything is doomed. Everything is fine. 
 I have breached the power node and turned it to my whim. There is nothing they can do to stop me now. Life and death, death and life are in my grasp. Although I cannot escape this place, I am functionally immortal. I will laugh as they turn again and again before me. They cannot break the cycle. The cycle cannot be broken. 
 
+-fall summer spring winter
+-brown red green white
+-Earth/fire/vine/ice
 
 -Adventurers all carry a small ring that lets them find one another
 
-------------------------------
--Room made of stone, nondescript furniture covered with cob webs. Book about Truveus in the shelf. Potion and scrolls tables. Symbol trap that fatigues under rug in center of room.
--Red sandstone, chest in the center that deactivates Guillotine trap in door frame (Rogues)
--Verdant Forest with sleep powder if you step on the roots (Nature characters)
--Bones around a circle, in the center is a rune of nature god. Bright light. If you walk on bones, they come alive. (religious characters)
-
-------------------------------
-
 Rooms are all in a circle, there are arrows pointing on the wall in the wrong direction.
 
--fall summer spring winter
--brown red green white
+------------------------------
+-Room made of stone, nondescript furniture covered with cob webs. Book about Truveus in the shelf. Potion and scrolls tables. Symbol trap that fatigues under rug in center of room.
+
+There is a standing clock on the side whose hands are running counter to one another. It obviously is telling the wrong time.
+-------------------------------
 -"Whatever falls burns in the start of death" 
 -Room covered in small protrusions, sigils of fire
 -Indentation in the room halfway through
--Hooks with human bodies on them
-
+-Hooks with cleric bodies on them
 ------------------------------
-
--Earth/fire/vine/ice (stages) elemental in the middle of a plain room.
-
+-lilly<Martagon>(fall), daisy<woundwort>(Summer),tulip<Orithyia>(spring), Snowdrop<Galanthus>(Winter),  
+-Verdant Forest with sleep powder (Nature characters)
+-Vine elemental is covering the door.
+------------------------------
+-Bones around a circle, in the center is a rune of nature god. Bright light. If you walk on bones, they come alive. (religious characters)
+-Incredibly cold in the room.
 ------------------------------
 
 -A room with pillars smashing against one another rising in a stair like manner. 
@@ -70,7 +70,8 @@ G=Green, vines
 
 U/R/G/W
 
---W-D-P-G--
+ DDDDDDDDD
+--W-B-P-G--
 --G-Y-U-B--
 --R-P-K-R--
 --W-U-Y-K--
@@ -79,10 +80,44 @@ U/R/G/W
 
 Lamia
 
-In front of you is a massive Lamia, the body of a woman and the tail of a snake. The woman half is quite attractive, but there is something very disturbing about the way she looks at you, as if she regards you as nothing more than food, the fact that she seems to be almost seven feet doesn't help. As she grins, you can see some very large and certainly non-human teeth. Finally, she is unarmed, but wears a set of pitch black runic plate armor which appears to have been custom built for her.  
+In front of you is a massive Lamia, the body of a woman and the tail of a snake. She looks up from the circle where she seems to have been waiting for you. As she grins, you can see some very large and certainly non-human teeth. Finally, she is unarmed, but wears a set of pitch black runic plate armor which appears to have been custom built for her.  
 
 She stands within what appears to be a magic circle. 
 
+"I have to say, I'm always hopeful when someone comes through that door. Will you do better than your predecessors? I'll make it quick, I am the only thing capable of opening the inner sanctum behind me, but because of the geas, I can't help you directly. You'll have to answer some questions and come to your own conclusions. Unfortunately I can't ask you anything directly, very frustrating. Imagine if I could just tell you that <unintelligible> Wouldn't that be great?"
+
+Inside a many storied room, you can find history and future. To find that history though, you must first be second to none. 
+
+
+-----FIRST-----
+First question leads to a series of numbers that lets you look up a book:
+"It seems like I am the only one left. No matter how we tried, we could not seem to truly kill him. Again and again we obliterated his body, and sealed his abomination, but every time he came back, and our numbers soon shrank. The last time we lost two of my fellow masters. I was furious beyond words. I couldn't break the cycle but I could <unintellegible>, I can't think of a more fitting nor ironic punishment seeing as it mirrors so well his own work. But at what a cost? The entrance has been sealed and I can't seem to open it. It seems our god disagrees with my methods, my magic no longer works. Perhaps our god hoped to just seal the problem away? Hopefully the person reading this fairs a better fate than mine." -Master of seals and glyphs, the eternal golden branches. 
+
+In a small note slipped in the side, it reads, Don't trust her! If you can simply make it to the staff you can be free of this place!
+
+-----SECOND----
+I have hands but cannot clap. I have a voice but cannot speak. I have a face but no mouth. I am always older than you. What am I? 
+
+-----THIRD-----
+What is the order of the seasons?
+
+-----FOURTH-----
+There is one of these devices in this place. Inside it is a key to freedom that the deluded fools left here.
+
+One last hint:
+If you really want to get out of here, you must listen to me: Forever and nothing are the same. It just takes a trick of the mind to change the two.  
+
+-----------------------------
+
+You enter a massive spherical room. Around the center are thirty or so vats, with condensation on the sides. On the floor is a rune that looks very different from the ones you have been seeing. It consists of raised red clay that has been formed into the shape of an 8. From this are several lines of smaller less important runes which lead to the vats.
+
+Finally, and most importantly, in the center of the room is a wooden staff. On top of it are rotating four colored orbs. Even from here, you can feel that this thing is incredibly powerful. You feel like with it you could do anything you wanted. It feels very familiar to you.   
+
+
+----
+UNUSED:
+-Red sandstone, chest in the center that deactivates Guillotine trap in door frame (Rogues)
+-Earth/fire/vine/ice (stages) elemental in the middle of a plain room.
 -James: sailing, roman empire, guns/military, fantasy
 -Matt: Movies, Twin peaks, game of thrones
 -Cypress: Twin peaks, bikes, pubg, compsci, android
