@@ -10,6 +10,12 @@ Josep 'Spiker' Barr-Close combat specialist from the South, racist
 Samuel Vernier-Scout from West Field 
 Thompson Black- Former Southern Battlemage. Strange.
 
+Elder Bran- Elder in fort erengar after Remi and Palo's father passed away.
+Palo - older brother, fighter, died after an adventure to the natives.
+Remi - younger of the two brothers, archer, mother died giving birth to him.Turned to revenge after Palo died after adventure
+Tzuras - Naturalist, druid but with the approach of a wizard, unknown but is a fledgling spirit talker. An alchemist and wanderer. Not many combat spells.
+Hamarako - Surprisingly well read wilderman cheifton and spirit shaman. Very violent but in a bond villian sort of way.
+
 Meridia- A First sargent. A former love interest of Haverson's. She turned down his proposal before the horrible defeat. She turned to religion and feats of arms after the defeat. 
 
 Laurent Carver - spymaster of the north. Works alongside Durand and has done so for 5 years. A competent and joking but reclusive individual. 
@@ -44,6 +50,9 @@ Marellus Pacatian - Civil Potentate of Swan, on the surface, a competant civil s
 Random People:
 Herleva Cardis-lieutenant 
 Alhild - Agent
+
+Quentin- 50s Map maker and elven affiliate, possibly a wizard. Unhappy at the northern military for using his maps to plan fortifications and attack on the enemy.
+Thella- 14 Young outspoken apprentice, has the ability to view history.
 
 Malick-Leader of a unfortunate band of bandits
 Lothar-Hedge Wizard
@@ -129,6 +138,9 @@ Southerners
 Dwarves -> Uzerai
 Elves
 Gnomes-> Shan + windress (sailor witch)
+Wildermen-> disperate natives that have settled east of fort Erengar
+	Whenua - A particular violent version of wildermen who worship Uzerai
+	Whenua-Ki - A spirit shaman
 
 Gods Mentioned
 Earth God-> Main earth spirit (Uzerai?)
