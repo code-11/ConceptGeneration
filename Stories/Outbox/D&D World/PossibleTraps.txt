@@ -20,3 +20,8 @@
 	86:95-Teleports you to the beginning of the room
 	95:100-Causes one of your hands to turn invisible
 -On the ceiling of the room are a bunch of giant spiders. On the floor are several webs. You have to avoid the webs or alert the spiders. More cleverly hidden are runes that reverse gravity. DC 17 to spot.
+-Floor is made of vines. You also have to fight someone in the room. Can use vine whip.
+-The room is silent and open. On the other end is a door. You have to oass through silently. Any noise will cause traps to activate.
+-The room is magically dark. There is a spectre inside that has improved invisibility. And traps on the ground as well.
+-previously have been given a scroll of speak to undead. The room has a soeleton in it.
+-The templars. Humans trapped in animated suits of armor. They can ohase through walls and like yo pop out at bad times. Give warning if this is chosen.
