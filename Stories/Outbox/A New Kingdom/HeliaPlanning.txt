@@ -1,0 +1,17 @@
+Helia
+King
+Libenholz
+Megareeth
+
+Heronians
+Ebrin Collective
+Stellar Alliance
+Megareeth
+
+She get better and better at controlling the technology of the station. 
+0.Lives in Libnholz's area
+1.Reformats her area, but keeps Libenholz's study
+2.Reproduces Libenholz's research and contributes her own.
+3.Holodevice
+4.Dives through the other parts of the station.
+5.Works with Entity
