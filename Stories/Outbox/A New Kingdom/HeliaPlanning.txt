@@ -1,3 +1,4 @@
+---People---
 Helia
 -Formerly lived in Tressa Sevaris, an orbital above a gas giant called Tressa major. Was a research institution. Did training for meetin with the Entity for several months before the conference.
 King
@@ -5,15 +6,26 @@ Libenholz
 -Grew up on centaros, a contested planet between Heronian space and alliance space.
 Megareeth
 
+Gareth son of Road
+-Leader of the Setllar allinace.
+
+---Factions---
 Heronians
 Ebrin Collective
 Stellar Alliance
 Megareeth
 
+Centaros
+Tressa Sevaris
+Tressa major
+
+133E94 sun
+R67-IO8 plaet with life around it.
+
 She get better and better at controlling the technology of the station. 
 0.Lives in Libnholz's area
-1.Reformats her area, but keeps Libenholz's study
 2.Reproduces Libenholz's research and contributes her own.
+1.Reformats her area, but keeps Libenholz's study
 3.Holodevice
 4.Dives through the other parts of the station.
 5.Works with Entity
