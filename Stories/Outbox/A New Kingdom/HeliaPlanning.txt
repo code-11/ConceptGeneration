@@ -3,7 +3,7 @@ Professor
 Cyntheia- Assistant who helped him finish his longevity stuff. 
 
 ---People---
-Helia
+Helia Demetev
 -Formerly lived in Tressa Sevaris, an orbital above a gas giant called Tressa major. Was a research institution. Did training for meetin with the Entity for several months before the conference.
 King
 Libenholz
@@ -18,10 +18,15 @@ Heronians
 Ebrin Collective
 Stellar Alliance
 Megareeth
+(Deprecated) Stellar Convention
 
 Centaros
 Tressa Sevaris
 Tressa major
+Terhera - Heronian home planetoid 
+Mundus - Home world of the Staller Convention
+Serrano - Ice world (Stellar Alliance)
+
 
 133E94 sun
 R67-IO8 plaet with life around it.
