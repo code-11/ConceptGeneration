@@ -1,0 +1,131 @@
+Meredia, Servant of the Light Bringer
+Lawful Good Human, Female
+Lvl 3 Life Cleric
+str 15 +2
+dex 11
+con 14 +2
+int 9 -1
+wis 16 +3
+cha 13 +1
+
+AC 17
+
+Half Plate
+Sheild
+Mace
+Icon
+Orders of Balmathus
+
+Life domain Spells
+1st bless, cure wounds 
+3rd lesser restoration, spiritual weapon
+Disciple of Life (extra 2+ spell level healing)
+Channel Divinity Preserve life
+
+When you were in your teens, your parents both died of plague. you caught the disease as well, which horribly pocked your face. Because of this, you wear a silver half mask, hiding the damage. You were taken in by the disciples of Pollnus, the god of light and healing. 
+
+You illustrious career has seen many people healed and saved by your hand. 
+
+More recently, the bishop of a far away city, has asked you to check on the binding of a terrible evil.
+
+You trust Asledolf completely, him having given his word to help you. You trust Gara somewhat, believing that all sentient creatures are good somewhere within them, yet not stupid enough to full trust the goblin. 
+
+-------------------------------------
+
+Gara the Sneak
+Chaotic Neutral Goblin, Female
+Lvl 3 Thief Rogue
+str 10 
+dex 17 +3
+con 12 +1
+int 15 +2
+wis 8 -2
+cha 14 +2
+
+AC 15
+HP 19
+
+Modified Pack tactics (+1d4 to hit when attacking with someone else etc.)
+Expertise theives tools
+Sneak attack 2d6
+Cunning action
+Fast Hands
+Second Story Work
+
+Studded Leather
+Shortbow
+2xShortswords
+4xdaggers
+Theives tools
+2xPoison (1d4 poison damage on next attack that hits)
+1xTanglefoot bag
+1xBrightstone (flashbang)
+
+Born the sneakiest and deadliest and smartest of ten brothers and sisters, you soon made a name for yourself by pilfering livestock and horses. 
+
+Unsatisfied by this, you moved on to valuables. You especially like blue gems. 
+
+Half a year ago you tried stealing from the disciples of Pollnus. When you were caught, Meredia forced you to repay your crime by accompanying her on her work. Despite the differences in motivations, you secretly admire her resolve, even if you would never admit it.  
+
+Asledolf on the other hand is as rigid as a board. His gruff attitude gets on your nerves, and his moralistic preaching drives you insane.
+
+------------------------------------------------------
+
+Asledolf the fighter 
+Lawful Neutral Mountain Dwarf, Male
+Lvl 3 Champion Fighter
+str 17 +3
+dex 12 +1
+con 16 +3
+int 13 +1
+wis 10 
+cha 8 -2
+
+HP 29
+AC 19
+
+Greataxe
+Battleaxe
+Sheild 
+Mithril Plate Armor (Can add dex modifier, max 1)
+
+25ft movement
+Adv on saving versus poison, resistance on poison damage
+Great weapon fighting> reroll 1,2 with two handed weapon
+Bonus Action: Can regain 1d10+3 hp
+Action Surge
+Criticals on 19 or 20
+
+You are the champion of the steel fist dwarves. After some territorial disputes with a nearby human city, the elders of the two factions decided to trade champions as a sign of good will. You have been in human lands for only a month.
+
+You are wary of Meredia, mostly because you doubt anyone can truly be so flawless. Her mask unnerves you. You very much dislike Gara, and believe a better alternative for her punishment would have been hanging. Since it wasn't, you see it as your duty to inform her why her previous life choices were incorrect at every possible moment.
+
+---------------------------------
+Temerson the Outlander
+Lawful Neutral wood elf, Male
+Lvl 3 Druid Circle of the Land (Mountains)
+Str 10 
+Dex 16 +3
+Con 12 +1
+Int 13 +1
+Wis 16 +3
+Cha 8  -2
+
+HP 19
+AC 15
+
+speed 35ft
+[modified elf attribute] Adv on hide
+[modified elf attribute] Adv on perception
+Adv on charm, and can't be magically slept.
+
+Spear
+Longbow
+DaggerX2
+Studded Leather
+
+You can't quite remember where you have come from. Your earliest memories are of walking through the forest with your former mentor. You are more at home in nature and feel uncomfortable in even small towns. You have lived in the mountains, living off the land.
+
+Recently though, the catch in your traps has decreased, the berries are all blackened and the roots come up rotten. In your attempts to track down this blight you came across a small group of adventurers trying to find some sort of seal. You have agreed to help them, if only becuase it furthers your needs.
+
+You disagree with Meredia and Asledorf's strict interpretation of good and evil. You believe almost all things have their place. Surprisingly, you actually get along fairly well with Gara. You understand she isn't to be trusted, but her utilitarian, take-what-you-can aligns well with your survivalist sensibilities.

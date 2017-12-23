@@ -2,16 +2,24 @@
 Professor 
 Cyntheia- Assistant who helped him finish his longevity stuff. 
 
+34 occurances of life
+
 ---People---
 Helia Demetev
 -Formerly lived in Tressa Sevaris, an orbital above a gas giant called Tressa major. Was a research institution. Did training for meetin with the Entity for several months before the conference.
+-Was secretly bred all her life for this, in the hope of connecting with the Entity and providing the alliance with its technology
+-All her coremates were like this as well
+
 King
 Libenholz
 -Grew up on centaros, a contested planet between Heronian space and alliance space.
 Megareeth
 
 Gareth son of Road
--Leader of the Setllar allinace.
+-Leader of the Stellar allinace.
+
+Asic Farovsky
+-Helia's Core leader
 
 ---Factions---
 Heronians
@@ -20,21 +28,30 @@ Stellar Alliance
 Megareeth
 (Deprecated) Stellar Convention
 
+--Stellar Alliance--
+Strict representative democracy
+However, representation is done at the planet level 
+Comissariat is the political beaurocracy
+They and the head scientists run most of the research orbitals 
+Create units of children called cores, which are managed by the state.
+
 Centaros
 Tressa Sevaris
 Tressa major
 Terhera - Heronian home planetoid 
-Mundus - Home world of the Staller Convention
+Mundus - Home world of the Stellar Convention
 Serrano - Ice world (Stellar Alliance)
 
 
 133E94 sun
-R67-IO8 plaet with life around it.
+R67-IO8 planet with life around it.
 
 She get better and better at controlling the technology of the station. 
 0.Lives in Libnholz's area
 2.Reproduces Libenholz's research and contributes her own.
 1.Reformats her area, but keeps Libenholz's study
+  interactions and items
 3.Holodevice
 4.Dives through the other parts of the station.
 5.Works with Entity
+

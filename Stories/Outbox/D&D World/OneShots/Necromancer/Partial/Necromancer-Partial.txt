@@ -1,0 +1,88 @@
+Necromancer-Partial
+
+1) Long dark hallway which is sloped, 3 sections of steepness, is we/slippery and ends in a bottomless pit
+2) Bloody Pentagram with additional symbols, some one was trying to subvert the seal. Dead guardians. Need five objects to open the door.
+3)3 gnoll archers, 1 monster, archers are up above.
+4) Rope across giant chasm
+5) The artifact is a very heavy iron ball with rivets, looks very old and rusted. Very heavy.
+6) Winding hallway with three fog paralyzation traps. Further up, a giant boulder falls. There is a hole at the end of the track.
+7) Room of darkness and vines. Vines more when you move. There appears to be several doorways of light, only one is correct. Must see through the illusion.
+8)Lab of potions, additive color puzzle
+9) Books, each one has a number on it.
+	1|4   1|12   2|5   3|7   4|8   2|3   3|18   10|13   1|5
+	[]=[[1]]
+
+	(1/4)+(1/12)+(4/8)+(3/18)
+
+
+Skeleton 
+str 16 +3
+dex 12 +1
+con 14 +2
+int 8 -1
+wis 8 -1
+cha 6 -2
+
+AC 13
+HP 10
+Great Axe d20+4 1d12+3
+
+Gnoll 
+str 14 +2
+dex 12 +1
+con 11
+int 6 -2
+wis 10
+cha 7 -2
+
+Ac 15
+hp 20
+CompLongbow d20+3 1d8+2
+
+Necromancer
+str 12 +1
+dex 16 +3
+con 10
+int 14 +2
+wis 20 +5
+cha 9 -1
+
+AC 15
+Kills with a spell of 1st or higher, gets 2X lvl HP, or 3X if necromancy spell
+
+0
+Chill Touch
+Firebolt
+
+1
+False life
+Inflict Wounds
+Ray of sickness
+Sheild
+Mage armor
+
+2
+Blindness Deafness
+Ray of enfeeblement
+
+3 
+Animate Dead
+Bestow Curse
+Vampiric Touch
+
+4 
+Blight
+
+Charom
+lvl 4 paladin
+
+Bulseria 
+lvl 4 wizard
+
+
+
+Asledof   
+Gara      
+Meridia   
+Temerson  
+
