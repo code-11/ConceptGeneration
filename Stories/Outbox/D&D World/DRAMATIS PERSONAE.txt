@@ -181,7 +181,7 @@ Tanglestep- A common undergrowth vine. Likes warmer weather but will tolerate th
 
 Unmentioned:
 
-Background on the world:
+LORE:
 Somewhere between one and two thousand years  ago (so not actually that long) an advanced civilization realized a collision between their galaxy and another was going to happen. Normally such an event wouldn't effect many things, but they predicted that their entire solar system would collide with another larger red giant. In order to preserve their civilization against the oncoming fall, some of their brightest minds combined and came up with the plans for a incredibly powerful device capable of warping reality itself at a subatomic level. Combined with this device was an incredibly powerful AI capable of transferring arbitrary requests and wishes into reality.
 
 This device and the scientist who had made it intended to use the device to set up a new world and reform their fractured civilization. They had prepared for this eventuallity and had planned to use an experiemental jump drive to transport them to a habitable planet they had found. However, their calculations were interrupted as the galaxies collided, and by concidense, during their jump, the collision shot them off course and into the gravity well of another planet. 
@@ -230,7 +230,11 @@ The tome is a instruction manual for the world engine. No one remembers its orig
 	-(1) Eaten by the wilder godlet
 	-(10) Scattered in the field of totems 
 
-Uzerai-
+Uzerai-The transformation affected the planet in many ways. It was a former volcanic hellscape, at least for its colonizers. However, what the colonists did not know, is that it in fact was habited. On its surface, living off the chemical plumes of the less hostile sulfur zones was a collection of silicoln based single celled organisms. These organisms formed large matte like colonies and spires that were unfortunately very simmilarly looking to the plume funnels they congregated around.They had actually undergone a bit of evolution and the colony could react to external threats using a sluggish but effective system of chemical signals.
+
+When the transformation happened, the world engine struggled to incorporate such an alien collection of organisms into the world it was attempting to build. The end result was Uzerai. The Uzerai are humanoid elementals which typically dwell in places of extreme heat. In keeping with their chemical signalling mechanism, they together form a planet spanning physic gestalt intellegence. This intellegence, also called Uzerai, is recently conscious and self aware, but in a constant state of horror and incomprehension at the world which, to its eyes, has been transformed into a hostile hellscape. Consciousness to it is a nauseating and neverending hell from which it desperately wishes to be delivered but lacks the understanding to free itself.
+
+Uzerai together is essentially an alien god and affects on the world commensurate with that power, but operates very slowly. It neither understands nor cares for the lives of the people on the surface and wishes the world to return to its prior condition and for it to return to its unconscious state.     
 
 
 God of knowledge
