@@ -20,3 +20,94 @@
 -This elf has learned the secrets of the wildnerness (gone completely crazy) by meeting the wild godling. 
 -Has constructed an abomination plant creation which has grown out of his control.
 -He operates from the nearby fort.
+
+First session
+-A collection of people discuss dissapearances.
+-Three people have dissapeared
+	-Agnez Le tellier
+	-Lauren, Agnez's sister
+	-Derold, Agnez's husband
+-The band can't send any more men because they are holding the road.
+-Adventurers are really the only ones who can go
+-They have a chance of meeting Agnez and Derold on the road encounter:
+	1 Both of them injured alone
+	2 Only one of them other is being attacked/dead
+	3 Both of them and all are being attacked
+	4 Weasels first
+	5 reroll
+	6 reroll
+-2x Giant weasel 
+	AC 13
+	HP 9
+	Speed 40ft
+	Prof +2
+	str 11, dex 16(+3) con 10, int 4(-3) wis 12(+1) cha 5(-3)
+	Adv on perception checks
+	+5 to hit, d4+3 peircing damage
+-3x weasel
+	AC 13
+	HP 4
+	Speed 30ft
+	prof +1
+	str 3 (-4)
+	dex 16(+3)
+	con 8 (-1)
+	int 2 (-4)
+	wis 12(+1)
+	cha 3 (-4)
+	+4 to hit 4 damage
+
+- roll to not get lost DC30 avg or 18 high, 1 low
+- There is a river with a well defenceable island in the middle 
+-During the night it can start to rain and flood
+
+-environment gets more hilly
+-Strange bird calls
+-Forest is still
+-DC 45 avg, 22 high, 3 low to spot vien network
+-Come across a fork in the road
+-DC  36 avg, 18 high, 0 low to spot foot prints
+-Left is correct path
+-Right gets them lost(?)
+
+-Find the grotto with clear footsteps up to the edge
+-There is a pool in front of a waterfall 50 ft wide
+-Water is murky from the waterfall
+-If they swim into it they have to pass perception check of 18 to see the underwater tendrills
+-If the tendrills are awakened, they need to pass a 17 dex save or be grappled
+-Fight against the tendril core
+-4x leaf souls
+	AC 13
+	HP 10 
+	Dmg resistance to physical attacks
+	-str 4(-3)
+	-dex 16(+3)
+	-con 8 (-1)
+	-int 14 (+2)
+	-wis 12 (+1)
+	-cha 4 (-3)
+	Attack with wind 
+	- +4 to hit 1d4+1
+	- vine tangle 1d4 dmg and grappled
+-1x Core
+	AC 16
+	HP 35
+	str 14(+2)
+	dex 10
+	con 14(+2)
+	int 5(-3)
+	wis 10
+	cha 11
+	dmg resistance to bludgeoning 
+	-Poison dart X2
+		-1d4 damage, poisoned
+		- Con save 12 after next round or 1d4 more dmg
+	-Tendrils X2
+		- +4 to hit, adv in within 5 ft, 1d4 dmg adv on grapple
+		-Once grappled, deals 2d6 +2 dmg
+
+-After defeated, they find the master tendril that lead to the core
+-They find Lauren but she is weak/poisoned.
+
+
+
