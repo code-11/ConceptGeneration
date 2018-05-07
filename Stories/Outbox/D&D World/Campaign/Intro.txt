@@ -55,11 +55,20 @@ First session
 	int 2 (-4)
 	wis 12(+1)
 	cha 3 (-4)
-	+4 to hit 4 damage
+	+4 to hit 1d4 damage
 
 - roll to not get lost DC30 avg or 18 high, 1 low
 - There is a river with a well defenceable island in the middle 
 -During the night it can start to rain and flood
+
+
+
+Zach- Maya 7
+Matt- Leon 18
+----- Faye 17
+Vines 19          0
+wisp2 11          0
+Agnez 15
 
 -environment gets more hilly
 -Strange bird calls
@@ -108,6 +117,8 @@ First session
 
 -After defeated, they find the master tendril that lead to the core
 -They find Lauren but she is weak/poisoned.
+
+The forest of the two worlds
 
 
 
