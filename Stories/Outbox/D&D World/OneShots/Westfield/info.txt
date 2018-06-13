@@ -1,0 +1,65 @@
+Westfield is burning. The air is dark and black from days upon days of fire. All around the once bustling city, the remains of the crops smolder in their ashes, still warm from their incineration.
+
+The city is a horrifying lawless place. The screams of men and women are frequent, and the many civilians trapped in the conflict can do nothing more than huddle in their houses and hope for the best. 
+
+Bands of men roam the street, and the military situation has turned chaotic. Mages spout fire, while unmarked soldiers commit horrible crimes in the muffled dead heat of the night.
+
+-Five factions
+	-Civilians
+	-North
+	-South + Mages
+	-Collective
+	-Count's Men
+
+If part of twilight infiltrators:
+- Its been two years since you met the necromancer
+- Cormeryn and Judith turned on the South and are now attempting to escape.
+- Barthalomiew had to be silenced somehow. Leave up to them how that was done.
+- Cormeryn had proved to be a valuable ally, and has saved your life multiple times, and you him. 
+- Cormeryn has mostly removed your geas and agrees to take it off completely if you help him in one last task. 
+- He is holding your baby for you.
+- He has a cousin, the last of his family, in westfield and he needs to get her out.
+- She is currently the ward of the count.
+
+In the center of the city, and on a rise is the residence of the count.
+
+
+-Archers on the roof
+	-3 of them 
+	hp 15
+	ac 14
+	str 10 dex 14 con 10 wis 12 int 12 cha 12
+	prof +1
+	Short bow +3 to hit, d6+2 to wound
+
+-Band of soldiers
+	-4 of them, 1 big guy, 1 archer, 2 regulars
+
+-Squad of soldiers
+
+-Mage taking advantage of some civilians
+
+-Entrance to a underpassage
+	-While in the underpassage you hear people dc 10
+		-They're Collective plotting an attack on the count's men.
+	-The under passage may have been a sewer at one point but now has been repurposed as a safer way of getting from place to place in the chaos
+	-Traps dc 18 to spot, dc 15 to avoid 2d6 damage
+
+-Void walker or Israel Harper or both
+
+-Acolyte of the unseen goddess
+
+Count's Residence
+
+The residence is a two story wall on the top of a sudden steep hill. You can just barely see the tops of slightly taller buildings inside the stockade. The compound does not seem to have been spared fighting, and the buildings all around the stockade have been burnt to the ground.
+
+-Guard challenge.
+-Patrol
+-Find girl
+-Discussion between Barthalomiew if alive, or an unnamed spy leader with the Count, trying to encourage to switch sides.
+	-He had a incredibly deadly poisoned weapon
+	-Try to kill judith
+
+-If not enough time, have a encounter on the way out as well.
+
+
