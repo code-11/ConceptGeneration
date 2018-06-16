@@ -18,7 +18,7 @@ If part of twilight infiltrators:
 - Cormeryn had proved to be a valuable ally, and has saved your life multiple times, and you him. 
 - Cormeryn has mostly removed your geas and agrees to take it off completely if you help him in one last task. 
 - He is holding your baby for you.
-- He has a cousin, the last of his family, in westfield and he needs to get her out.
+- He has a sister, the last of his family, in westfield and he needs to get her out.
 - She is currently the ward of the count.
 
 In the center of the city, and on a rise is the residence of the count.
@@ -61,5 +61,28 @@ The residence is a two story wall on the top of a sudden steep hill. You can jus
 	-Try to kill judith
 
 -If not enough time, have a encounter on the way out as well.
+
+
+
+
+Judith 1-
+Renin 1
+Guy 12
+
+Tommy 'Discretion'
+
+
+Emeryn Ward
+
+	hp 15
+	ac 14
+	str 10 dex 14 con 10 wis 12 int 12 cha 12
+	prof +1
+	Short bow +3 to hit, d6+2 to wound
+
+	hp30 3
+	ac 16
+	str 12 dex 16 con 12 wis 14 int 14 cha 10
+	prof +2
 
 
