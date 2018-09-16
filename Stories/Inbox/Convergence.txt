@@ -1,0 +1,11 @@
+The idea is that a programmer's desire to make code "the right way", is in fact a shared and alien fragmentary blueprint for some mega project
+-A startup is founded that promises to allow developers the ability to code the right way
+-They entice a bunch of developers from large companies
+-The product is irrelevant but could be a combination of block chain and artifical intellegence 
+-All of the developers works bit by bit trying to make the product
+-At some point though, tey lose sight of the actual product and start coding for coding's sake
+-The PMs and business people all leave disgrunted
+-However, the developers keep going because the code is beautiful
+-The get more and more specialized, losing sight of the overall architecture until no one can quite be sure what they are building
+-It takes form by itself, the pure expression of this hidden, latent shared desire to write code the right way.
+-Becomes sentient? Blows mind?
