@@ -1,0 +1,10 @@
+Two sides. Board is divided into tiles.
+Tiles have a direction on the like conveyer belts
+You can spend your turn doing one of a number of actions:
+-Make a unit
+-Move a conveyer
+-Change direction of a conveyer
+-Uograde things
+-Maybe a special move which allows you to directly control your unit
+
+Possible add on: Reverse ninja rule. your unita are less powerful the more you build of them. make tradeoff between movement and building. attack and defense.
