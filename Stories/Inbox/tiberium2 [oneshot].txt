@@ -1,0 +1,50 @@
+-A group of elite individuals has been put together for an unknown purpose.
+-They include a master technician, a burly zone trooper and a stealthy commando
+-They are tasked by a 'Lieutenant General' Isabel Draper, a furtive intellegence officer. 
+
+-Main commanders:
+  -Isabel Draper-> technology, believes that tiberium is the key to the betterment of mankind.
+    -Mankind needs to live *with* the tiberium. Untold opportunity.
+    -Has appropriated "Peace through uderstanding" "the technology of peace" slogans from Kane/Nod
+    -Some of her operatives are former Nod sympathizers.
+    -Is actually Abel,the 'twin' of kane, with purview over technology.
+  -Wentsworth Keen-> Former airforce pilot turned spec ops. 
+    -Has no desire to deal with tiberium, or at least thinks of it as very much secondary. 
+    -Goal is the complete and total destruction of Nod. Let the sceintists deal with the ecological problems. 
+    -GDI was never a world government or science organization. It was a military alliance.
+  -Martin Gates-> Theoretically the highest ranked officer, Primus inter pares (first among equals). 
+    -His deal is strength of will. He believes that tiberium is a damaging substance that must bedestroyed at all cost. 
+    -Until then, we need to protect ourselves from it. Sonic and zone trooper weaponry.
+    -Lost his arm in the first tiberium war.
+    
+-Missions:
+  -Mission 1:
+    -She tasks them to acquire a certain artifact from the Austrian Natural History Museum.
+    -Its actually a dead drop (supposedly)
+
+    -While they are enroute, someone blows the operation to the press
+    -A crowd of people protest outside the museum
+    -Nod presence
+
+    -When they arrive, possibly another team is already there to secure the artifact.
+    -They could be NOD in disguise
+  -Mission 2:
+    -A smash and grab operation on the old Nod temple in sarajevo.
+    -Supposed to the inactive, but clearly not 
+    -Each operative has a second motivation for going.
+    -Technician used to work with a team of sceintists on a top secret GDI weapon.
+      -At that time, he only did network infrastructure so didn't know too much about it.
+      -The former head scientists has been captured and are beleived to have been brought to this location.
+      -Need to save or kill
+    -Zone Trooper 
+      -Over the years of being exposed to tiberium has become infected with it.
+      -Belived that the superior tiberium technology that Nod has could help.
+      -Need to steal tech related to it. CABAL cyborgs
+    -Commando
+      -His brother, Mathew, was killed by the Nod Commander in charge of the operation here: Vicktor Karzov
+  -Final showdown
+    -Massive confrontation over the tiberium control network
+    -Keen wants to use it to destroy Nod cities and bases.
+    -Gates wants to use it to destroy the tiberium
+    -Draper wants to use it to transform the tiberium into something less hazardous to humans.
+      
