@@ -1,0 +1,14 @@
+-Possibly the plot to a metroidvania
+-Earth has been defending against an alien space faring race for some time.
+-Things are going so-so but they have always been on the defense.
+-The main character was some sort of fighter pilot who eventually gets shot down.
+-He travels through war torn orbitals, trying to find his way back to earth.
+-While doing so he learns more about what earth has actually been up to, which might not be all that nice.
+-There is a system of massive concentrating laser that make up a super weapon.
+-He has to decide what to do with it, turn it on its users, blow it up, make it fire on earth.
+-Some possible environments include
+	-Space wreakage
+	-Primal moon
+	-Guarded facility
+	-Bio Infected mirror station
+	-AI Infected other station/ship.
