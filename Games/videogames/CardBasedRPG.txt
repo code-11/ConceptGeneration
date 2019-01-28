@@ -1,0 +1,14 @@
+-Card based single player RPG
+-player interactions are all with cards.
+-For instance you might have a move card 
+-Overmap versus dungeon maps
+-Perhaps the cards have dual effects in combat
+-perhaps there are multiple types of decks, one for overland travel/interaction/dungeon/conversation
+
+-Lone wizard comes across an abandoned tower
+-As it starts to rain he takes shelter in it.
+-But he becomes sick and decides to stay for a few days
+-While he explores the remains of the tower he finds an old staff from the previous inhabitant
+-There is also an attic/basement, neither of which he is able to get into
+-He decides to set up residence in the tower 
+-Interaction with the people and monsters nearby
