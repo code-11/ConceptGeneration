@@ -7,7 +7,7 @@ import matplotlib.pyplot as pyplot
 
 def graph1():
 	return {'A':{'B','D','F'},
-	   'B':{'A','D','C','I'},
+	   'B':{'A','D','C','I','E'},
 	   'C':{'B','I'},
 	   'D':{'A','B','E','F'},
 	   'E':{'B','D','F','G'},
@@ -18,7 +18,7 @@ def graph1():
 
 def graph2():
 	return {'A':{('B',4),('D',5),('F',3)},
-	   'B':{('A',4),('D',2),('C',8),('I',15)},
+	   'B':{('A',4),('D',2),('C',8),('I',15),('E',3)},
 	   'C':{('B',8),('I',4)},
 	   'D':{('A',5),('B',2),('E',1),('F',1)},
 	   'E':{('B',3),('D',1),('F',4),('G',2)},
@@ -35,6 +35,17 @@ def graph3():
 	Z[29,20:36]=1
 	graph=bin2graph(Z)
 	return Z,graph
+
+def graph4():
+	return {(3,3):{(6,9),(10,6),(12,2)},
+	   (6,9):{(3,3),(10,6),(9,12),(11,12),(13,7)},
+	   (9,12):{(6,9),(11,12)},
+	   (10,6):{(3,3),(6,9),(13,7),(12,2)},
+	   (13,7):{(6,9),(10,6),(12,2),(22,3)},
+	   (12,2):{(3,3),(10,6),(13,7),(22,3)},
+	   (22,3):{(12,2),(13,7),(19,11)},
+	   (19,11):{(22,3),(11,12)},
+	   (11,12):{(6,9),(9,12),(19,11)}}
 
 def BFS(graph,start,goal):
 	visited={start}
@@ -79,12 +90,39 @@ def Dijkstra(graph,start,goal):
 				prev[n]=u
 	return None
 
-def AStar(graph, start, goal):
-	visited={start}
+#Finds cumulative distance between a list of points
+def accum_map_dist(map_dist,path):
+	accum_dist=0
+	if len(path)>1:
+		#breaks down [A,B,C,D] into [(A,B),(B,C),(C,D)]
+		for p1,p2 in zip(path,path[1:]):
+			accum_dist+=map_dist(p1,p2)
+	return accum_dist
+
+#Distance formula
+def map_dist(p1,p2):
+	return math.hypot(float(p2[0]-p1[0]),float(p2[1]-p1[1]))
+
+#A star with normal euclidean distance
+def MapAStar(graph,start,goal):
+	estimate= lambda pos: map_dist(pos,goal)
+	dist_func= lambda path: accum_map_dist(map_dist,path)
+	return AStar(graph,start,goal,dist_func,estimate)
+
+#A star with manhattan distance
+def ManhattanAStar(graph, start, goal):
 	estimate = lambda pos: (abs(pos[0]-goal[0])+abs(pos[1]-goal[1]))
-	heuristic= lambda path: (len(path)-1)+estimate(path[-1])
+	#Shortcut. All moves are one away so the cumulative distance is just the length-1
+	dist_func= lambda path: (len(path)-1)
+	return AStar(graph, start,goal,dist_func,estimate)
+
+#accum_dist_func is g(n) and heuristic is h(n)
+def AStar(graph, start, goal,accum_dist_func, heuristic):
+	visited={start}
+	#f(n)=g(n)+h(n)
+	priority_func= lambda path: accum_dist_func(path)+heuristic(path[-1])
 	queue=PriorityQueue()
-	queue.put((heuristic([start]),[start]))
+	queue.put((priority_func([start]),[start]))
 
 	while not queue.empty():
 		priority,path=queue.get()
@@ -96,7 +134,7 @@ def AStar(graph, start, goal):
 		for n in graph[cur_pos]:
 			if n not in visited:
 				visited.add(n)
-				queue.put((heuristic(path),path+[n]))
+				queue.put((priority_func(path+[n]),path+[n]))
 	return None
 
 #From wikipedia: https://en.wikipedia.org/wiki/Maze_generation_algorithm#Cellular_automaton_algorithms
@@ -152,13 +190,17 @@ def bin2graph(bin_map):
 
 #Very unoptimized code to double check my graph creation function
 #May or may not flip the y axis by accident
-def graph_check(graph):
+def graph_check(graph,path=None):
 	for key,value in graph.items():
 		x,y=key
 		pyplot.plot(x,y,'ro')
 		for edge in value:
 			nx,ny=edge
 			pyplot.plot([x,(x+nx)/2],[y,(y+ny)/2],'k-')
+
+	if(path):
+		xs,ys=zip(*path)
+		pyplot.plot(xs,ys,'b-')
 
 	pyplot.show()
 
@@ -172,8 +214,19 @@ def map_check(bin_map,path):
 
 
 if __name__=="__main__":
+	#TEST 1
 	# print(BFS(graph1(),'A','I'))
+	
+	#TEST 2
 	# print(Dijkstra(graph2(),'A','I'))
-	bin_map,graph3=graph3()
-	path=AStar(graph3,(2,2),(40,40))
-	map_check(bin_map,path)
+
+	#TEST 3
+	# bin_map,graph3=graph3()
+	# path=ManhattanAStar(graph3,(2,2),(40,40))
+	# map_check(bin_map,path)
+
+	#Test 4 
+	path=MapAStar(graph4(),(12,2),(9,12))
+	graph_check(graph4(),path)
+
+
