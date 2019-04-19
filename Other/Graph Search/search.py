@@ -220,7 +220,7 @@ if __name__=="__main__":
 	#TEST 2
 	# print(Dijkstra(graph2(),'A','I'))
 
-	#TEST 3
+	#TEST 3 You can ignore this one
 	# bin_map,graph3=graph3()
 	# path=ManhattanAStar(graph3,(2,2),(40,40))
 	# map_check(bin_map,path)
