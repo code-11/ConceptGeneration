@@ -4,4 +4,60 @@ Faye: A forest spirit attacks sirle de margas in his bed. If Faye is there, he l
 Maya has a horrifying vision of the sun and a spec of void.
 The next day Leon is approached by his fellow acolyte who wants to use some of the herbs Agnez collected to perform a rain ritual.
 
+-Leaf souls
+	AC 13
+	HP 10 
+	Dmg resistance to physical attacks
+	-str 4(-3)
+	-dex 16(+3)
+	-con 8 (-1)
+	-int 14 (+2)
+	-wis 12 (+1)
+	-cha 4 (-3)
+	Attack with wind 
+	- +4 to hit 1d4+1
+
+Writhing vegtable mass
+	AC 11
+	HP 50
+	str 19 (4)
+	dex 8 (-1)
+	con 16 (+3)
+	int 5 (-3)
+	wis 7 (-2)
+	cha 7 (-2)
+	
+	+6 to hit, 2d8+4 bludgeoning
+	Also tries to entangle
+
+Spike plant 
+	AC 12 
+	HP 22
+	str 10 (0)
+	dex 18 (4)
+	con 16 (3)
+	int 5 (-3)
+	wis 7 (-2)
+	cha 7 (-2)
+
+	Attacks with spikes, +6 to hit. 1d4+4 damage DC 12 or poisoned.  
+
+
+Miniboss, wild Dryad
+	AC 11, 16 with barkskin
+	HP 22
+	str 10 (0)
+	dex 12 (1)
+	con 11 (0)
+	int 14 (2)
+	wis 15 (2)
+	cha 18 (4)
+
+Entangle, barkskin,shillelagh, 
+
+Fey Charm
+30ft range, DC 14 wisdom save, or charmed. Can reroll any harm. 
+
+
+
  
