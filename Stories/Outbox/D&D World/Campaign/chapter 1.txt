@@ -4,6 +4,11 @@ Faye: A forest spirit attacks sirle de margas in his bed. If Faye is there, he l
 Maya has a horrifying vision of the sun and a spec of void.
 The next day Leon is approached by his fellow acolyte who wants to use some of the herbs Agnez collected to perform a rain ritual.
 
+They presumably journey into the woods to find the source of the vines, which is the fortress Kom-el-Amar
+
+Possible floor plans:
+https://www.reddit.com/r/DnD/comments/7dt96u/oc_map_i_made_for_a_small_military_stronghold/
+
 -Leaf souls
 	AC 13
 	HP 10 
@@ -43,7 +48,7 @@ Spike plant
 	Attacks with spikes, +6 to hit. 1d4+4 damage DC 12 or poisoned.  
 
 
-Miniboss, wild Dryad
+Miniboss, wild Dryad, Af-Pashet
 	AC 11, 16 with barkskin
 	HP 22
 	str 10 (0)
