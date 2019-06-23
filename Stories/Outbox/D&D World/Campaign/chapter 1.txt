@@ -47,10 +47,10 @@ Spike plant
 
 	Attacks with spikes, +6 to hit. 1d4+4 damage DC 12 or poisoned.  
 
-
+14
 Miniboss, wild Dryad, Af-Pashet
-	AC 11, 16 with barkskin
-	HP 22
+	AC 11, 17 with barkskin
+	HP 50
 	str 10 (0)
 	dex 12 (1)
 	con 11 (0)
