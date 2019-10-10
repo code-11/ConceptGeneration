@@ -32,7 +32,7 @@ Writhing vegtable mass
 	wis 7 (-2)
 	cha 7 (-2)
 	
-	+6 to hit, 2d8+4 bludgeoning
+	+6 to hit, 1d8+4 bludgeoning
 	Also tries to entangle
 
 Spike plant 
