@@ -99,6 +99,8 @@ The Shani:
 
 	"Fallen Pentarch" - The diaspora Ikthosonae of Surhal used to be important, but has fallen in stature.
 
+	Diodachi - Heads of the great merchant houses
+
 	The Order of the Spine (400)
 		Master of the thousand forms
 		Secret order (50)
