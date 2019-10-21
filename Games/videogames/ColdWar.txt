@@ -1,0 +1,21 @@
+Ideas for Cold War game:
+
+Sphere of influence
+	Describes where/how much special actions in other countries can be taken
+	Is scaled by *Prestige*. Obviously, US and Russia start with a fair bit of prestige.
+	Historical centers of influence like french in indo china
+	Can use influece points to spread to other countries, but have to commit? Large influence points to unlock intervention in additional countries, Small influence to spend within those countries. 
+
+	Actions with influence
+		Send war material to help certain sides of a war
+
+
+Historical conflicts
+
+UN 
+	Can do diplomacy to try to get other countries to side with you on key votes
+
+Coups and civil war
+	Conflict starts as guerrilla or coup attempt, and can evolve into civil war
+
+	Model out specific locations within the country? Model out the different ethnic makeup of those countries? Sounds hard.  
