@@ -1,0 +1,225 @@
+{
+  "serialize_version": 1,
+  "name": "Lukas Varga",
+  "gender": "male",
+  "stock": "man",
+  "lifepaths": [
+    [
+      "Villager Setting",
+      "Village Born",
+      0,
+      null,
+      null,
+      null,
+      []
+    ],
+    [
+      "Seafaring Setting",
+      "Sailor",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "p"
+        ]
+      ]
+    ],
+    [
+      "Outcast Subsetting",
+      "Pirate",
+      0,
+      null,
+      null,
+      null,
+      []
+    ]
+  ],
+  "stats": [
+    {
+      "name": "Will",
+      "shade": "B",
+      "mentalPoints": 2,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Perception",
+      "shade": "B",
+      "mentalPoints": 5,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Power",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 4,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Forte",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 5,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Agility",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 6,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Speed",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 2,
+      "eitherPoints": 0
+    }
+  ],
+  "skills": {
+    "lifepath": [
+      {
+        "name": "Seamanship",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Rigging",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Knots",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Brawling",
+        "lifepathPoints": 0,
+        "generalPoints": 1
+      },
+      {
+        "name": "Sing",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Sea-wise",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Gambling",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Pirate Cove-wise",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Knives",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Map-wise",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      }
+    ],
+    "general": [
+      {
+        "name": "Navigation",
+        "lifepathPoints": 0,
+        "generalPoints": 1
+      },
+      {
+        "name": "Read",
+        "lifepathPoints": 0,
+        "generalPoints": 1
+      }
+    ]
+  },
+  "traits": [
+    {
+      "name": "Call Of The Sea"
+    },
+    {
+      "name": "Sea Legs"
+    },
+    {
+      "name": "Sailor's Oath"
+    }
+  ],
+  "gear": [
+    {
+      "cost": 1,
+      "desc": "Shoes"
+    },
+    {
+      "cost": 1,
+      "desc": "Clothes"
+    },
+    {
+      "cost": 5,
+      "desc": "Arms, Run Of The Mill Quality"
+    },
+    {
+      "cost": 3,
+      "desc": "Armor, Gambeson, Run Of The Mill Quality"
+    },
+    {
+      "cost": 1,
+      "desc": "Personal Effects"
+    }
+  ],
+  "property": [],
+  "relationships": [
+    {
+      "desc": "Lost Father",
+      "importance": "minor",
+      "isImmedFam": true,
+      "isOtherFam": false,
+      "isRomantic": false,
+      "isForbidden": false,
+      "isHateful": false
+    }
+  ],
+  "affiliations": [],
+  "reputations": [],
+  "attr_mod_questions": {
+    "Steel": [
+      {
+        "question": "Has the character ever murdered or killed with his own hand more than once?",
+        "answer": true
+      }
+    ],
+    "Health": [
+      {
+        "question": "Is the character athletic and active?",
+        "answer": true
+      }
+    ]
+  },
+  "brutal_life_withdrawn": false,
+  "approp_weapons": {
+    "Foot Soldier": [
+      "Axe",
+      "Bow",
+      "Cudgel",
+      "Crossbow",
+      "Knives",
+      "Mace",
+      "Spear",
+      "Polearm",
+      "Sword"
+    ]
+  }
+}

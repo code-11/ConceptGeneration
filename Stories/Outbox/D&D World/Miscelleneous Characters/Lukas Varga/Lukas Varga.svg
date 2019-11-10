@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400mm"
+   height="297mm"
+   viewBox="0 0 400 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Lukas Varga.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="165.15784"
+     inkscape:cy="794.8247"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g3709"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-5.8964267,211.42619)"
+       inkscape:label="Lukas Varga Character Sheet"
+       id="g3707">
+      <g
+         id="g3709">
+        <g
+           id="g3711">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3713"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.5"
+             d="M 36,36 H 381 V 576 H 36 Z" />
+        </g>
+        <text
+           id="text3717"
+           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:Mason;-inkscape-font-specification:Mason-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,165.5,558.848)">
+          <tspan
+             id="tspan3715"
+             sodipodi:role="line"
+             y="0"
+             x="0 11.76 22.431999 32.304001 41.584 51.456001 60.287998 68.559998 76.720001">Character</tspan>
+        </text>
+        <text
+           id="text3721"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,39,548.928)">
+          <tspan
+             id="tspan3719"
+             sodipodi:role="line"
+             y="0"
+             x="0 5.3039999 9.2959995 16.040001">Name</tspan>
+        </text>
+        <text
+           id="text3725"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,105,548.928)">
+          <tspan
+             id="tspan3723"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.0960002 7.0560002 11.248 14.888">Stock</tspan>
+        </text>
+        <text
+           id="text3729"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,174,548.928)">
+          <tspan
+             id="tspan3727"
+             sodipodi:role="line"
+             y="0"
+             x="0 5.0240002 9.1599998">Age</tspan>
+        </text>
+        <text
+           id="text3733"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,243,548.928)">
+          <tspan
+             id="tspan3731"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.072 6.4720001 9.184 13.048 17.52 21.511999 24.472 29.120001">Lifepaths</tspan>
+        </text>
+        <text
+           id="text3737"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,42,533.928)">
+          <tspan
+             id="tspan3735"
+             sodipodi:role="line"
+             y="0"
+             x="0 5.3942189 11.724218 17.338438 23.458437 28.658438 31.828438 37.892071 44.01207 47.946289 54.286289">Lukas Varga</tspan>
+        </text>
+        <text
+           id="text3741"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,105,533.928)">
+          <tspan
+             id="tspan3739"
+             sodipodi:role="line"
+             y="0"
+             x="0 8.6199999 14.74">Man</tspan>
+        </text>
+        <text
+           id="text3745"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,174,533.928)">
+          <tspan
+             id="tspan3743"
+             sodipodi:role="line"
+             y="0"
+             x="0 6.3600001">21</tspan>
+        </text>
+        <text
+           id="text3749"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,208.5,533.338)">
+          <tspan
+             id="tspan3747"
+             sodipodi:role="line"
+             y="0"
+             x="0 6.6202736 9.3902731 12.160274 14.930273 21.050274 27.390274 33.540272 36.710274 43.570274 49.680275 53.614491 59.944492 63.114491 66.284492 72.624489 78.744492 81.514496 84.284492 90.394493 94.504494 97.674492 100.84449 106.65476 109.42477 113.53477 119.65476 123.57477">Village Born, Sailor, Pirate</tspan>
+        </text>
+        <text
+           id="text3753"
+           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:Mason;-inkscape-font-specification:Mason-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,180.116,481.776)">
+          <tspan
+             id="tspan3751"
+             sodipodi:role="line"
+             y="0"
+             x="0 11.776 19.936001 27.823999 34.063999 42.223999 49.743999">Beliefs</tspan>
+        </text>
+        <text
+           id="text3761"
+           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:Mason;-inkscape-font-specification:Mason-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,171.652,404.704)">
+          <tspan
+             id="tspan3759"
+             sodipodi:role="line"
+             y="0"
+             x="0 7.2319999 17.632 24.656 32.928001 39.167999 49.568001 58.400002 66.671997">Instincts</tspan>
+        </text>
+        <g
+           id="g3763">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3765"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.5"
+             d="m 56,384.784 h 305 m -305,-20 h 305 m -305,-20 h 305" />
+        </g>
+        <text
+           id="text3769"
+           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:Mason;-inkscape-font-specification:Mason-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,182.828,327.632)">
+          <tspan
+             id="tspan3767"
+             sodipodi:role="line"
+             y="0"
+             x="0 10.656 19.936001 29.808001 36.048 44.32">Traits</tspan>
+        </text>
+        <text
+           id="text3773"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,39,317.712)">
+          <tspan
+             id="tspan3771"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.4640002 9.1120005 13.104 16.648001 20.639999 24.280001 27.24 31.104 34.647999 36.639999 41.279999 44.824001 48.816002 51.216 54.175999">Character Traits</tspan>
+        </text>
+        <text
+           id="text3777"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,151,317.712)">
+          <tspan
+             id="tspan3775"
+             sodipodi:role="line"
+             y="0"
+             x="0 5.0879998 7.4879999 11.352 13.344 17.983999 21.528 25.52 27.92 30.879999">Die Traits</tspan>
+        </text>
+        <text
+           id="text3781"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,266,317.712)">
+          <tspan
+             id="tspan3779"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.4640002 8.4560003 10.856 13.256 16.096001 21.072001 25.719999 27.712 32.352001 35.896 39.888 42.287998 45.248001">Call-On Traits</tspan>
+        </text>
+        <text
+           id="text3785"
+           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,39,303.64)">
+          <tspan
+             id="tspan3783"
+             sodipodi:role="line"
+             y="0"
+             x="0 5.072 9.9680004 12.184 14.4 19.288 22.576 24.768 28.927999 31.464001 37.759998 42.655998 45.792">Sailor's Oath</tspan>
+        </text>
+        <text
+           id="text3789"
+           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,39,294.048)">
+          <tspan
+             id="tspan3787"
+             sodipodi:role="line"
+             y="0"
+             x="0 6.0079999 10.928 13.12 17.280001 19.816 25.288 27.823999 30.176001 35.063999 40.127998 45.023998 50.088001 52.624001 55.16 60.040001 65.103996 70 73.136002 75.671997 81.968002 87.031998">He's A Jonah, That One</tspan>
+        </text>
+        <text
+           id="text3793"
+           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,39,284.456)">
+          <tspan
+             id="tspan3791"
+             sodipodi:role="line"
+             y="0"
+             x="0 6.1599998 9.448 14.512 19.576">Drunk</tspan>
+        </text>
+        <text
+           id="text3797"
+           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,39,274.864)">
+          <tspan
+             id="tspan3795"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.6833749 7.7955937 12.683594 17.755594 19.971594 24.891594 32.683594 35.219593 42.947811 45.163811 48.299812 53.363811 55.899811 61.371811 66.435814 69.571815 74.635811 79.523811 82.811813 85.027809 88.163811">Problem With Authority</tspan>
+        </text>
+        <text
+           id="text3801"
+           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,266,303.64)">
+          <tspan
+             id="tspan3799"
+             sodipodi:role="line"
+             y="0"
+             x="0 5.072 9.9919996 14.888 17.424 21.739374 26.659374 31.731375">Sea Legs</tspan>
+        </text>
+        <text
+           id="text3805"
+           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:Mason;-inkscape-font-specification:Mason-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,152.62,220.56)">
+          <tspan
+             id="tspan3803"
+             sodipodi:role="line"
+             y="0"
+             x="0 12 20.16 28.048 37.439999 45.712002 51.952 62.400002 72.800003 79.823997 90.496002 96.736 104.736">Relationships</tspan>
+        </text>
+        <text
+           id="text3809"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,39,210.64)">
+          <tspan
+             id="tspan3807"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.8319998 8.6960001 11.096 15.088 18.048 20.448 24.639999 29.288 32.632 37.279999 39.68 44.152">Relationships</tspan>
+        </text>
+        <text
+           id="text3813"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,122.25,210.64)">
+          <tspan
+             id="tspan3811"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.4640002 6.8639998 10.408 14.048 16.448 20.312">Circles</tspan>
+        </text>
+        <text
+           id="text3817"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,208.5,210.64)">
+          <tspan
+             id="tspan3815"
+             sodipodi:role="line"
+             y="0"
+             x="0 5.3039999 9.2959995 16.040001 19.903999 24.384001 26.375999 30.84 33.240002 36.784 40.424 42.824001 46.688">Named Circles</tspan>
+        </text>
+        <text
+           id="text3821"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,294.75,210.64)">
+          <tspan
+             id="tspan3819"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.1999998 8.8479996 12.712 19.455999 23.511999 25.504 29.968 32.368 35.911999 39.551998 41.952 45.816002">Enemy Circles</tspan>
+        </text>
+        <text
+           id="text3825"
+           style="font-variant:normal;font-weight:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="scale(1,-1)"
+           x="39"
+           y="-196.08322">
+          <tspan
+             id="tspan3823"
+             sodipodi:role="line"
+             y="-196.08322"
+             x="39 43.315376 48.203377 52.363373 55.499374 58.035378 61.901001 66.796997 69.932999 74.997002 79.917">Lost Father</tspan>
+        </text>
+        <text
+           id="text3829"
+           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:Mason;-inkscape-font-specification:Mason-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,82.284,143.488)">
+          <tspan
+             id="tspan3827"
+             sodipodi:role="line"
+             y="0"
+             x="0 13.2 21.360001 31.232 40.512001 45.792 50.240002 60.175999 70.624001 77.648003 84.671997 92.832001 99.856003 106.88 113.12 123.568 133.968 140.992 145.44 155.312 165.71201 175.87199 180.32001 190.576 199.856 210.304 218.304 226.464 235.584 243.856">Gear, Possessions and Property</tspan>
+        </text>
+        <text
+           id="text3833"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,39,127.568)">
+          <tspan
+             id="tspan3831"
+             sodipodi:role="line"
+             y="0"
+             x="0 6.3400002 12.67 18.780001 24.93">Shoes</tspan>
+        </text>
+        <text
+           id="text3837"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,154,127.568)">
+          <tspan
+             id="tspan3835"
+             sodipodi:role="line"
+             y="0"
+             x="0 6.98 9.75 15.86 19.780001 26.110001 32.259998">Clothes</tspan>
+        </text>
+        <text
+           id="text3841"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,269,127.568)">
+          <tspan
+             id="tspan3839"
+             sodipodi:role="line"
+             y="0"
+             x="0 6.8400002 10.774219 20.514219 25.714218 28.884218 32.054218 38.544998 44.875 51.205002 54.375 62.244999 65.764999 68.934998 75.035004 81.364998 87.514999 90.684998 99.305 102.075 104.845 107.615 110.785 118.655 124.985 131.105 133.875 136.645 140.565">Arms, Run Of The Mill Quality</tspan>
+        </text>
+        <text
+           id="text3845"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,39,113.568)">
+          <tspan
+             sodipodi:role="line"
+             id="tspan4455"
+             x="0"
+             y="0">Armor, Gambeson,</tspan>
+          <tspan
+             sodipodi:role="line"
+             x="0"
+             y="12.5"
+             id="tspan4467">Run of the mill</tspan>
+        </text>
+        <text
+           id="text3849"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,154,113.568)">
+          <tspan
+             id="tspan3847"
+             sodipodi:role="line"
+             x="0"
+             y="8.8476562" />
+        </text>
+        <g
+           id="g3851">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3853"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.5"
+             d="M 411,36 H 756 V 576 H 411 Z" />
+        </g>
+        <text
+           id="text3857"
+           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:Mason;-inkscape-font-specification:Mason-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,496.108,558.848)">
+          <tspan
+             id="tspan3855"
+             sodipodi:role="line"
+             y="0"
+             x="0 12.576 21.695999 29.968 40.639999 50.512001 54.959999 64.832001 75.232002 85.391998 89.839996 100.176 108.176 114.416 122.416 133.088 142.96001 153.36 159.60001 167.75999">Artha and Epiphanies</tspan>
+        </text>
+        <text
+           id="text3861"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,439.846,539.684)">
+          <tspan
+             id="tspan3859"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.0420001 6.0359998 8.2559996">Fate</tspan>
+        </text>
+        <text
+           id="text3865"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,420.496,532.742)">
+          <tspan
+             id="tspan3863"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.5999999 6.7740002 9.54 12.846 14.862 17.628 20.934 24.054001 25.374001 28.188">Open-end 6s</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3867"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 480,536.928 c 0,6.627 -5.373,12 -12,12 -6.627,0 -12,-5.373 -12,-12 0,-6.627 5.373,-12 12,-12 6.627,0 12,5.373 12,12" />
+        <g
+           id="g3869">
+          <text
+             id="text3873"
+             style="font-variant:normal;font-weight:bold;font-size:16px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,463,531.928)">
+            <tspan
+               id="tspan3871"
+               y="0"
+               x="0">F</tspan>
+          </text>
+        </g>
+        <text
+           id="text3877"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,509.916,539.684)">
+          <tspan
+             id="tspan3875"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.3959999 6.2940001 8.9519997 11.46 14.604 18.09">Persona</tspan>
+        </text>
+        <text
+           id="text3881"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,498.048,532.742)">
+          <tspan
+             id="tspan3879"
+             sodipodi:role="line"
+             y="0"
+             x="0 2.46 5.2740002 8.8260002 10.146 13.32 16.086 18.455999 19.775999 22.950001 25.962 27.582001 30.888">+1D per point</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3883"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 560,536.928 c 0,6.627 -5.373,12 -12,12 -6.627,0 -12,-5.373 -12,-12 0,-6.627 5.373,-12 12,-12 6.627,0 12,5.373 12,12" />
+        <g
+           id="g3885">
+          <text
+             id="text3889"
+             style="font-variant:normal;font-weight:bold;font-size:16px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,543,531.928)">
+            <tspan
+               id="tspan3887"
+               y="0"
+               x="0">P</tspan>
+          </text>
+        </g>
+        <text
+           id="text3893"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,605.52,539.684)">
+          <tspan
+             id="tspan3891"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.816 6.7140002 9.6120005 12.972">Deeds</tspan>
+        </text>
+        <text
+           id="text3897"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,585.684,532.742)">
+          <tspan
+             id="tspan3895"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.552 6.5640001 9.7379999 12.78 14.4 17.166 18.486 21.606001 23.226 25.848 28.614 29.934 32.945999">Double dice or</tspan>
+        </text>
+        <text
+           id="text3901"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,580.734,525.8)">
+          <tspan
+             id="tspan3899"
+             sodipodi:role="line"
+             y="0"
+             x="0 2.3699999 5.1360002 7.506 10.518 12.138 13.758 15.078 16.944 19.691999 21.312 22.931999 25.698 28.818001 30.138 33.257999 34.877998 37.5">reroll failed dice</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3903"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 650,536.928 c 0,6.627 -5.373,12 -12,12 -6.627,0 -12,-5.373 -12,-12 0,-6.627 5.373,-12 12,-12 6.627,0 12,5.373 12,12" />
+        <g
+           id="g3905">
+          <text
+             id="text3909"
+             style="font-variant:normal;font-weight:bold;font-size:16px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,633,531.928)">
+            <tspan
+               id="tspan3907"
+               y="0"
+               x="0">F</tspan>
+          </text>
+        </g>
+        <text
+           id="text3913"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,431,511.936)">
+          <tspan
+             id="tspan3911"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.0960002 8.5039997 10.904 13.304">Skill</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3915"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 451,509.672 h 60" />
+        <text
+           id="text3919"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,420.878,498.428)">
+          <tspan
+             id="tspan3917"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.3 6.3119998 8.3760004 11.124 12.744 14.064 17.634001 20.004 22.068001 25.374001">Total Artha</tspan>
+        </text>
+        <text
+           id="text3923"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,434.834,491.486)">
+          <tspan
+             id="tspan3921"
+             sodipodi:role="line"
+             y="0"
+             x="0 2.8559999 6.0300002 8.7959995 12.102">Spent</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3925"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 469,497.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g3927">
+          <text
+             id="text3931"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,456,492.672)">
+            <tspan
+               id="tspan3929"
+               y="0"
+               x="0">F</tspan>
+          </text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3933"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 491,497.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g3935">
+          <text
+             id="text3939"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,478,492.672)">
+            <tspan
+               id="tspan3937"
+               y="0"
+               x="0">P</tspan>
+          </text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3941"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 513,497.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g3943">
+          <text
+             id="text3947"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,500,492.672)">
+            <tspan
+               id="tspan3945"
+               y="0"
+               x="0">D</tspan>
+          </text>
+        </g>
+        <text
+           id="text3951"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,531,511.936)">
+          <tspan
+             id="tspan3949"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.0960002 8.5039997 10.904 13.304">Skill</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3953"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 551,509.672 h 60" />
+        <text
+           id="text3957"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,520.878,498.428)">
+          <tspan
+             id="tspan3955"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.3 6.3119998 8.3760004 11.124 12.744 14.064 17.634001 20.004 22.068001 25.374001">Total Artha</tspan>
+        </text>
+        <text
+           id="text3961"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,534.834,491.486)">
+          <tspan
+             id="tspan3959"
+             sodipodi:role="line"
+             y="0"
+             x="0 2.8559999 6.0300002 8.7959995 12.102">Spent</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3963"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 569,497.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g3965">
+          <text
+             id="text3969"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,556,492.672)">
+            <tspan
+               id="tspan3967"
+               y="0"
+               x="0">F</tspan>
+          </text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3971"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 591,497.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g3973">
+          <text
+             id="text3977"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,578,492.672)">
+            <tspan
+               id="tspan3975"
+               y="0"
+               x="0">P</tspan>
+          </text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3979"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 613,497.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g3981">
+          <text
+             id="text3985"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,600,492.672)">
+            <tspan
+               id="tspan3983"
+               y="0"
+               x="0">D</tspan>
+          </text>
+        </g>
+        <text
+           id="text3989"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,631,511.936)">
+          <tspan
+             id="tspan3987"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.0960002 8.5039997 10.904 13.304">Skill</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path3991"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 651,509.672 h 60" />
+        <text
+           id="text3995"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,620.878,498.428)">
+          <tspan
+             id="tspan3993"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.3 6.3119998 8.3760004 11.124 12.744 14.064 17.634001 20.004 22.068001 25.374001">Total Artha</tspan>
+        </text>
+        <text
+           id="text3999"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,634.834,491.486)">
+          <tspan
+             id="tspan3997"
+             sodipodi:role="line"
+             y="0"
+             x="0 2.8559999 6.0300002 8.7959995 12.102">Spent</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4001"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 669,497.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g4003">
+          <text
+             id="text4007"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,656,492.672)">
+            <tspan
+               id="tspan4005"
+               y="0"
+               x="0">F</tspan>
+          </text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4009"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 691,497.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g4011">
+          <text
+             id="text4015"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,678,492.672)">
+            <tspan
+               id="tspan4013"
+               y="0"
+               x="0">P</tspan>
+          </text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4017"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 713,497.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g4019">
+          <text
+             id="text4023"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,700,492.672)">
+            <tspan
+               id="tspan4021"
+               y="0"
+               x="0">D</tspan>
+          </text>
+        </g>
+        <text
+           id="text4027"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,431,471.936)">
+          <tspan
+             id="tspan4025"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.0960002 8.5039997 10.904 13.304">Skill</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4029"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 451,469.672 h 60" />
+        <text
+           id="text4033"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,420.878,458.428)">
+          <tspan
+             id="tspan4031"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.3 6.3119998 8.3760004 11.124 12.744 14.064 17.634001 20.004 22.068001 25.374001">Total Artha</tspan>
+        </text>
+        <text
+           id="text4037"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,434.834,451.486)">
+          <tspan
+             id="tspan4035"
+             sodipodi:role="line"
+             y="0"
+             x="0 2.8559999 6.0300002 8.7959995 12.102">Spent</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4039"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 469,457.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g4041">
+          <text
+             id="text4045"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,456,452.672)">
+            <tspan
+               id="tspan4043"
+               y="0"
+               x="0">F</tspan>
+          </text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4047"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 491,457.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g4049">
+          <text
+             id="text4053"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,478,452.672)">
+            <tspan
+               id="tspan4051"
+               y="0"
+               x="0">P</tspan>
+          </text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4055"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 513,457.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g4057">
+          <text
+             id="text4061"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,500,452.672)">
+            <tspan
+               id="tspan4059"
+               y="0"
+               x="0">D</tspan>
+          </text>
+        </g>
+        <text
+           id="text4065"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,531,471.936)">
+          <tspan
+             id="tspan4063"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.0960002 8.5039997 10.904 13.304">Skill</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4067"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 551,469.672 h 60" />
+        <text
+           id="text4071"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,520.878,458.428)">
+          <tspan
+             id="tspan4069"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.3 6.3119998 8.3760004 11.124 12.744 14.064 17.634001 20.004 22.068001 25.374001">Total Artha</tspan>
+        </text>
+        <text
+           id="text4075"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,534.834,451.486)">
+          <tspan
+             id="tspan4073"
+             sodipodi:role="line"
+             y="0"
+             x="0 2.8559999 6.0300002 8.7959995 12.102">Spent</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4077"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 569,457.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g4079">
+          <text
+             id="text4083"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,556,452.672)">
+            <tspan
+               id="tspan4081"
+               y="0"
+               x="0">F</tspan>
+          </text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4085"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 591,457.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g4087">
+          <text
+             id="text4091"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,578,452.672)">
+            <tspan
+               id="tspan4089"
+               y="0"
+               x="0">P</tspan>
+          </text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4093"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 613,457.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g4095">
+          <text
+             id="text4099"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,600,452.672)">
+            <tspan
+               id="tspan4097"
+               y="0"
+               x="0">D</tspan>
+          </text>
+        </g>
+        <text
+           id="text4103"
+           style="font-variant:normal;font-weight:bold;font-size:8px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,631,471.936)">
+          <tspan
+             id="tspan4101"
+             sodipodi:role="line"
+             y="0"
+             x="0 4.0960002 8.5039997 10.904 13.304">Skill</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4105"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 651,469.672 h 60" />
+        <text
+           id="text4109"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,620.878,458.428)">
+          <tspan
+             id="tspan4107"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.3 6.3119998 8.3760004 11.124 12.744 14.064 17.634001 20.004 22.068001 25.374001">Total Artha</tspan>
+        </text>
+        <text
+           id="text4113"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,634.834,451.486)">
+          <tspan
+             id="tspan4111"
+             sodipodi:role="line"
+             y="0"
+             x="0 2.8559999 6.0300002 8.7959995 12.102">Spent</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4115"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 669,457.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g4117">
+          <text
+             id="text4121"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,656,452.672)">
+            <tspan
+               id="tspan4119"
+               y="0"
+               x="0">F</tspan>
+          </text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4123"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 691,457.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g4125">
+          <text
+             id="text4129"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,678,452.672)">
+            <tspan
+               id="tspan4127"
+               y="0"
+               x="0">P</tspan>
+          </text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4131"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 713,457.672 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8" />
+        <g
+           id="g4133">
+          <text
+             id="text4137"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
+             transform="matrix(1,0,0,-1,700,452.672)">
+            <tspan
+               id="tspan4135"
+               y="0"
+               x="0">D</tspan>
+          </text>
+        </g>
+        <text
+           id="text4141"
+           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:Mason;-inkscape-font-specification:Mason-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,433.716,421.776)">
+          <tspan
+             id="tspan4139"
+             sodipodi:role="line"
+             y="0"
+             x="0 12.544 22.672001 30.944 39.104 46.127998 51.408001 55.855999 65.136002 73.136002 81.295998 89.183998 97.071999 104.096 108.544 118.416 128.81599 138.976 143.424 157.44 165.71201 176.384 184.54401 193.82401 198.272 215.23199 221.472 228.496 237.328 245.48801 253.37601 261.26401 271.13599 281.53601 289.69601">Notes, Spells and Other Miscellanea</tspan>
+        </text>
+        <text
+           id="text4145"
+           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:Mason;-inkscape-font-specification:Mason-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,499.172,294.704)">
+          <tspan
+             id="tspan4143"
+             sodipodi:role="line"
+             y="0"
+             x="0 9.2799997 18.24 24.48 32.368 40.256001 47.279999 51.728001 63.504002 71.664001 77.903999 88.304001 97.903999 102.352 112.624 120.784 130.65601 139.936 150.336 158.496">Skills Being Learned</tspan>
+        </text>
+        <text
+           id="text4149"
+           style="font-variant:normal;font-weight:normal;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,546.243,289.54)">
+          <tspan
+             id="tspan4147"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.5699999 6.744 8.8079996 10.428 12.492 15.666 18.785999 21.552 22.872 25.638 28.728001 31.902 34.650002 36.27 38.585999 39.905998 42.720001 45.534 46.854 51.672001 53.292 56.598 59.771999 62.088001 63.408001 66.264 68.328003 71.075996 73.139999">Aptitude equals 10 minus Stat:</tspan>
+        </text>
+        <text
+           id="text4153"
+           style="font-variant:normal;font-weight:bold;font-size:5px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,451.685,281.472)">
+          <tspan
+             id="tspan4151"
+             sodipodi:role="line"
+             y="0"
+             x="0 2.8299999 5.2449999 7.46 9.7349997 12.15 14.945 16.795 18.295 20.915001 23.82 25.065001 28.205 31 32.849998 34.349998 36.200001 39.009998 41.810001 44.224998 47.959999 50.485001 51.73 52.875 54.119999 58.369999 59.869999 61.369999 62.869999 64.114998 67.254997 70.050003 71.900002 73.400002 75.25 78.059998 80.860001 83.275002 87.010002 89.535004 90.779999 91.925003 93.169998 96.309998 98.894997 100.395 101.895 103.395 105.245 107.78 109.025 112.165 114.96 116.81 118.31 120.16 122.97 125.77 128.185 131.92 134.44501 135.69 136.83501 138.08 140.64 143.435 145.85001 148.265 151.065 152.31 155.45 158.245 160.095 161.595 163.44501 166.255 169.05499 171.47 175.205 177.73 178.97501 180.12 181.36501 184.19501 186.815 190.39999 192.815 195.03 196.27499 199.41499 202.21001 204.06 205.56 207.41 210.22 213.02 215.435 219.17 221.69501 222.94 224.08501 225.33 227.86501 230.485 232.7 234.55 236.965 238.21001 241.35001 244.145 245.995 247.495 249.345 252.155 254.955 257.37 261.10501">Perception Aptitude 5 | Will Aptitude 8 | Agility Aptitude 4 | Speed Aptitude 8 | Power Aptitude 6 | Forte Aptitude 5</tspan>
+        </text>
+        <text
+           id="text4157"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,431,270.057)">
+          <tspan
+             id="tspan4155"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.072 6.3779998 8.1780005 9.9779997 11.778 13.272 17.25 20.243999 25.302">Skill Name</tspan>
+        </text>
+        <text
+           id="text4161"
+           style="font-variant:normal;font-weight:bold;font-size:6px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,526,270.057)">
+          <tspan
+             id="tspan4159"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.7679999 7.1220002 9.342 11.142 13.362 16.733999 20.094">Aptitude</tspan>
+        </text>
+        <text
+           id="text4165"
+           style="font-variant:normal;font-weight:normal;font-size:4px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,553,270.057)">
+          <tspan
+             id="tspan4163"
+             sodipodi:role="line"
+             y="0"
+             x="0 2.2 4.0440001 5.5879998 6.9640002 8.5080004 9.3879995 10.764 12.772 15.596 17.427999 19.007999 21.087999 22.632 23.511999 25.892 28.007999 29.384001 30.464001 31.84 33.956001 36.035999">Tests towards Aptitude</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path4167"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 431,251.057 h 100 m 16,8 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 m 13,6 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4169"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 591,251.057 h 100 m 16,8 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 m 13,6 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4171"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 431,231.057 h 100 m 16,8 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 m 13,6 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4173"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 591,231.057 h 100 m 16,8 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 m 13,6 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4175"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 431,211.057 h 100 m 16,8 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 m 13,6 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4177"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 591,211.057 h 100 m 16,8 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 m 13,6 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4179"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 431,191.057 h 100 m 16,8 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 m 13,6 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4181"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 591,191.057 h 100 m 16,8 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 m 13,6 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4183"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 431,171.057 h 100 m 16,8 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 m 13,6 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4185"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 591,171.057 h 100 m 16,8 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 m 13,6 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m -18,-5 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 m 6,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2" />
+        <text
+           id="text4189"
+           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:Mason;-inkscape-font-specification:Mason-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,531.244,144.905)">
+          <tspan
+             id="tspan4187"
+             sodipodi:role="line"
+             y="0"
+             x="0 10.256 19.535999 29.408001 38.240002 46.512001 52.751999 61.584 69.744003 74.192001 84.463997 94.912003">Practice Log</tspan>
+        </text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+           x="39.427483"
+           y="-246.0899"
+           id="text4479"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan4477"
+             x="39.427483"
+             y="-246.0899"
+             style="font-size:9px;stroke-width:0.75">Scarred</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+           x="59.788071"
+           y="-387.05688"
+           id="text4483"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan4481"
+             x="59.788071"
+             y="-387.05688"
+             style="font-size:9px;stroke-width:0.75">When I hear Jibe Ho! I duck.</tspan><tspan
+             sodipodi:role="line"
+             x="59.788071"
+             y="-375.80688"
+             style="font-size:9px;stroke-width:0.75"
+             id="tspan4485" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+           x="40.200329"
+           y="-508.22449"
+           id="text4489"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan4487"
+             x="40.200329"
+             y="-508.22449"
+             style="font-size:9px;stroke-width:0.75">Pentar Religion</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+           x="38.371284"
+           y="-425.60913"
+           id="text4501"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan4499"
+             x="38.371284"
+             y="-425.60913"
+             style="font-size:9px;stroke-width:0.75">The sea is a dark and mysterious place and we need to learn more about it</tspan></text>
+        <rect
+           style="opacity:0.2;fill:#0000ff;fill-opacity:0.27860694;stroke:#000000;stroke-width:0.79216176;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4505"
+           width="69.659546"
+           height="29.505911"
+           x="36.432747"
+           y="-272.58591"
+           transform="scale(1,-1)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+           x="57.607143"
+           y="-367.99829"
+           id="text5316"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan5314"
+             x="57.607143"
+             y="-367.99829"
+             style="font-size:9px;stroke-width:0.75">I always keep a knife about me</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+           x="57.964287"
+           y="-349.39288"
+           id="text5320"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan5318"
+             x="57.964287"
+             y="-349.39288"
+             style="font-size:9px;stroke-width:0.75">Always write down the details</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+         x="76.413528"
+         y="-465.70618"
+         id="text4435"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan4433"
+           x="76.413528"
+           y="-465.70618"
+           style="font-size:9px;stroke-width:0.75">I must atone for my actions as a pirate and become </tspan><tspan
+           sodipodi:role="line"
+           x="76.413528"
+           y="-454.45618"
+           style="font-size:9px;stroke-width:0.75"
+           id="tspan5312">a better man by obtaining honest work</tspan><tspan
+           sodipodi:role="line"
+           x="76.413528"
+           y="-443.20618"
+           style="font-size:9px;stroke-width:0.75"
+           id="tspan4437" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+         x="39.430927"
+         y="-440.06506"
+         id="text4441"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan4439"
+           x="39.430927"
+           y="-440.06506"
+           style="font-size:9px;stroke-width:0.75">My father is out there somewhere, I will find him by searching pirate coves</tspan><tspan
+           sodipodi:role="line"
+           x="39.430927"
+           y="-428.81506"
+           style="font-size:9px;stroke-width:0.75"
+           id="tspan4443" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+         x="106.87039"
+         y="-196.08734"
+         id="text4447"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan4445"
+           x="106.87039"
+           y="-196.08734"
+           style="font-size:9px;stroke-width:0.75">Former pirate group</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+         x="277.33362"
+         y="-197.60258"
+         id="text4451"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan4449"
+           x="277.33362"
+           y="-197.60258"
+           style="font-size:9px;stroke-width:0.75">People who remember </tspan><tspan
+           sodipodi:role="line"
+           x="277.33362"
+           y="-186.35258"
+           style="font-size:9px;stroke-width:0.75"
+           id="tspan4453">me raiding them</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+         x="147.02397"
+         y="-112.74973"
+         id="text4459"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan4457"
+           x="147.02397"
+           y="-112.74973"
+           style="font-size:9px;stroke-width:0.75">Personal Effects</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+         x="37.927483"
+         y="-265.03027"
+         id="text4471"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan4469"
+           x="37.927483"
+           y="-265.03027"
+           style="font-size:9px;stroke-width:0.75">Call of the sea</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+         x="38.669872"
+         y="-255.18126"
+         id="text4475"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan4473"
+           x="38.669872"
+           y="-255.18126"
+           style="font-size:9px;stroke-width:0.75">Folksy Wisdom</tspan></text>
+    </g>
+  </g>
+</svg>
