@@ -174,10 +174,6 @@
     {
       "cost": 3,
       "desc": "Armor, Gambeson, Run Of The Mill Quality"
-    },
-    {
-      "cost": 1,
-      "desc": "Personal Effects"
     }
   ],
   "property": [],
@@ -190,6 +186,15 @@
       "isRomantic": false,
       "isForbidden": false,
       "isHateful": false
+    },
+    {
+      "desc": "Ionas Mihail",
+      "importance": "minor",
+      "isImmedFam": false,
+      "isOtherFam": false,
+      "isRomantic": false,
+      "isForbidden": false,
+      "isHateful": true
     }
   ],
   "affiliations": [],
