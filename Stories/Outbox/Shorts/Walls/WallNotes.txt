@@ -1,0 +1,46 @@
+Hector - Gruff veteran. Former street urchin. Has served in the separatist wars, but not in the first one.
+Adam - well meaning but mostly soft private. Family apointee.
+Major Ableton - Stern and effective Major. Served at the end of the first wars.
+Weatherby - Lieutenant, Useless older man who bought his position.
+Clement - Impassive but unexperienced aide to the major.
+Duke of Emlion
+Micah - Lieutenant, The most veteran, leader of the stalkers.
+
+
+Ulara/Ularch - Chemical innovative hive. They were defeated? In the first war.
+Aenglia/Aengliarch - Electrically innovative hive. Replaced their wall with force curtain.
+Northersend - Mountainous area where the rebels holed up. Eventually blasted through by railguns.
+Radicals - Splinter faction that supported devolved power and more autonomy to the sections of Aenglia.
+
+Queensguard - Protectors of the hive queen in the very early days of the war.
+
+Zeroth Generation, experimental drone clones made during the war.
+First generation, first stable drones. 
+Fifth generation, newest generation. Pale, Prone to disease and genetic deformation.
+
+
+fireteam	2–4 (4)	lance corporal / corporal
+
+squad       5–14 (10) corporal / sergeant
+
+platoon 	15–45 (20)	second lieutenant / first lieutenant / lieutenant
+
+company     80–150	first lieutenant /captain /major
+
+battalion /
+cohort	300–800	lieutenant colonel /major
+
+Third Cohort - scouts.
+	1st coil company
+		stalkers platoon
+		jokers platoon
+		3rd platoon
+		heavy weapons platoon
+		technition specialists
+	2nd coil company
+
+	3rd coil company
+	auxilary squads
+		medical
+		supply
+		engineering
