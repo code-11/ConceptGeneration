@@ -1,10 +1,18 @@
 Hector - Gruff veteran. Former street urchin. Has served in the separatist wars, but not in the first one.
-Adam - well meaning but mostly soft private. Family apointee.
+Adam - well meaning but mostly soft private. Family apointee. Died of blood loss.
+Andrei - Another private, limbs torn from body.
+Tobias - Another private, ran.
+Samuel - Another private, squashed.
 Major Ableton - Stern and effective Major. Served at the end of the first wars.
 Weatherby - Lieutenant, Useless older man who bought his position.
 Clement - Impassive but unexperienced aide to the major.
 Duke of Emlion
 Micah - Lieutenant, The most veteran, leader of the stalkers.
+
+rocrete
+chronoscope
+suit
+radio
 
 
 Ulara/Ularch - Chemical innovative hive. They were defeated? In the first war.
