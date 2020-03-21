@@ -1,0 +1,31 @@
+Andre Balmari has never lead a normal life. 
+From an early age, his destiny was shaped by his parents association with a strange and fanatic cult called The Order of the Burning Eye. 
+The order focuses on understanding and combating magical and corruptive influences. However, in its pursuit of this goal, its adherents must walk a fine line between utilizing the powers of darkness and combating them. 
+
+Andre had five brothers, and two sisters, of which two brothers and one sister reached adulthood. His older brothers had a natural affinity for charisma and the blade, making them natural commanders. Andre was of a different sort. He often played scout for his brothers on expeditions, and relies more on his perception and reflexes than pure strength. While others fight corruption from the light, Andre's path is to fight it from within its own darkness.
+
+Seeing his lacking skill at the blade, he was taught the ancient arts of magic by his grandmother. 
+
+He carries the Repentant's Censor, which allows a party to move undetected and the Eye of Narcron, a cursed jewel in the shape of an eye that sometimes allows its user to see the true nature of things.
+
+A decade ago, when he was just a child, his father, Rafael Balmari, headed a expedition to the city of Bas to try to locate and return with a magic artifact, said to be the magically preserved heart of their Order's founder, Savick Rhezur, who had gone missing in the same city. He entered a man strong of will, with the same natural charisma as his sons and four other men. However, neither he nor any of his party ever returned, leading the Order to decide that the heart must have become corrupted in the frightening city and must be destroyed.  
+
+They have tasked Andre to succeed where his father had failed, to find and destroy the heart by any means, even through the darkest and most vile magics if necessary.
+
+
+Repentant's Censor:
+Once per short rest, cast pass without trace as an action.
+
+Eye of Narcron:
+	This pale purple gem glows softly in all lighting. Shadows seem to dance within, but retreat when looked at closer. Despite this, the world seems much clearer when viewed through the gem. If only one could shake the feeling of unease when one does so... 
+
+	This item requires attunement
+	As an action, a creature may attempt to hold the jewel up to their eye. If they do so they must make a Wisdom saving throw versus the curse of the eye. If they succeed, the creature has truesight for one minute. 
+		The DC of the wisdom save varies based on how many times the eye has attempted to been used since the last short rest:
+		None: DC 10
+		Once: DC 15
+		Twice: DC 20
+		Three times or more auto fails.
+	If they do not succeed, the character takes 1d6 physchic damage times the number of times above.
+	For instance, failing a first attempt would be 1d6 damage. Failing a third attempt would be 3d6 damage.
+	Alternatively, the DM makes the check secretly on behalf of the user and on a failure, the curse reveals false information or hallucinations.
