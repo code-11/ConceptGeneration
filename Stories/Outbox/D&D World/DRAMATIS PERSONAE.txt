@@ -52,7 +52,7 @@ Herleva Cardis-lieutenant
 Alhild - Agent
 
 Quentin- 50s Map maker and elven affiliate, possibly a wizard. Unhappy at the northern military for using his maps to plan fortifications and attack on the enemy.
-Thella- 14 Young outspoken apprentice, has the ability to view history.
+Thella- 10 Young outspoken apprentice, is half elven.
 
 Malick-Leader of a unfortunate band of bandits
 Lothar-Hedge Wizard
@@ -211,6 +211,9 @@ Agron/Speartips- Basically a pine tree. Tall and evergreen, easy to remove bark,
 Kander- Basically a large oak tree. Elves liked this tree. No real medicinal properties but produces acorns and can be used for woodworking.
 Purglove- A common undergrowth plant. Fur like spines. It produces small inedible purple berries. Fuzzy heart shaped leaves. Think rasberry bush.
 Tanglestep- A common undergrowth vine. Likes warmer weather but will tolerate the cold. Verdant green. Completely useless. Waxy small clusters of spear leaves.
+
+Animals:
+Icebeaks - giant great blue heron 
 
 
 Unmentioned:  
