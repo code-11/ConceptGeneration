@@ -29,7 +29,7 @@ North:
 Army of about 25000
 United Codex - Lawbook written by Atheneus
 Army hierarchy:
-SC->Commander (Division) x5-> Colonel (Battalion) x5-> Lieutenant (Company) x5-> Sargent (Squad) x10-> men x20
+SC->Commander (Division) x5-> Colonel (Battalion) x5-> Lieutenant (Company) x5-> Sargent (Squad) + 2 Corporals x10-> men x20
 Guard hierarchy (Civil service):
 Marshall(5)->Potentate(4)->Sheriff(3)->Alder(2)->Men(1) (lapels)
 
@@ -56,9 +56,10 @@ Herleva Cardis-lieutenant
 Alhild - Agent
 
 Folmar - Quentin's brother.
-Akela - Quentin's daughter in law.
+Akela - Quentin's sister in law.
 Quentin- 50s Map maker and elven affiliate, possibly a wizard. Unhappy at the northern military for using his maps to plan fortifications and attack on the enemy.
 Thella- 10 Young outspoken apprentice, is half elven.
+Odilon - 35 Northern soldier
 
 Malick-Leader of a unfortunate band of bandits
 Lothar-Hedge Wizard
