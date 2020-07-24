@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000002"
-     inkscape:cx="626.7335"
-     inkscape:cy="497.37476"
+     inkscape:zoom="1.3966826"
+     inkscape:cx="522.71447"
+     inkscape:cy="986.4359"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1231,8 +1231,8 @@
          id="tspan4151"
          sodipodi:role="line"
          y="137.83197"
-         x="152.66348 153.66185 154.51381 155.29521 156.09778 156.94974 157.93575 158.58839 159.11755 160.04184 161.06665 161.50586 162.61359 163.59959 164.25223 164.7814 165.43404 166.42534 167.41312 168.26508 169.5827 170.47346 170.91267 171.3166 171.75581 173.25513 173.78429 174.31346 174.84262 175.28183 176.38956 177.37556 178.02821 178.55737 179.21001 180.20131 181.1891 182.04106 182.04106 184.24945 184.68864 185.09258 185.53178 186.63951 187.55144 188.08061 188.60977 189.13895 189.79158 190.68587 191.12508 192.2328 193.21881 193.87146 194.40062 195.05327 196.04457 197.03235 197.88431 199.20193 200.0927 200.53191 200.93584 201.37505 202.27815 203.26416 204.11612 204.96808 205.95586 206.39507 207.50279 208.4888 209.14145 209.67061 210.32326 211.31456 212.30232 213.1543 214.47191 215.36267 215.8019 216.20581 216.64502 217.64339 218.56766 219.83237 220.68433 221.46573 221.90494 223.01266 223.99867 224.65132 225.18048 225.83313 226.82443 227.81221 228.66417 229.98178 230.87256 231.31177 231.7157 232.15491 233.04919 233.97346 234.75487 235.40752 236.25946 236.69868 237.8064 238.79242 239.44505 239.97421 240.62686 241.61816 242.60594 243.4579 244.77553"
-         style="stroke-width:0.35277778">Perception Aptitude 5 | Will Aptitude 7| Agility Aptitude 4 | Speed Aptitude 8 | Power Aptitude 6 | Forte Aptitude 5</tspan>
+         x="152.66348 153.66185 154.51381 155.29521 156.09778 156.94974 157.93575 158.58839 159.11755 160.04184 161.06665 161.50586 162.61359 163.59959 164.25223 164.7814 165.43404 166.42534 167.41312 168.26508 168.26508 170.47346 170.91267 171.3166 171.75581 173.25513 173.78429 174.31346 174.84262 175.28183 176.38956 177.37556 178.02821 178.55737 179.21001 180.20131 181.1891 182.04106 182.04106 184.24945 184.68864 185.09258 185.53178 186.63951 187.55144 188.08061 188.60977 189.13895 189.79158 190.68587 191.12508 192.2328 193.21881 193.87146 194.40062 195.05327 196.04457 197.03235 197.88431 199.20193 200.0927 200.53191 200.93584 201.37505 202.27815 203.26416 204.11612 204.96808 205.95586 206.39507 207.50279 208.4888 209.14145 209.67061 210.32326 211.31456 212.30232 213.1543 214.47191 215.36267 215.8019 216.20581 216.64502 217.64339 218.56766 219.83237 220.68433 221.46573 221.90494 223.01266 223.99867 224.65132 225.18048 225.83313 226.82443 227.81221 228.66417 229.98178 230.87256 231.31177 231.7157 232.15491 233.04919 233.97346 234.75487 235.40752 236.25946 236.69868 237.8064 238.79242 239.44505 239.97421 240.62686 240.62686 241.61816 243.4579 244.77553"
+         style="stroke-width:0.35277778">Perception Aptitude 4| Will Aptitude 7| Agility Aptitude 4 | Speed Aptitude 8 | Power Aptitude 6 | Forte Aptitude6</tspan>
     </text>
     <text
        id="text4157"
@@ -8122,14 +8122,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="145.10168"
-       y="148.03253"
+       x="142.2887"
+       y="147.89857"
        id="text2476"><tspan
          sodipodi:role="line"
          id="tspan2474"
-         x="145.10168"
-         y="148.03253"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Gambling</tspan></text>
+         x="142.2887"
+         y="147.89857"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Gambling (Will/Perception)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -8151,7 +8151,7 @@
          id="tspan2541"
          x="182.20538"
          y="147.04788"
-         style="stroke-width:0.26458332">5</tspan></text>
+         style="stroke-width:0.26458332">4</tspan></text>
     <ellipse
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-6-8-9"
@@ -8176,7 +8176,7 @@
          id="tspan2573"
          x="145.23396"
          y="162.01137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Ship-wise</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Ship-wise (Perception)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -8187,7 +8187,7 @@
          id="tspan2474-5"
          x="144.99194"
          y="169.36163"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222199px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Throwing</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222199px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Throwing (Agility)</tspan></text>
     <ellipse
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-6-1-2"
@@ -8216,7 +8216,7 @@
          sodipodi:role="line"
          id="tspan2541-4"
          x="182.33305"
-         y="160.97696">5</tspan></text>
+         y="160.97696">4</tspan></text>
     <text
        id="text4435"
        y="47.135403"
@@ -8335,7 +8335,7 @@
          id="tspan9263"
          x="145.10168"
          y="176.25475"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Gossipwise</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Gossipwise (Perception)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -8346,7 +8346,7 @@
          id="tspan2541-2"
          x="182.0524"
          y="175.10216"
-         style="stroke-width:0.26458332">5</tspan></text>
+         style="stroke-width:0.26458332">4</tspan></text>
     <ellipse
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-6-8-9-1-0"
@@ -8428,14 +8428,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="201.55568"
+       x="199.41245"
        y="148.17935"
        id="text9265-7"><tspan
          sodipodi:role="line"
          id="tspan9263-0"
-         x="201.55568"
+         x="199.41245"
          y="148.17935"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Field Dressing(no)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Field Dressing(Perception)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -8446,7 +8446,7 @@
          id="tspan2541-8"
          x="238.67247"
          y="147.16176"
-         style="stroke-width:0.26458332">5</tspan></text>
+         style="stroke-width:0.26458332">4</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -8549,7 +8549,7 @@
          id="tspan2490-3"
          x="201.69856"
          y="154.8506"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Foraging</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Foraging (Perception)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -8560,7 +8560,7 @@
          id="tspan2541-1"
          x="238.72453"
          y="153.44708"
-         style="stroke-width:0.26458332">5</tspan></text>
+         style="stroke-width:0.26458332">4</tspan></text>
     <ellipse
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-6-8-9-1-0-6"
@@ -8631,14 +8631,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="201.83203"
+       x="201.02832"
        y="161.51591"
        id="text2492-0-9"><tspan
          sodipodi:role="line"
          id="tspan2490-3-1"
-         x="201.83203"
+         x="201.02832"
          y="161.51591"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Orienteering</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Orienteering (Perception)</tspan></text>
     <ellipse
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-6-8-9-1-0-6-0"
@@ -8656,21 +8656,7 @@
          id="tspan2541-1-7"
          x="238.65302"
          y="160.82303"
-         style="stroke-width:0.26458332">5</tspan></text>
-    <ellipse
-       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
-       id="path8809-9-6-8-8"
-       cx="24.391472"
-       cy="-160.58041"
-       rx="0.88312054"
-       ry="0.80905086" />
-    <ellipse
-       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
-       id="path8809-9-6-8-8-4"
-       cx="26.489656"
-       cy="-160.58041"
-       rx="0.88312054"
-       ry="0.80905086" />
+         style="stroke-width:0.26458332">4</tspan></text>
     <ellipse
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-9-6-8-8-1"
@@ -8829,7 +8815,7 @@
          id="tspan2633-0"
          x="202.41747"
          y="175.55899"
-         style="font-size:2.82222223px;stroke-width:0.26458332">Inconspicious</tspan></text>
+         style="font-size:2.82222223px;stroke-width:0.26458332">Inconspicious (Will)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -8871,7 +8857,7 @@
          id="tspan9263-2"
          x="145.20412"
          y="182.67567"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Drinking</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Drinking (Forte)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -8882,7 +8868,7 @@
          id="tspan2541-2-3"
          x="182.15483"
          y="181.52309"
-         style="stroke-width:0.26458332">5</tspan></text>
+         style="stroke-width:0.26458332">6</tspan></text>
     <ellipse
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-6-8-9-1-0-0"
@@ -8905,7 +8891,7 @@
          id="tspan9263-2-4"
          x="201.6804"
          y="183.02538"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Streetwise</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Streetwise (Perception)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -8916,7 +8902,7 @@
          id="tspan2541-2-3-6"
          x="238.63113"
          y="181.87279"
-         style="stroke-width:0.26458332">5</tspan></text>
+         style="stroke-width:0.26458332">4</tspan></text>
     <ellipse
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-6-8-9-1-0-0-2"
@@ -9011,7 +8997,7 @@
          id="tspan2541-2-3-6-0"
          x="238.85143"
          y="168.21445"
-         style="stroke-width:0.26458332">5</tspan></text>
+         style="stroke-width:0.26458332">4</tspan></text>
     <ellipse
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-6-8-9-1-0-0-2-2"
@@ -9356,7 +9342,7 @@
          id="tspan2541-2-3-6-0-0"
          x="182.07001"
          y="154.08926"
-         style="stroke-width:0.26458332">?</tspan></text>
+         style="stroke-width:0.26458332">4</tspan></text>
     <ellipse
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-6-8-9-1-0-0-2-2-3"
@@ -9565,7 +9551,7 @@
          id="tspan9263-2-4-3"
          x="201.79431"
          y="168.30615"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Herbalism</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Herbalism (Perception)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -9576,7 +9562,7 @@
          id="tspan9263-2-4-3-3"
          x="145.14305"
          y="154.55513"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Pilot</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Pilot (Perception/Power)</tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.54488182;stroke-opacity:1"
        id="rect1816"
@@ -9743,14 +9729,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="202.22295"
-       y="189.3084"
+       x="197.93648"
+       y="189.37537"
        id="text9265-3-1-5"><tspan
          sodipodi:role="line"
          id="tspan9263-2-4-32"
-         x="202.22295"
-         y="189.3084"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Boatwright</tspan></text>
+         x="197.93648"
+         y="189.37537"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Boatwright (Percept/Agility)</tspan></text>
     <ellipse
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-9-6-8-8-4-1-9-4"
@@ -9768,7 +9754,7 @@
          id="tspan2541-2-3-6-6"
          x="239.11562"
          y="188.72961"
-         style="stroke-width:0.26458332">5</tspan></text>
+         style="stroke-width:0.26458332">4</tspan></text>
     <ellipse
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-6-8-9-1-0-0-2-5"
@@ -9800,19 +9786,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.54178619px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13854465"
-       x="185.27853"
-       y="24.247522"
+       x="198.16025"
+       y="37.697548"
        id="text2438-2-7-1"><tspan
          style="stroke-width:0.13854465"
          sodipodi:role="line"
          id="tspan2528-0-4"
-         x="185.27853"
-         y="24.247522">1</tspan><tspan
+         x="198.16025"
+         y="37.697548">1</tspan><tspan
          style="stroke-width:0.13854465"
          sodipodi:role="line"
          id="tspan2530-3-0"
-         x="185.27853"
-         y="31.174755" /></text>
+         x="198.16025"
+         y="44.624783" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.54178619px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13854465"
@@ -9832,14 +9818,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="202.25258"
+       x="199.50656"
        y="195.64943"
        id="text9265-3-1-5-5"><tspan
          sodipodi:role="line"
          id="tspan9263-2-4-32-8"
-         x="202.25258"
+         x="199.50656"
          y="195.64943"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Carpentry</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Carpentry (Percept/Agility)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
@@ -9855,5 +9841,168 @@
        cy="191.69585"
        rx="0.88312054"
        ry="0.80905086" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="145.39903"
+       y="189.08008"
+       id="text9265-3-1-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan9263-2-4-32-5"
+         x="145.39903"
+         y="189.08008"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Tracking (Perception)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="182.35315"
+       y="187.93961"
+       id="text2521-0-2-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan2541-2-3-5"
+         x="182.35315"
+         y="187.93961"
+         style="stroke-width:0.26458332">4</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8809-6-8-9-1-0-0-8"
+       cx="190.64333"
+       cy="184.55972"
+       rx="0.88312054"
+       ry="0.80905086" />
+    <ellipse
+       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8809-9-6-8-5-00"
+       cx="194.47865"
+       cy="-142.93896"
+       rx="0.88312054"
+       ry="0.80905086" />
+    <ellipse
+       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8809-6-8-9-1-0-0-1"
+       cx="192.17215"
+       cy="178.24216"
+       rx="0.88312054"
+       ry="0.80905086" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.54488182;stroke-opacity:1"
+       id="rect1816-1"
+       width="2.245064"
+       height="2.6192412"
+       x="32.148819"
+       y="-167.66115" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="32.354439"
+       y="-165.33194"
+       id="text2626-0"><tspan
+         sodipodi:role="line"
+         id="tspan2624-9"
+         x="32.354439"
+         y="-165.33194"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">6</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4183-5-3-7-7-1"
+       style="fill:none;stroke:#000000;stroke-width:0.17638889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 145.89627,196.10547 h 35.27778 m 5.64444,-2.82222 c 0,-1.55857 -1.26365,-2.82222 -2.82222,-2.82222 -1.55857,0 -2.82222,1.26365 -2.82222,2.82222 0,1.55857 1.26365,2.82222 2.82222,2.82222 1.55857,0 2.82222,-1.26365 2.82222,-2.82222 m 4.58611,-2.11667 c 0,-0.38982 -0.31573,-0.70555 -0.70555,-0.70555 -0.38982,0 -0.70556,0.31573 -0.70556,0.70555 0,0.38982 0.31574,0.70556 0.70556,0.70556 0.38982,0 0.70555,-0.31574 0.70555,-0.70556 m 2.11667,0 c 0,-0.38982 -0.31573,-0.70555 -0.70555,-0.70555 -0.38982,0 -0.70556,0.31573 -0.70556,0.70555 0,0.38982 0.31574,0.70556 0.70556,0.70556 0.38982,0 0.70555,-0.31574 0.70555,-0.70556 m 2.11667,0 c 0,-0.38982 -0.31574,-0.70555 -0.70556,-0.70555 -0.38982,0 -0.70555,0.31573 -0.70555,0.70555 0,0.38982 0.31573,0.70556 0.70555,0.70556 0.38982,0 0.70556,-0.31574 0.70556,-0.70556 m 2.11666,0 c 0,-0.38982 -0.31573,-0.70555 -0.70555,-0.70555 -0.38982,0 -0.70556,0.31573 -0.70556,0.70555 0,0.38982 0.31574,0.70556 0.70556,0.70556 0.38982,0 0.70555,-0.31574 0.70555,-0.70556 m -6.35,1.76389 c 0,-0.38982 -0.31573,-0.70555 -0.70555,-0.70555 -0.38982,0 -0.70556,0.31573 -0.70556,0.70555 0,0.38982 0.31574,0.70556 0.70556,0.70556 0.38982,0 0.70555,-0.31574 0.70555,-0.70556 m 2.11667,0 c 0,-0.38982 -0.31573,-0.70555 -0.70555,-0.70555 -0.38982,0 -0.70556,0.31573 -0.70556,0.70555 0,0.38982 0.31574,0.70556 0.70556,0.70556 0.38982,0 0.70555,-0.31574 0.70555,-0.70556 m 2.11667,0 c 0,-0.38982 -0.31574,-0.70555 -0.70556,-0.70555 -0.38982,0 -0.70555,0.31573 -0.70555,0.70555 0,0.38982 0.31573,0.70556 0.70555,0.70556 0.38982,0 0.70556,-0.31574 0.70556,-0.70556 m 2.11666,0 c 0,-0.38982 -0.31573,-0.70555 -0.70555,-0.70555 -0.38982,0 -0.70556,0.31573 -0.70556,0.70555 0,0.38982 0.31574,0.70556 0.70556,0.70556 0.38982,0 0.70555,-0.31574 0.70555,-0.70556 m -6.35,1.76389 c 0,-0.38982 -0.31573,-0.70555 -0.70555,-0.70555 -0.38982,0 -0.70556,0.31573 -0.70556,0.70555 0,0.38982 0.31574,0.70556 0.70556,0.70556 0.38982,0 0.70555,-0.31574 0.70555,-0.70556 m 2.11667,0 c 0,-0.38982 -0.31573,-0.70555 -0.70555,-0.70555 -0.38982,0 -0.70556,0.31573 -0.70556,0.70555 0,0.38982 0.31574,0.70556 0.70556,0.70556 0.38982,0 0.70555,-0.31574 0.70555,-0.70556 m 2.11667,0 c 0,-0.38982 -0.31574,-0.70555 -0.70556,-0.70555 -0.38982,0 -0.70555,0.31573 -0.70555,0.70555 0,0.38982 0.31573,0.70556 0.70555,0.70556 0.38982,0 0.70556,-0.31574 0.70556,-0.70556" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="145.61472"
+       y="195.5515"
+       id="text9265-3-1-5-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan9263-2-4-32-5-9"
+         x="145.61472"
+         y="195.5515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Tactics (Will/Perception)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="182.56883"
+       y="194.41103"
+       id="text2521-0-2-6-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan2541-2-3-5-7"
+         x="182.56883"
+         y="194.41103"
+         style="stroke-width:0.26458332">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="189.66429"
+       y="30.661833"
+       id="text2523-7"><tspan
+         sodipodi:role="line"
+         id="tspan2521-4"
+         x="189.66429"
+         y="30.661833"
+         style="font-size:2.82222223px;stroke-width:0.26458332">tactics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.54178619px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13854465"
+       x="190.37219"
+       y="37.596958"
+       id="text2438-2-7-1-3"><tspan
+         style="stroke-width:0.13854465"
+         sodipodi:role="line"
+         id="tspan2528-0-4-7"
+         x="190.37219"
+         y="37.596958">1</tspan><tspan
+         style="stroke-width:0.13854465"
+         sodipodi:role="line"
+         id="tspan2530-3-0-0"
+         x="190.37219"
+         y="44.524193" /></text>
+    <ellipse
+       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8809-9-6-8-8-4-4-5"
+       cx="24.247936"
+       cy="-157.74347"
+       rx="0.88312054"
+       ry="0.80905086" />
+    <ellipse
+       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8809-9-6-8-8-1-4"
+       cx="105.89527"
+       cy="-157.8382"
+       rx="0.88312054"
+       ry="0.80905086" />
+    <ellipse
+       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8809-9-6-8-5-00-6"
+       cx="194.74121"
+       cy="-141.35718"
+       rx="0.88312054"
+       ry="0.80905086" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="119.43568"
+       y="-160.39502"
+       id="text2527-3-4-6-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan2525-8-9-3-5-5"
+         x="119.43568"
+         y="-160.39502"
+         style="stroke-width:0.26458332">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.54178619px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13854465"
+       x="185.73097"
+       y="23.768057"
+       id="text2438-2-7-1-3-3"><tspan
+         style="stroke-width:0.13854465"
+         sodipodi:role="line"
+         id="tspan2528-0-4-7-2"
+         x="185.73097"
+         y="23.768057">1</tspan><tspan
+         style="stroke-width:0.13854465"
+         sodipodi:role="line"
+         id="tspan2530-3-0-0-6"
+         x="185.73097"
+         y="30.695292" /></text>
   </g>
 </svg>
