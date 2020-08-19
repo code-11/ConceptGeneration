@@ -49,7 +49,7 @@ Marellus Pacatian - Civil Potentate of Swan, on the surface, a competant civil s
 
 The University
 Rathar Cuebonh - current head of university
-Vicelin Leuthard - Previous head of university. Trained both Rather and Quentin   
+Vicelin Leuthard - Previous head of university. Trained both Rathar and Quentin   
 
 Random People:
 Herleva Cardis-lieutenant 
@@ -57,11 +57,12 @@ Alhild - Agent
 
 Folmar - Quentin's brother.
 Akela - Quentin's sister in law.
-Quentin- 50s Map maker and elven affiliate, possibly a wizard. Unhappy at the northern military for using his maps to plan fortifications and attack on the enemy.
+Quentin- 50s Map maker and elven affiliate, a wizard. Unhappy at the northern military for using his maps to plan fortifications and attack on the enemy.
 Thella- 10 Young outspoken apprentice, is half elven.
 Sergeant Cyrus
 Corporal Odilon - 35 Northern soldier
-Leger - 25 Northern soldier
+Leger - 25 Northern soldier who was lost in the waters surrounding the island
+Edoma - 32 Female Northern medic who was killed on the island.
 
 
 Malick-Leader of a unfortunate band of bandits
@@ -179,7 +180,7 @@ Fartherners -> barbarians from the far north
 Northerners
 Southerners
 Dwarves -> Uzerai
-Elves
+Elves -> Egyptain themed broken people who have created a new persona of sorrow for themselves after the destruction of their civilization and the death of their goddess Ishira. This destruction is called The Fall, and the location, The Fell. Their brokenness reflects itself through the sadness, a deep depression that seizes all members of the race.
 Gnomes-> Shan + windress (sailor witch)
 Wildermen-> disperate natives that have settled east of fort Erengar
 	Whenua - A particular violent version of wildermen who worship Uzerai
