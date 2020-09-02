@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3966826"
-     inkscape:cx="548.30063"
-     inkscape:cy="549.49367"
+     inkscape:cx="649.32918"
+     inkscape:cy="988.29985"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2221"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -7978,7 +7978,7 @@
          id="tspan2486"
          x="141.52939"
          y="83.909576"
-         style="stroke-width:0.26458332">Lutrin - Ular Ship - Now The Vintinir</tspan></text>
+         style="stroke-width:0.26458332">Lutrin - Ular Ship - Now The Vintinir (The big vinnie)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -8625,7 +8625,7 @@
          sodipodi:role="line"
          id="tspan2528-0"
          x="158.23222"
-         y="23.563398">4</tspan><tspan
+         y="23.563398">3</tspan><tspan
          style="stroke-width:0.13854465"
          sodipodi:role="line"
          id="tspan2530-3"
@@ -8814,7 +8814,7 @@
          sodipodi:role="line"
          id="tspan2677"
          x="154.90131"
-         y="52.062836">3</tspan></text>
+         y="52.062836">4</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -9602,7 +9602,7 @@
          id="tspan2525-8-8-2-9"
          x="162.95627"
          y="51.679424"
-         style="stroke-width:0.26458332">1</tspan></text>
+         style="stroke-width:0.26458332">2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -10198,17 +10198,6 @@
          y="242.38309"
          style="font-size:3.52777767px;stroke-width:0.26458332">Liana- Co-Regeant</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="71.262558"
-       y="-83.424171"
-       id="text2245"><tspan
-         sodipodi:role="line"
-         id="tspan2243"
-         x="71.262558"
-         y="-83.424171"
-         style="stroke-width:0.26458332">1</tspan></text>
-    <text
        id="text4065-8"
        style="font-variant:normal;font-weight:bold;font-size:2.82222223px;font-family:'Gentium Basic';-inkscape-font-specification:GentiumBasic-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
        x="181.63686"
@@ -10473,9 +10462,10 @@
        style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
        id="path8809-9-9-3"
        cx="67.060692"
-       cy="-135.67406"
+       cy="135.67406"
        rx="0.88312048"
-       ry="0.80905086" />
+       ry="0.80905086"
+       transform="scale(1,-1)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -10568,7 +10558,7 @@
          id="tspan2525-2-8-5"
          x="186.22723"
          y="23.580858"
-         style="stroke-width:0.26458332">2</tspan></text>
+         style="stroke-width:0.26458332">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -10874,5 +10864,62 @@
          x="32.396049"
          y="-126.05467"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">6</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8809-9-6-8-5-0-4"
+       cx="196.60275"
+       cy="-136.28152"
+       rx="0.88312054"
+       ry="0.80905086" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="136.58406"
+       y="201.86349"
+       id="text2866"><tspan
+         sodipodi:role="line"
+         id="tspan2864"
+         x="136.58406"
+         y="201.86349"
+         style="stroke-width:0.26458332">1M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="38.546093"
+       y="-160.58444"
+       id="text2527-3-4-6-3-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan2525-8-9-3-5-57-2"
+         x="38.546093"
+         y="-160.58444"
+         style="stroke-width:0.26458332">1</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8809-9-6-8-8-4-4-5-1"
+       cx="24.108749"
+       cy="-160.77824"
+       rx="0.88312054"
+       ry="0.80905086" />
+    <ellipse
+       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8809-9-9-3-9"
+       cx="64.787445"
+       cy="-133.02194"
+       rx="0.88312054"
+       ry="0.80905086" />
+    <ellipse
+       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8809-9-9-3-9-7"
+       cx="24.247934"
+       cy="-118.62473"
+       rx="0.88312054"
+       ry="0.80905086" />
+    <ellipse
+       style="opacity:1;fill:#ff241f;fill-opacity:1;stroke:#000000;stroke-width:0.03747102;stroke-miterlimit:4;stroke-dasharray:0, 0.41218125;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8809-9-6-8-8-4-1-9-4-4"
+       cx="28.79442"
+       cy="-78.653534"
+       rx="0.88312054"
+       ry="0.80905086" />
   </g>
 </svg>
