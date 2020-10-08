@@ -1,0 +1,122 @@
+One eye'd Solomon - Leader of a band of bandits. 
+
+Spear hand Kerry - first mate.
+
+Solomon and his band have holed up in an abandoned keep in the lowlands on the border between the north and the south. 
+He's been employed by the south to rile things up. 
+
+He and his men have intercepted and stolen some high level military orders. 
+
+Players job is to get them back. 
+
+Mook
++4 to hit
+10 HP
+
+---- Spear hand Kerry  - Human Battlemaster Fighter ----
+Dex 14 
+Str* 16 
+Con* 15
+Int 13
+Wis 9
+Cha 11
+
+Athletics*
+Survival*
+
+Prof +2
+HP 28
+AC 19
+
+Fighting Style Defensive
+Second Wind
+Action Surge
+
+Items:
+Shield + Spear
+Breast Plate 14+ Dex(max 2) 
+
+---- One eyed solomon - Human Wizard ----
+Dex 16
+Str 12
+Con 15
+Int 17
+Wis 10
+Cha 14
+
+Prof +3
+HP 35
+AC 15
+
+Ward: 11hp, regains on spells
+
+Spell DC 14
+Spell to hit +6 
+Spells
+1=
+Fog cloud
+Color spray
+Shield
+Thunderwave
+
+2=
+Shatter
+Grease
+
+---- Huenor - Human Champion Fighter ----
+Dex 14 
+Str* 16 
+Con* 15
+Int 13
+Wis 9
+Cha 11
+
+Athletics*
+Survival*
+
+Prof +2
+HP 28
+AC 17
+
+Fighting Style Defensive
+Second Wind
+Action Surge
+Improved Critical
+
+Items:
+Breast Plate 14+ Dex(max 2) 
+
+
+
+KEY TO MAP
+1: Kitchen
+2: congregation area
+3: small bedroom
+4: storage
+5: small bedroom
+6: storage
+7: ruined garden
+8: Large storage room
+9: stairs down
+10: rotten floor
+11: stairs up
+12: gathering area
+13: workshop
+14: hole in floor
+15: ruined bedroom
+16: moldy bedroom
+17: empty space
+18: bunks
+19: furniture storage
+20: locked, fine goods storage
+21: bunks
+22: stairs up
+23: study
+24: dosh
+25: drug den and boss battle
+26: Cistern
+27: natural passage
+28: large storage
+29: cells
+30: trapped stairs up
+
