@@ -1,0 +1,26 @@
+Nations:
+South- Hereditary monarchy. The remains of the original human empire.  
+North- Nominally a republic, currently operating as a military dictatorship. Broke away from the south.
+Shani- Kleptocracy, has a monopoly over ocean going trade, mostly with the north. 
+Fartheners- Loose confederacy of tribes.
+Elves (fallen) - Theocracy, mostly secluded in Ankhsomar. 
+Assorted Lowland city states and petty kingdoms.
+
+Cities:
+Arhal - The grand capital of the South and seat of power. An old city.
+Crireton Bode - Seat of Duke Gerrant
+Westfield- Former Southern agricultural city. Tenuously independent.
+Surhal- Quiet fishing town. Founded at the same time as Arhal.
+Havinsted - Largest of the independent lowland petty countries. Key in trade between the North and South. 
+
+
+Gods:
+Geremon of the infinite repose - lawful good death god
+Kerack - Chaotic Neutral god of strength, war and strife
+Plotweaver / Prince of Shadows - Chaotic Neutral god of deceit
+Sea King / Lord of the Waves - True Neutral god of the Shani
+Pluor, Lord of Opulence - Lawful Evil god of greed. Died following the breakup of the first human kingdom.
+Ishira - Dead God of Elves and nature 
+Garegal-> The earth spirit. 
+
+Note that dead gods can still be worshiped. Above are the well known gods that usually temples. There exist a number of other cults which may have minor gods. 
