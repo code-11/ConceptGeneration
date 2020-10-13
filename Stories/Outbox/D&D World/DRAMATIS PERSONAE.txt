@@ -16,7 +16,7 @@ Remi - younger of the two brothers, archer, mother died giving birth to him.Turn
 Tzuras - Naturalist, elf druid but with the approach of a wizard, unknown but is a fledgling spirit talker. An alchemist and wanderer. Not many combat spells. Long black hair with green eyes. 
 Hamarako - Surprisingly well read wilderman cheifton and spirit shaman. Very violent but in a bond villian sort of way.
 
-Meridia- A First sargent. A former love interest of Haverson's. She turned down his proposal before the horrible defeat. She turned to religion and feats of arms after the defeat. 
+Meridia- A First sargent and chaotic master duelist. A former love interest of Haverson's. She turned down his proposal before the horrible defeat. She turned to religion and feats of arms after the defeat. 
 
 Laurent Carver - spymaster of the north. Works alongside Durand and has done so for 5 years. A competent and joking but reclusive individual. 
 	Miss Menchel-Old lady shop keeper, friend of Laurent's
@@ -82,16 +82,33 @@ Ingela Vuinetegard 35 - A former priest of Geremon who strayed from his teaching
 Sabatok / Kahbsobis 50 ish - Two 'young' elves who guard the Suture Queen.  
 
 South:
-Lord Gerrant
-	Lucard Gerrant - Ice Mage, first son, devious 
-	Serge Gerrant - Fire Spellsword, sometimes gets along with brother
-	Ellis Gerrant - Mage in training, quiet and reclusive, bullied by brothers 
 High Councelor Corlenos
 Callum Green - Ousted former Duke. Tried and dissapeared for necromancy.
 Reginald Tambyln
-Isreal Harper - Master duelist. Has gone up against Meridia and won at least three times, tied once. Think old formal british person. Dislikes politics, but at one point was a duke himself.
+Isreal Harper - Master duelist. Has gone up against Meridia and won at least three times, tied once. Most recently at a tourney in westfield. Think old formal british person. Dislikes politics, but at one point was a duke himself.
 Teveral II - Southerner King
 Ayden ??? - dead leader of a triumverate that Durand killed.
+
+Lord Gerrant - Ambitious grand duke of the south. Challenged and lost to the north in a recent war.
+	Lucard Gerrant - Ice Mage, first son, devious 
+	Serge Gerrant - Fire Spellsword, sometimes gets along with brother
+	Ellis Gerrant - Mage in training, quiet and reclusive, bullied by brothers 
+
+	Eldon Guard (30) - Duke's personal bodyguard. Composed of many diverse people, even some nonhumans. 
+	House Soldiers (1000)
+
+Battle Mages- Lead from their tower, these sorcerers terrorize the south, finding and dragging magic users back with them. Some are killed, others are turned into battle mages. 
+	Emrys Fulker - Grand Summoner of the battlemages.
+	Brynmor Reese - Inquisitor General, torturer and spellsword, head of the Knights of the Eye. 
+	Euros Blay - Head administrator of the the Tower
+	Senior Battle Mages ~40 
+	Battle Mages 
+	"Students"
+
+	Knights of the Eye (25) - Trained spellswords and inquisitors.
+		-Footmen (500) 
+
+
 
 Far North:
 Jarl Sigfast Ingisson "The Wise"
