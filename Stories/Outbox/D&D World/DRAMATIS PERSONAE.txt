@@ -25,7 +25,7 @@ Laurent Carver - spymaster of the north. Works alongside Durand and has done so 
 	Lieutenant Merrill- Durand's fake name.
 	Paschal - Laurent's Fake name.
 
-North:
+North- Uses French and Norman names
 Army of about 25000
 United Codex - Lawbook written by Atheneus
 Army hierarchy:
@@ -81,7 +81,7 @@ Bavo Arbogast 50- A powerful half-elf mage who tried to teleport himself into th
 Ingela Vuinetegard 35 - A former priest of Geremon who strayed from his teachings when she learned about the fell. She found Otton and took residence 
 Sabatok / Kahbsobis 50 ish - Two 'young' elves who guard the Suture Queen.  
 
-South:
+South- Uses British names
 High Councelor Corlenos
 Callum Green - Ousted former Duke. Tried and dissapeared for necromancy.
 Reginald Tambyln
@@ -120,7 +120,7 @@ Battle Mages- Lead from their tower, these sorcerers terrorize the south, findin
 Far North:
 Jarl Sigfast Ingisson "The Wise"
 
-The Shani:
+The Shani- Uses Byzantine names
 	The Wavelord
 	-The Mad King (1) Marthih Layre 
 		You become king if you can steal the coral crown
