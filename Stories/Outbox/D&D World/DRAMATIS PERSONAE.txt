@@ -89,15 +89,22 @@ Isreal Harper - Master duelist. Has gone up against Meridia and won at least thr
 Teveral II - Southerner King
 Ayden ??? - dead leader of a triumverate that Durand killed.
 
-Lord Gerrant - Ambitious grand duke of the south. Challenged and lost to the north in a recent war.
-	Lucard Gerrant - Ice Mage, first son, devious 
-	Serge Gerrant - Fire Spellsword, sometimes gets along with brother
-	Ellis Gerrant - Mage in training, quiet and reclusive, bullied by brothers 
+Lord Gerrant - Grand duke of the south. In his youth he was a outgoing and ambitious upstart. After a period of consolidation at the expense of the other nobility, his ambition culminated in a several year long military engagement with the north independent of the king. Despite initial successes he failed to take Illithar and borders remained relatively unchanged. Since then he had become colder and more withdrawn. His ambition has not changed however, but it seems he is playing his cards closer to his chest. 
+	Lady Meredith - His quiet wife. It is rumored that this is his second marriage and that his sons are the result of his first. 
+	Lucard Gerrant - (29) Ice Mage, first son, takes after his father in his seriousness. Is perhaps a bit more devious. 
+	Serge Gerrant - (23) Fire Spellsword, more prone to impulse yet also more personable than his older brother.
+	Ellis Gerrant - (Teens) Mage in training, quiet and reclusive, bullied by brothers 
 
-	Eldon Guard (30) - Duke's personal bodyguard. Composed of many diverse people, even some nonhumans. 
+	Eldon Guard (30) - Duke's personal bodyguard. Was modeled off The First, a northern contingent of elite fighters compose of adventurers. This is the dukes version. It is composed of many diverse people, even some nonhumans. 
+		Maria Harper - Head administrator 
+		Alexander Comides - Head armorer
+		Marcus McRellen - The duke's huntsman
 	House Soldiers (1000)
 
 Battle Mages- Lead from their tower, these sorcerers terrorize the south, finding and dragging magic users back with them. Some are killed, others are turned into battle mages. 
+
+	The Law of Viridius - The original mad king of the human empire feared magic users and made a law that all would have to be evaluated or killed.  
+
 	Emrys Fulker - Grand Summoner of the battlemages.
 	Brynmor Reese - Inquisitor General, torturer and spellsword, head of the Knights of the Eye. 
 	Euros Blay - Head administrator of the the Tower
