@@ -12,6 +12,7 @@ Players job is to get them back.
 Mook
 +4 to hit
 10 HP
+AC12
 
 ---- Spear hand Kerry  - Human Battlemaster Fighter ----
 Dex 14 
