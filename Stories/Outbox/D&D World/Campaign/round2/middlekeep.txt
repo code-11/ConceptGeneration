@@ -8,3 +8,29 @@ Boys - 7+
 -13
 -13
 -13
+
+------------------------
+
+MookA - 21 - hp 10
+
+cosstis 19
+
+loras 16
+
+Fighter -16 - hp 25
+
+iris 13
+
+MookC - 12 hp 10
+Mage - 11 hp 20
+MookB - 10 hp 10
+
+coin -10
+
+
+
+Mook1 - 4 hp 15
+Mook2 - 4 hp 15
+Cynthia 3 hp 30
+
+
