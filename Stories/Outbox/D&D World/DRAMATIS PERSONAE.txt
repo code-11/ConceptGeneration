@@ -98,8 +98,9 @@ Lord Gerrant - Grand duke of the south. In his youth he was a outgoing and ambit
 
 	Eldon Guard (30) - Duke's personal bodyguard. Was modeled off The First, a northern contingent of elite fighters compose of adventurers. This is the dukes version. It is composed of many diverse people, even some nonhumans. 
 		Maria Harper - Head administrator 
-		Alexander Comides - Head armorer
+		Alexander Comides - Head armorer and confidant to the duke.
 		Marcus McRellen - The duke's huntsman
+		Tuqol - Silent muscleman, northern wilder.
 	House Soldiers (1000)
 
 Battle Mages- Lead from their tower, these sorcerers terrorize the south, finding and dragging magic users back with them. Some are killed, others are turned into battle mages. 
@@ -203,13 +204,15 @@ Places Mentioned:
 Plour, Sun maiden, cold island
 
 Plour and and God of Greed: The first kingdom of man.
+Dogriath 
 
 Peoples Mentioned:
-Fartherners -> barbarians from the far north
+Orcs-> Fartherners -> barbarians from the far north
 Northerners
 Southerners
 Dwarves -> Uzerai
 Elves -> Egyptain themed broken people who have created a new persona of sorrow for themselves after the destruction of their civilization and the death of their goddess Ishira. This destruction is called The Fall, and the location, The Fell. Their brokenness reflects itself through the sadness, a deep depression that seizes all members of the race.
+	Amukkan - Heretic elf who leads a contingent of Uzerai 'worshipping' elves.
 Gnomes-> Shan + windress (sailor witch)
 Wildermen-> disperate natives that have settled east of fort Erengar
 	Whenua - A particular violent version of wildermen who worship Uzerai
