@@ -23,6 +23,7 @@ Have them need to write a report.
 Perhaps an audience with the duke.
 Meet with Serge, who wants to go adventuring.
 - Down to surhal?
+	-Nathaniel Garwood
 - Contest of champions in Arhal
 	-Germain Lemarr will be presiding, with Israel harper
 	-Seymour Drogace might be there
@@ -34,7 +35,7 @@ Meet with Serge, who wants to go adventuring.
 	
 They're going to go down to surhal
 
-They meet madame Alvira on the way down
+They meet Madame Alvira on the way down
 In this world she is a former preistess of geremon who has turned to the Lady of Secrets
 
 The offers to read their fortunes. 
@@ -44,20 +45,39 @@ Tellings typically involve drawing three cards face down, arranging them, then f
 Some of this indicates choices. Some of this indicates realities. 
 Serge - One card alone, Fire, two cards together, The sovereign and The Fool
 Iris - The Sovereign, The Elf, The Moon
-Coin - Darkness, The Mask, The Golden Chalice  
+Coin - Darkness(blood), The Mask, The Golden Chalice(old)  
 Loras - One card alone, the Boy, two cards together, two Deaths
 Costas - Grasping, The Trial, A mysterious face down card that won't flip over.   
 
+
+Heard that Emlyn Bower has headed down to Surhal. 
+Nathaniel Garwood
+
 - Contest of champions in Arhal
-	-Germain Lemarr will be presiding, summons kerrack avatar with Israel harper
 
 	It gets set up outside the town since its too destructive
-	Contestants cannot fight one another outside the gaze of Kerrack until the contest is over
-	The tower very carefully watches everything that goes on here. Brynmor Reese, the Captain of the Knights of the Eye is there himself. Along with 5 senior mages and 5 spellswords.
-
 	The lodging near the place is very expensive.
+	Originally **Mailar Blackbell**, is presiding, has things very organized. Borrowed a rod of power from the tower to geas contestants.
+		Contestants cannot fight one another outside the bounds until the contest is over
+	The tower very carefully watches everything that goes on here. Brynmor Reese, the Captain of the Knights of the Eye is there himself. Along with 5 senior mages and 5 spellswords.
+	Germain steps in an offs him, claims he is a tool of the plotweaver. 
+
+	Welcome to annual contest of champions,
+	Acknowledge previous winner Israel Harper
+	Some administrivia, 
+		-format of the contest will be changed. 
+		-Bout followed by small recess, rounds of teams of five.
+		-In order to ensure power, kerack will be attending
+		-Those with frail constitutions or children should leave, about five minutes. 
+
+	"No more cowering. I want to see violence... Go!"
 
 	Attack test to place out of the first round.
+		-effects earth quake - 2d6 damage on DC13 dex save
+		-Man bull rushes them.
+		-Torrent of water, str save DC13 or be knocked prone
+		-Farthener team of three disrupts things
+		-Bear is summoned
 
 	Tuqol - Silent muscleman HP 50
 	Seymour Drogace HP50 and three of his men
@@ -68,16 +88,17 @@ Costas - Grasping, The Trial, A mysterious face down card that won't flip over.
 	If they win, they might get stolen from at night if they stay outside of the city.
 
 	The sisters three (and help) all HP 50
-		-Sorceror (Twinned Spells!) 
-		-Druid
-		-Mage
-		-Uzerai(resistance to nonmagic)
-		-Uzerai
+		-Monireh Sorceror (Twinned Spells!) 
+		-Akusaa Druid
+		-Dacina Mage
+		-Uzerai(resistance to nonmagic) Nidin-tulugal
+		-Uzerai Gallamta-uddua
 		(knock prone via the battlemaster manuever)
 		https://5e.tools/bestiary.html#elemental%20spirit_ua2020spellsandmagictattoos
 		They are followers of a heretic elven sect who follows Uzerai and his elven disciple Amukkan instead of Aumnum-Ra
 
-
+	Psellus Zonara - Monk of the many forms school
+	Arktor Childebert - Northern, son of Partiarch, wizard.
 
 		Ray Of Frost
 			Make a ranged spell Attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
@@ -88,3 +109,45 @@ Costas - Grasping, The Trial, A mysterious face down card that won't flip over.
 
 		Guiding bolt
 			Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
+
+		Gust of wind
+			A line of Strong Wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell's Duration. Each creature that starts its turn in the line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the line.
+
+			Any creature in the line must spend 2 feet of Movement for every 1 foot it moves when moving closer to you.
+
+		Blur
+			Your body becomes blurred, shifting and wavering to all who can see you.  For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight.
+
+		Mirror Image
+
+		mAGIC mISSILE
+		You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+
+		Firebolt
+		You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage.
+
+
+Met bruno porter, clerk in the library wanted to learn about slime
+Coin Learned about plour but not as much there as expected due to geas
+Coin stole a book about astrology/theology "What lies above" -> aiming towards sun god coin
+Iris talked to Maria about the box, Maria thought it contained orders for solomon
+Met Madame alvira who foretold all their fortunes, she decided to travel with them down to Arhal.
+
+Serge did not do horrible
+Serge kill stole tuqoul
+coin killed mage
+Costas got SB
+Costas got tuquol
+Coin got cleric
+Iris got closer to seymour
+
+
+Southern names:
+-Agnes Hawtrey
+-Cathrine Bosby
+-Avairy Berkshire
+
+Northern names:
+-Sigeric Vall
+-Odo deManeual
+-Richelda deBerna
