@@ -1,0 +1,28 @@
+Elven ac is 17
+Golems is 19
+
+
+Serge 17
+brown 13 ---55
+Gall 9   ---36
+red 8    ---60
+blue 8   ---60
+Costas 7+
+Iris 7
+Coin 5
+Loras 5
+Nid 5-   ---60
+
+
+Br    red    blue
+C      I
+    Gal  Nid 	   
+    K
+
+
+          
+        L
+     S      
+
+
+

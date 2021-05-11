@@ -87,10 +87,10 @@ Nathaniel Garwood
 
 	If they win, they might get stolen from at night if they stay outside of the city.
 
-	The sisters three (and help) all HP 50
-		-Monireh Sorceror (Twinned Spells!) 
-		-Akusaa Druid
-		-Dacina Mage
+	The sisters three (and help) all HP 60
+		-Monireh Sorceror red (Twinned Spells!) 
+		-Akusaa Druid Brown 
+		-Dacina Mage Blue 
 		-Uzerai(resistance to nonmagic) Nidin-tulugal
 		-Uzerai Gallamta-uddua
 		(knock prone via the battlemaster manuever)
@@ -100,31 +100,39 @@ Nathaniel Garwood
 	Psellus Zonara - Monk of the many forms school
 	Arktor Childebert - Northern, son of Partiarch, wizard.
 
-		Ray Of Frost
+		Ray Of Frost 0
 			Make a ranged spell Attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
-		Counterspell
+
+		Counterspell 3
 		
-		Erupting earth
+		Erupting earth 3
 			Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.
 
-		Guiding bolt
+		Guiding bolt 1
 			Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-		Gust of wind
+		Gust of wind 2
 			A line of Strong Wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell's Duration. Each creature that starts its turn in the line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the line.
 
 			Any creature in the line must spend 2 feet of Movement for every 1 foot it moves when moving closer to you.
 
-		Blur
+		Blur 2
 			Your body becomes blurred, shifting and wavering to all who can see you.  For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight.
 
-		Mirror Image
+		Mirror Image 2
 
-		mAGIC mISSILE
-		You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+		mAGIC mISSILE 1
+			You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
-		Firebolt
-		You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage.
+		Firebolt 0
+			You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage.
+
+		SPIKE GROWTH 2
+			The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.
+		The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
+
+		Vine Whip 0
+			You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you. The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 
 Met bruno porter, clerk in the library wanted to learn about slime
@@ -140,6 +148,12 @@ Costas got SB
 Costas got tuquol
 Coin got cleric
 Iris got closer to seymour
+
+They learn that the militia backed by the tower plans on disrupting and arresting the tournament goers. Coin had disguised as a militia person to learn this. They know that it can't happen before kerack leaves, they know this from a conversation between Brynmor Reese and a colonel.
+
+They watched Israel harper wreck shit 
+They watched Psellus Zonara and Arktor Childebert fight with lots of colateral, Psellus won.
+They made a plan with madame alvira to escape via invis and silent image.
 
 
 Southern names:
