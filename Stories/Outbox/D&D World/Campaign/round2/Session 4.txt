@@ -1,0 +1,75 @@
+Southern names:
+-Agnes Hawtrey
+-Cathrine Bosby
+-Avairy Berkshire
+
+Northern names:
+-Sigeric Vall
+-Odo deManeual
+-Richelda deBerna
+
+Still following after the grandmaster of Geremon: Emlyn Bower
+Nathaniel Garwood - Archeologist
+
+Loras deals with the outcome of the eclipse.
+The others feel it a bit as well -> a shiver. Especially Iris. Costas feels caffinated.
+
+Seymour Drogace follows them. 
+
+The connection between Arhal and Surhal has become perilous 
+There is a increase in wild animals in the area (secretly caused by a totem of wilderness planted by the wilderness-elves)
+Several merchants have been found dead, so they requested armed guard. 
+This detered several attacks, but recently the squad assigned and the latest merchant caravan has gone missing. 
+
+Edward Wiggins - Useless count of Emmet's Station. Very hesitant. Son of the much more respected Arthur Wiggins, who died in the seige of Illithar.
+
+
+
+The most recent caravan has been totally killed, their bodies pecked to death. They see the bodies twitch a bit. 
+
+Aaron wright - Squire that went with the caravan guard. Has gone slightly to ground since the attack. 
+
+Chattering monkeys
+
+Coin 5
+Iris 
+Costas 19
+Loras 19
+
+
+Crocodile 
+Ac 12
+HP 20
+Speed 20 ft
+str 15 +2
+Atk +4 1d10 +2, on hit grappled, dc 13
+
+Swarm of wasps 
+Ac 12
+Hp 30
+Fly 30 ft
+Resistance to damage
+Atk +3 (Hp/10)*2d4
+
+Bear 
+Ac 11
+Hp 34
+Speed 40ft
+str 19 +4
+Atk +5 1d8+4
+Atk +5 2d6 +4
+
+Great Royal Heron 
+50 Hp
+Ac 17
+Speed 60ft
+Str 14 +2
+Dex 20 +5
+Con 14 +2
+Int 12 +1
+Wis 12 +1
+Cha 6 -2
+
+Atk +8  1d6 +6 X2
+Bonus action to disengage
+Rush attack DC 15 or prone

@@ -119,9 +119,12 @@ Battle Mages- Lead from their tower, these sorcerers terrorize the south, findin
 		-Footmen (500) 
 
 Geremon Infinite repose 
-	-Chapter Master Emlyn Bower
-	-
-
+	-Arhal: Chapter Master Emlyn Bower
+	-Illithar's Head: Norbert Duval, professor at the University 
+	-Dors crag: Audomar, massive former miner
+	-Malbridge: Miles Athford, associatied with tower (necro + grasping)
+	-Surhal: Bordred Rum (obstructionist)
+	-Crireton Bode: Loras 
 
 Far North:
 Jarl Sigfast Ingisson "The Wise"
