@@ -52,6 +52,10 @@ The University
 Rathar Cuebonh - current head of university
 Vicelin Leuthard - Previous head of university. Trained both Rathar and Quentin   
 
+Spy Network:
+Charles Gribard - Former adventurer merchant in Havinstead
+Xavier Gribard - Former Adventurer store owner in Surhal 
+
 Random People:
 Herleva Cardis-lieutenant 
 Alhild - Agent
@@ -117,6 +121,14 @@ Battle Mages- Lead from their tower, these sorcerers terrorize the south, findin
 
 	Knights of the Eye (25) - Trained spellswords and inquisitors.
 		-Footmen (500) 
+
+Surhal
+	Geremon Preist - Bordred Rum 
+	"Fallen Pentarch"-Domanis Lascarius
+	Fisherguild - Corbus Godrun
+
+	Xavier Gribard - Former Adventurer store owner in Surhal, part of spy network
+
 
 Geremon Infinite repose 
 	-Arhal: Chapter Master Emlyn Bower

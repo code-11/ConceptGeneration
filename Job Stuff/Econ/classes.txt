@@ -1,0 +1,31 @@
+Fundamental:
+-Probability
+-Micro
+-Macro
+
+
+6.041 Introduction to Probability
+14.01 Principles of Microeconomics
+14.02 Principles of Macroeconomics
+14.03 Microeconomic Theory and Public Policy
+17.03 Introduction to Political Thought
+**14.30 Introduction to Statistical Methods in Economics
+14.12 Economic Applications of Game Theory
+
+17.03 Introduction to Political Thought
+17.115 International Political Economy
+
+17.30[J] Making Public Policy
+15.815 Applied Behavioral Economics
+
+Updated Resume
+Statement of purpose
+Official Transcripts
+
+-Drop economics professor an email
+-Add economics
+-Explanation of difference btween first and second lines of tools
+-Discussion of expereince at BBN, specific projects
+-Add line about "Worked collaboratively with x member team - git"
+-Location for ACM proceeding
+-Add information about patent "Submitted.. for unified simultaneous visual presentation of multi-screen data input"
